@@ -1,0 +1,64 @@
+<!doctype html>
+<html ng-app="SampleApp">
+<head>
+  <meta charset="utf-8">
+  <title>Angular FusionCharts</title>
+  <link href="app/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="app/css/site.css">
+</head>
+<body class="ng-cloak">
+<div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+        <div class="container-fluid">
+            <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="brand" href="#">Angular FusionCharts</a>
+            <div class="nav-collapse collapse">
+                <ul class="nav">
+                    <li class="active"><a href="#">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </div><!--/.nav-collapse -->
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid">
+
+    <div class="row-fluid">
+        <div class="span9">
+            <div ng-view></div>
+        </div><!--/span-->
+        <div class="span3">
+            <h3>Current version</h3>
+            <ul class="unstyled">
+                <li><a href="" >Release Notes</a></li>
+                <li><a href="" >Source Code</a></li>
+            </ul>
+            <p><a class="btn btn-success btn-large" href="#">Download <small>v.0.0.1</small> &raquo;</a></p>
+            <div ng-include="'app/partials/menu.html'"></div>
+        </div><!--/span-->
+    </div><!--/row-->
+
+
+    <hr>
+
+    <footer>
+        <p>&copy; Company 2013</p>
+    </footer>
+
+</div><!--/.fluid-container-->
+
+  <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+  <script src="app/charts/FusionCharts.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.0.6/angular.min.js"></script>
+  <script src="build/angular-fusioncharts.js"></script>
+  <script src="app/js/app.js"></script>
+  <script src="app/js/controllers.js"></script>
+
+</body>
+</html>
