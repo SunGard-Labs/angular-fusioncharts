@@ -1,93 +1,12 @@
-<div>
-    <select ng-model="chartType">
-        <option value="AngularGauge">Angular Gauge</option>
-        <option value="Area2D">Area 2D</option>
-        <option value="Bar2D">Bar 2D</option>
-        <option value="BoxAndWhisker2D">Box and Whisker 2D</option>
-        <option value="Bubble">Bubble</option>
-        <option value="Bulb">Bulb</option>
-        <option value="CandleStick">Candlestick</option>
-        <option value="Column2D">Columns 2D</option>
-        <option value="Column3D">Columns 3D</option>
-        <option value="Cylinder">Cylinder</option>
-        <option value="Doughnut2D">Doughnut 2D</option>
-        <option value="Doughnut3D">Doughnut 3D</option>
-        <option value="DragArea">Drag Area</option>
-        <option value="DragColumn2D">Drag Column 2D</option>
-        <option value="DragLine">Drag Line</option>
-        <option value="DragNode">Drag Node</option>
-        <option value="DrawingPad">DrawingPad</option>
-        <option value="ErrorBar2D">Error Bar 2D</option>
-        <option value="ErrorLine">Error Line</option>
-        <option value="ErrorScatter">Error Scatter</option>
-        <option value="Funnel">Funnel</option>
-        <option value="Gantt">Gantt</option>
-        <option value="HBullet">Hbullet</option>
-        <option value="HeatMap">Heat Map</option>
-        <option value="HLED">HLED</option>
-        <option value="HLinearGauge">H Linear Gauge</option>
-        <option value="InverseMSArea">Inverse MS Area</option>
-        <option value="InverseMSColumn2D">Inverse MS Column 2D</option>
-        <option value="InverseMSLine">Inverse MS Line</option>
-        <option value="Kagi">Kagi</option>
-        <option value="Line">Line</option>
-        <option value="LogMSColumn2D">Log MS Column 2D</option>
-        <option value="LogMSLine">Log MS Line</option>
-        <option value="Marimekko">Marimekko</option>
-        <option value="MSArea">MS Area</option>
-        <option value="MSBar2D">MS Bar 2D</option>
-        <option value="MSBar3D">MS Bar 3D</option>
-        <option value="MSColumn3DLineDY">MS Column 3D Line DY</option>
-        <option value="MSColumnLine3D">MS Column Line 3D</option>
-        <option value="MSCombi2D">MS Combi 2D</option>
-        <option value="MSCombi3D">MS Combi 3D</option>
-        <option value="MSCombiDY2D">MS Combi DY2D</option>
-        <option value="MSLine">MS Line</option>
-        <option value="MSSpline">MS Spline</option>
-        <option value="MSSplineArea">MS Spline Area</option>
-        <option value="MSStackedColumn2D">MS Stacked Column 2D</option>
-        <option value="MSStackedColumn2DLineDY">MS Stacked Column 2D Line DY</option>
-        <option value="MSStepLine">MS Step Line</option>
-        <option value="MultiAxisLine">Multi Axis Line</option>
-        <option value="MultiLevelPie">Multi-Level Pie</option>
-        <option value="Pareto2D">Pareto 2D</option>
-        <option value="Pareto3D">Pareto 3D</option>
-        <option value="Pie2D">Pie 2D</option>
-        <option value="Pie3D">Pie 3D</option>
-        <option value="Pyramid">Pyramid</option>
-        <option value="Radar">Radar</option>
-        <option value="RealTimeArea">RealtTime Area</option>
-        <option value="RealTimeColumn">RealtTime Column</option>
-        <option value="RealTimeLine">RealTime Line</option>
-        <option value="RealTimeLineDY">RealTime Line DY</option>
-        <option value="RealTimeStackedArea">RealTime Stacked Area</option>
-        <option value="RealTimeStackedColumn">RealTime Stacked Column</option>
-        <option value="Scatter">Scatter</option>
-        <option value="ScrollArea2D">Scroll Area 2D</option>
-        <option value="ScrollColumn2D">Scroll Column 2D</option>
-        <option value="ScrollCombi2D">Scroll Combi 2D</option>
-        <option value="ScrollCombiDY2D">Scroll Combi DY 2D</option>
-        <option value="ScrollLine2D">Scroll Line 2D</option>
-        <option value="ScrollStackedColumn2D">Scroll Stacked Column 2D</option>
-        <option value="SelectScatter">Select Scatter</option>
-        <option value="SparkColumn">Spark Column</option>
-        <option value="SparkLine">Spark Line</option>
-        <option value="SparkWinLoss">Spark Win/Loss</option>
-        <option value="Spline">Spline</option>
-        <option value="SplineArea">Spline Area</option>
-        <option value="SSGrid">SSGrid</option>
-        <option value="StackedArea2D">Stacked Area 2D</option>
-        <option value="StackedBar2D">Stacked Bar 2D</option>
-        <option value="StackedColumn2D">Stacked Column 2D</option>
-        <option value="StackedColumn2DLine">Stacked Column 2D Line</option>
-        <option value="StackedColumn3D">Stacked Column 3D</option>
-        <option value="StackedColumn3DLine">Stacked Column 3D Line</option>
-        <option value="StackedColumn3DLineDY">Stacked Column 3D Line DY</option>
-        <option value="Thermometer">Thermometer</option>
-        <option value="VBullet">V Bullet</option>
-        <option value="VLED">VLED</option>
-        <option value="Waterfall2D">Waterfall 2D</option>
-        <option value="ZoomLine">ZoomLine</option>
-    </select>
+<div class='span9'>
+    <div fc-chart fc-chart-type="Column3D" height="450"></div>
 </div>
-<div fc-chart fc-data="app/charts/Data.xml" fc-chart-type="{{chartType}}" height="450"></div>
+
+<div class='span3'>
+    <h3>Demos</h3>
+    <div class="well sidebar-nav" ng-controller="DemoListCtrl">
+        <ul ng-repeat='demo in demos' class="nav nav-list">
+            <li><a href="#">{{demo.name}}</a></li>
+        </ul>
+    </div><!--/.well -->
+</div>
