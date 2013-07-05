@@ -28,21 +28,25 @@
 </div>
 
 <div class="container-fluid">
-
     <div class="row-fluid">
-        <div class="span9">
-            <div ng-view></div>
-        </div><!--/span-->
-        <div class="span3">
-            <h3>Current version</h3>
-            <ul class="unstyled">
-                <li><a href="" >Release Notes</a></li>
-                <li><a href="" >Source Code</a></li>
-            </ul>
-            <p><a class="btn btn-success btn-large" href="#">Download <small>v.0.0.1</small> &raquo;</a></p>
-            <div ng-include="'app/partials/menu.html'"></div>
-        </div><!--/span-->
+      <div class="span9">
+        <h3>Instructions:</h3>
+        <p>Instructions will go here</p>
+        <pre>Code sample can go here</pre>
+      </div>
+      <div class="span3">
+        <h3>Current version</h3>
+        <ul class="unstyled">
+          <li><a href="" >Release Notes</a></li>
+          <li><a href="" >Source Code</a></li>
+        </ul>
+        <p><a class="btn btn-success btn-large" href="#">Download <small>v.0.0.1</small> &raquo;</a></p>
+      </div><!--/span-->
     </div><!--/row-->
+    <div class="row-fluid">
+      <div ng-view>
+      </div>
+    </div>
 
 
     <hr>
