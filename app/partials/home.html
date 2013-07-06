@@ -1,12 +1,14 @@
+<div class='row-fluid' ng-controller="DemoListCtrl">
 <div class='span9'>
-    <div fc-chart fc-chart-type="Column3D" height="450"></div>
+    <div id="chartDiv" fc-chart fc-chart-type="{{chartType}}" fc-data="{{chartData}}" height="450"></div>
 </div>
 
 <div class='span3'>
     <h3>Demos</h3>
-    <div class="well sidebar-nav" ng-controller="DemoListCtrl">
+    <div class="well sidebar-nav" >
         <ul ng-repeat='demo in demos' class="nav nav-list">
-            <li><a href="#">{{demo.name}}</a></li>
+            <li><a href="#" ng-click="setDemo(demo)">{{demo.name}}</a></li>
         </ul>
     </div><!--/.well -->
+</div>
 </div>

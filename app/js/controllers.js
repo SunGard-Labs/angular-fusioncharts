@@ -7,6 +7,8 @@ function SettingsCtrl($scope) {
 }
 
 function DemoListCtrl ($scope) {
+	$scope.chartType = "Column3D";
+	$scope.chartData = "/app/charts/Data.xml";
 	$scope.demos = [{name:'100PStArea1',
 		chartType:'StackedArea2D'},
 		{name:'100PStBar2D1',
@@ -273,6 +275,10 @@ function DemoListCtrl ($scope) {
 		chartType:'ZoomLine'},
 		{name:'Zoomline',
 		chartType:'ZoomLine'}
-	]
+	];
+
+	$scope.setDemo = function(item) {
+		$scope.chartType = item.chartType;
+	}
 
 }
