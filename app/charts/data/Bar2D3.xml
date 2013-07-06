@@ -1,0 +1,7 @@
+<chart caption='Fruit Production for March' subCaption='(in Millions)' yAxisName='Quantity' xAxisName='Fruit' alternateVGridColor='AFD8F8' baseFontColor='114B78' toolTipBorderColor='114B78' toolTipBgColor='E7EFF6' plotBorderDashed='1' plotBorderDashLen='2' plotBorderDashGap='2'  useRoundEdges='1' showBorder='0' bgColor='FFFFFF,FFFFFF'>
+	<set label='Orange' value='23' color='AFD8F8'/> 
+	<set label='Apple' value='12' color='F6BD0F'/> 
+	<set label='Banana' value='17' color='8BBA00'/> 
+	<set label='Mango' value='14'  color='A66EDD'/> 
+	<set label='Litchi' value='12'  color='F984A1'/>
+</chart>

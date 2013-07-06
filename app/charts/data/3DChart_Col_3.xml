@@ -1,0 +1,66 @@
+﻿<chart caption="Weather Report" subCaption="Temperature"  xaxisname="Places" yaxisname="Degree  Fahrenheit"  clustered="0" zeroPlaneMesh="0" zeroPlaneColor="68BDFF" zeroPlaneAlpha="50" palette="3" bgColor="66D6FF,FFFFFF,ffffff" bgRatio="20,60,20" bgAlpha="10,10,40" divLineEffect="none" numDivLines="3" legendBgAlpha="90" legendShadow="0" intensity=".02" startAngX='4.5' startAngY='-6.6' endAngX='4.5' endAngY='-6.6' exeTime='2' numberSuffix='°'>
+      <categories>
+        <category label="Jan"/>
+        <category label="Feb"/>
+        <category label="Mar"/>
+        <category label="Apr"/>
+        <category label="May"/>
+        <category label="Jun"/>
+        <category label="Jul"/>
+        <category label="Aug"/>
+        <category label="Sep"/>
+        <category label="Oct"/>
+        <category label="Nov"/>
+        <category label="Dec"/>
+      </categories>
+      <dataset seriesName="New York" color="F97D10" >
+        <set value="-6"/>
+        <set value="-15"/>
+        <set value="3"/>
+        <set value="12"/>
+        <set value="32"/>
+        <set value="44"/>
+        <set value="52"/>
+        <set value="50"/>
+        <set value="39"/>
+        <set value="28"/>
+        <set value="5"/>
+        <set value="-13"/>
+      </dataset>
+      <dataset seriesName="Chicago" >
+        <set value="-27"/>
+        <set value="-19"/>
+        <set value="-8"/>
+        <set value="7"/>
+        <set value="24"/>
+        <set value="36"/>
+        <set value="40"/>
+        <set value="41"/>
+        <set value="28"/>
+        <set value="17"/>
+        <set value="1"/>
+        <set value="-25"/>
+      </dataset>
+      <dataset seriesName="Bismarck" color="3994F9" >
+        <set value="-44"/>
+        <set value="-43"/>
+        <set value="-31"/>
+        <set value="-12"/>
+        <set value="15"/>
+        <set value="30"/>
+        <set value="35"/>
+        <set value="33"/>
+        <set value="11"/>
+        <set value="-10"/>
+        <set value="-30"/>
+        <set value="-43"/>
+      </dataset>
+<styles>
+<definition>
+<style name='captionFont' type='font' size='15' />
+</definition>
+<application>
+<apply toObject='caption' styles='captionfont' />
+</application>
+</styles>
+</chart>

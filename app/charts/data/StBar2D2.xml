@@ -1,0 +1,122 @@
+<chart xaxisname='Months'  yaxisname='Sales'  caption='Cumulative Sales' subcaption='(From Dec-03 to Dec-04)'  animation='1'  numDivLines='2' numberPrefix='$' showValues='0' yAxisMinValue="-2000">
+	<categories>
+		<category label='Dec-03' showLabel='1' />
+		<category label='Jan-04' showLabel='0' />
+		<category label='Feb-04' showLabel='1' />
+		<category label='Mar-04' showLabel='0' />
+		<category label='Apr-04' showLabel='1' />
+		<category label='May-04' showLabel='0' />
+		<category label='Jun-04' showLabel='1' />
+		<category label='Jul-04' showLabel='0' />
+		<category label='Aug-04' showLabel='1' />
+		<category label='Sep-04' showLabel='0' />
+		<category label='Oct-04' showLabel='1' />
+		<category label='Nov-04' showLabel='0' />
+		<category label='Dec-04' showLabel='1' />
+	</categories>
+	<dataset seriesName='Product1' color='0080C0'>
+		<set value='810' />
+		<set value='930' />
+		<set value='1110' />
+		<set value='1300' />
+		<set value='1890' />
+		<set value='2350' />
+		<set value='2740' />
+		<set value='3050' />
+		<set value='3570' />
+		<set value='4390' />
+		<set value='5610' />
+		<set value='7160' />
+		<set value='7750' />
+	</dataset>
+	<dataset seriesName='Product2' color='008040'>
+		<set value='380' />
+		<set value='390' />
+		<set value='420' />
+		<set value='490' />
+		<set value='900' />
+		<set value='1160' />
+		<set value='1350' />
+		<set value='1510' />
+		<set value='1790' />
+		<set value='2140' />
+		<set value='2660' />
+		<set value='3850' />
+		<set value='4070' />
+	</dataset>
+	<dataset seriesName='Product3' color='FFFF00'>
+		<set value='220' />
+		<set value='240' />
+		<set value='280' />
+		<set value='350' />
+		<set value='580' />
+		<set value='630' />
+		<set value='670' />
+		<set value='740' />
+		<set value='790' />
+		<set value='920' />
+		<set value='1050' />
+		<set value='1290' />
+		<set value='1320' />
+	</dataset>
+	<dataset seriesName='Product4' color='800080'>
+		<set value='0' />
+		<set value='0' />
+		<set value='0' />
+		<set value='20' />
+		<set value='50' />
+		<set value='50' />
+		<set value='60' />
+		<set value='60' />
+		<set value='60' />
+		<set value='80' />
+		<set value='130' />
+		<set value='170' />
+		<set value='170' />
+	</dataset>
+	<dataset seriesName='Product5' color='EB59CB'>
+		<set value='0' />
+		<set value='0' />
+		<set value='0' />
+		<set value='0' />
+		<set value='0' />
+		<set value='0' />
+		<set value='10' />
+		<set value='10' />
+		<set value='10' />
+		<set value='10' />
+		<set value='20' />
+		<set value='20' />
+		<set value='20' />
+	</dataset>
+	<dataset seriesName='Cancelled' color='FFCC00'>
+		<set value='-50' />
+		<set value='-50' />
+		<set value='-70' />
+		<set value='-90' />
+		<set value='-100' />
+		<set value='-110' />
+		<set value='-150' />
+		<set value='-260' />
+		<set value='-320' />
+		<set value='-350' />
+		<set value='-500' />
+		<set value='-630' />
+		<set value='-650' />
+	</dataset>
+	<dataset seriesName='Deleted' color='FF0000'>
+		<set value='-180' />
+		<set value='-210' />
+		<set value='-260' />
+		<set value='-320' />
+		<set value='-580' />
+		<set value='-680' />
+		<set value='-780' />
+		<set value='-900' />
+		<set value='-1060' />
+		<set value='-1320' />
+		<set value='-1520' />
+		<set value='-1650' />
+		<set value='-1660' />
+	</dataset>
+</chart>

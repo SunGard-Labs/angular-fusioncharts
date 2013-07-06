@@ -1,0 +1,78 @@
+<chart caption='Market Activity' yAxisName='Listings' showvalues='0' areaOverColumns='0' showPercentValues='1'>
+
+	<categories>
+		<category label='Jan' />
+		<category label='Feb' />
+		<category label='Mar' />
+		<category label='Apr' />
+		<category label='May' />
+		<category label='Jun' />
+		<category label='Jul' />
+		<category label='Aug' />
+		<category label='Sep' />
+		<category label='Oct' />
+		<category label='Nov' />
+		<category label='Dec' />
+	</categories>
+
+	<dataset seriesName='New Listings' color='FBAB35'>
+		<set value='370' />
+		<set value='401' />
+		<set value='342' />
+		<set value='370' />
+		<set value='414' />
+		<set value='385' />
+		<set value='400' />
+		<set value='456' />
+		<set value='340' />
+		<set value='390' />
+		<set value='332' />
+		<set value='401' />
+	</dataset>
+
+	<dataset seriesName='Re-list' color='DA3608' >
+		<set value='325' />
+		<set value='305' />
+		<set value='295' />
+		<set value='345' />
+		<set value='285' />
+		<set value='315' />
+		<set value='295' />
+		<set value='335' />
+		<set value='300' />
+		<set value='320' />
+		<set value='285' />
+		<set value='260' />
+	</dataset>
+
+	<dataset seriesName='Sold' color='015887'>
+		<set value='155' />
+		<set value='135' />
+		<set value='125' />
+		<set value='175' />
+		<set value='115' />
+		<set value='145' />
+		<set value='125' />
+		<set value='165' />
+		<set value='130' />
+		<set value='150' />
+		<set value='115' />
+		<set value='90' />
+	</dataset>
+
+	<dataset seriesName='Withdrawn' color='78AE1C'>
+		<set value='76' />
+		<set value='85' />
+		<set value='64' />
+		<set value='105' />
+		<set value='56' />
+		<set value='78' />
+		<set value='56' />
+		<set value='105' />
+		<set value='80' />
+		<set value='100' />
+		<set value='67' />
+		<set value='82' />
+	</dataset>
+
+</chart>

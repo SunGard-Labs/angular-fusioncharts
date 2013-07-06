@@ -1,0 +1,6 @@
+<chart caption='Airline Delay Causes' showPercentageInLabel='1' showValues='1' showLabels='1' showLegend='1'>
+	<set value='14.94' label='Weather' color='429EAD'/> 
+	<set value='19.17' label='Volume' color='4249AD'/> 
+	<set value='7.14' label='Closed Runway' color='AD42A2'/> 
+	<set value='7.75' label='Others' color='D4AC31'/>
+</chart>

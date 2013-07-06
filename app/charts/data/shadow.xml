@@ -1,0 +1,25 @@
+<chart animation="1" showvalues="0" caption="" subcaption="" numberprefix="" chartrightmargin="15" xaxisname="" yaxisname="" pyaxisname="" canvasborderalpha="0" bgcolor="FFFFFF" bgratio="0" bgalpha="50" showalternatehgridcolor="0" numdivlines="0" showyaxisvalues="0" showlegend="0" chartleftmargin="35" charttopmargin="25" chartbottommargin="35" drawanchors="0" bordercolor="970000" borderalpha="31" stack100percent="0" linethickness="3" basefontsize="12" >
+ <categories>
+  <category label="Jan"/>
+  <category label="Feb"/>
+  <category label="Mar"/>
+  <category label="Apr"/>
+  <category label="May"/>
+ </categories>
+ <dataset seriesName="2008" color_cc="CE0000" color="CE0000">
+  <set value="235"/>
+  <set value="125"/>
+  <set value="264"/>
+  <set value="234"/>
+  <set value="389"/>
+ </dataset>
+ <dataset seriesName="2007" color="7F7F7F" color_cc="7F7F7F">
+  <set value="190"/>
+  <set value="107"/>
+  <set value="203"/>
+  <set value="145"/>
+  <set value="175"/>
+ </dataset>
+ <styles><definition>
+ <style type="Shadow" name="Shadow_0" Distance="8" Color="8F8F8F" Alpha="50" blurY="5"/>
+ </definition><application><apply toObject="DATAPLOT" styles="Shadow_0"/></application></styles></chart>

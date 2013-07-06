@@ -1,0 +1,132 @@
+<chart caption='Site hits per hour' subCaption='In Thousands' numdivlines='9' lineThickness='2' showValues='0' anchorRadius='3' anchorBgAlpha='50' numVDivLines='24' showAlternateVGridColor='1' alternateVGridAlpha='3' animation='0'>
+<categories >
+<category label='00:00' />
+<category label='01:00' />
+<category label='02:00' />
+<category label='03:00' />
+<category label='04:00' />
+<category label='05:00' />
+<category label='06:00' />
+<category label='07:00' />
+<category label='08:00' />
+<category label='09:00' />
+<category label='10:00' />
+<category label='11:00' />
+<category label='12:00' />
+<category label='13:00' />
+<category label='14:00' />
+<category label='15:00' />
+<category label='16:00' />
+<category label='17:00' />
+<category label='18:00' />
+<category label='19:00' />
+<category label='20:00' />
+<category label='21:00' />
+<category label='22:00' />
+<category label='23:00' />
+</categories>
+<dataset seriesName='Tue' color='800080' anchorBorderColor='800080'>
+<set value='54' />
+<set value='165' />
+<set value='175' />
+<set value='190' />
+<set value='212' />
+<set value='241' />
+<set value='308' />
+<set value='401' />
+<set value='481' />
+<set value='851' />
+<set value='1250' />
+<set value='2415' />
+<set value='2886' />
+<set value='3252' />
+<set value='3673' />
+<set value='4026' />
+<set value='4470' />
+<set value='4813' />
+<set value='4961' />
+<set value='5086' />
+<set value='5284' />
+<set value='5391' />
+<set value='5657' />
+<set value='5847' />
+</dataset>
+<dataset seriesName='Wed' color='FF8040' anchorBorderColor='FF8040'>
+<set value='111' />
+<set value='120' />
+<set value='128' />
+<set value='140' />
+<set value='146' />
+<set value='157' />
+<set value='190' />
+<set value='250' />
+<set value='399' />
+<set value='691' />
+<set value='952' />
+<set value='1448' />
+<set value='1771' />
+<set value='2316' />
+<set value='2763' />
+<set value='3149' />
+<set value='3637' />
+<set value='4015' />
+<set value='4262' />
+<set value='4541' />
+<set value='4837' />
+<set value='5016' />
+<set value='5133' />
+<set value='5278' />
+</dataset>
+<dataset seriesName='Thu' color='FFFF00' anchorBorderColor='FFFF00' >
+<set value='115' />
+<set value='141' />
+<set value='175' />
+<set value='189' />
+<set value='208' />
+<set value='229' />
+<set value='252' />
+<set value='440' />
+<set value='608' />
+<set value='889' />
+<set value='1334' />
+<set value='1637' />
+<set value='2056' />
+<set value='2600' />
+<set value='3070' />
+<set value='3451' />
+<set value='3918' />
+<set value='4140' />
+<set value='4296' />
+<set value='4519' />
+<set value='4716' />
+<set value='4881' />
+<set value='5092' />
+<set value='5249' />
+</dataset>
+<dataset seriesName='Fri' color='FF0080' anchorBorderColor='FF0080' >
+<set value='98' />
+<set value='1112' />
+<set value='1192' />
+<set value='1219' />
+<set value='1264' />
+<set value='1282' />
+<set value='1365' />
+<set value='1433' />
+<set value='1559' />
+<set value='1823' />
+<set value='1867' />
+<set value='2198' />
+<set value='1112' />
+<set value='1192' />
+<set value='1219' />
+<set value='2264' />
+<set value='2282' />
+<set value='2365' />
+<set value='2433' />
+<set value='2559' />
+<set value='2823' />
+<set value='2867' />
+<set value='2867' />
+<set value='2867' />
+</dataset>
+</chart>

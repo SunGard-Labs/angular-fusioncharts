@@ -1,0 +1,52 @@
+<chart palette='2' caption='Sales by Product' subCaption='March 2006' showValues='0' divLineDecimalPrecision='1' limitsDecimalPrecision='1' PYAxisName='Amount' SYAxisName='Quantity' numberPrefix='$' formatNumberScale='0'>
+<categories>
+<category label='A' />
+<category label='B' />
+<category label='C' />
+<category label='D' />
+<category label='E' />
+<category label='F' />
+<category label='G' />
+<category label='H' />
+<category label='I' />
+<category label='J' />
+</categories>
+
+<dataset seriesName='Revenue'>
+<set value='5854' />
+<set value='4171' />
+<set value='1375' />
+<set value='1875' />
+<set value='2246' />
+<set value='2696' />
+<set value='1287' />
+<set value='2140' />
+<set value='1603' />
+<set value='1628' />
+</dataset>
+<dataset seriesName='Profit' renderAs='Area' parentYAxis='P'>
+<set value='3242' />
+<set value='3171' />
+<set value='700' />
+<set value='1287' />
+<set value='1856' />
+<set value='1126' />
+<set value='987' />
+<set value='1610' />
+<set value='903' />
+<set value='928' />
+</dataset>
+
+<dataset lineThickness='3' seriesName='Quantity' parentYAxis='S'>
+<set value='174' />
+<set value='197' />
+<set value='155' />
+<set value='15' />
+<set value='66' />
+<set value='85' />
+<set value='37' />
+<set value='10' />
+<set value='44' />
+<set value='322' />
+</dataset>
+</chart>

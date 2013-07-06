@@ -1,0 +1,27 @@
+<chart showvalues="0" caption="Market Share Analysis" subcaption="2009" numberprefix="$" xaxisname="Market Segment" pyaxisname="Market Share" legendcaption="Manufacturer" >
+
+   <categories>
+     <category label="Desktop"/>
+     <category label="Laptop"/>
+     <category label="Notebook"/>
+   </categories>
+
+   <dataset seriesName="A">
+     <set value="335000"/>
+     <set value="225100"/>
+     <set value="164200"/>
+   </dataset>
+
+   <dataset seriesName="B">
+     <set value="215000"/>
+     <set value="198000"/>
+     <set value="120000"/>
+   </dataset>
+
+   <dataset seriesName="C">
+     <set value="298000"/>
+     <set value="109300"/>
+     <set value="153600"/>
+   </dataset>
+
+</chart>

@@ -1,0 +1,56 @@
+<chart caption='Annual Revenue' subcaption='In Million $'  xaxisname='Year' PYaxisname='Sales in M$' SYAxisName='Cost as % of Revenue' decimals='0' numberPrefix='$' numberSuffix='M' sNumberSuffix='%25' setAdaptiveSYMin='1' showPlotBorder='1' palette='2'>
+	<categories font='Arial' fontSize='12' fontColor='000000'>
+		<category label='2001'/>
+		<category label='2002'/>
+		<category label='2003'/>
+		<category label='2004'/>
+		<category label='2005'/>
+	</categories>
+	<dataset>
+		<dataSet seriesName='Product A' color='AFD8F8' showValues='0'>
+			<set value='30' />
+			<set value='26' />
+			<set value='29' />
+			<set value='31' />
+			<set value='34' />
+		</dataSet>
+		<dataSet seriesName='Product B' color='F6BD0F'  showValues='0'>
+			<set value='21' />
+			<set value='28' />
+			<set value='39' />
+			<set value='41' />
+			<set value='24' />
+		</dataSet>	
+	</dataset>	
+	<dataSet>
+		<dataset seriesname='Service A' color='8BBA00' showValues='0'>
+			<set value='27' />
+			<set value='25' />
+			<set value='28' />
+			<set value='26' />
+			<set value='10' />
+		</dataset>
+		<dataset seriesname='Service B' color='A66EDD' showValues='0'>
+			<set value='17' />
+			<set value='15' />
+			<set value='18' />
+			<set value='16' />
+			<set value='10' />
+		</dataset>
+		<dataset seriesname='Service C' color='F984A1' showValues='0'>
+			<set value='12' />
+			<set value='17' />
+			<set value='16' />
+			<set value='15' />
+			<set value='12' />
+		</dataset>		
+	</dataSet>
+	<lineSet seriesname='Cost as % of Revenue' showValues='0' lineThickness='4' >
+		<set value='57' />
+		<set value='68' />
+		<set value='79' />
+		<set value='73' />
+		<set value='80' />
+	</lineSet>
+
+</chart>

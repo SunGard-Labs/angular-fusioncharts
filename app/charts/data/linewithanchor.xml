@@ -1,0 +1,44 @@
+<chart caption="Monthly Report" subCaption="Unique Visitors" yAxisName="Visitor Count" xAxisName="Date" 
+	
+	showValues="0" showShadow="0" formatNumberScale="0" showLimits='0' 
+	canvasBorderAlpha='0' showBorder='0'
+	divLineAlpha='30'
+		
+	anchorRadius='4' anchorBgColor='0377D0' anchorBorderColor='FFFFFF' anchorBorderThickness='1' anchorAlpha="90" 
+	showPlotBorder='1' plotBorderThickness='4' plotBorderColor='0377D0' plotFillColor='0377D0'  plotGradientColor='' plotFillAlpha='20' bgColor='FFFFFF' 
+	showAlternateHGridColor='0' numVDivLines='2' 
+	 toolTipBgColor ="DEF1FF" toolTipBorderColor ="2C516D">
+	<set label="1 March 2009" value="490" />
+	<set label="2 March 2009" value="510" />
+	<set label="3 March 2009" value="1546" />
+	<set label="4 March 2009" value="1250" />
+	<set label="5 March 2009" value="1000" />
+	<set label="6 March 2009" value="540" />
+	<set label="7 March 2009" value="560" />
+	<set label="8 March 2009" value="580" />
+	<set label="9 March 2009" value="600" />
+	<set label="10 March 2009" value="620" />
+	<set label="11 March 2009" value="640" />
+	<set label="12 March 2009" value="660" />
+	<set label="13 March 2009" value="680" />
+	<set label="14 March 2009" value="700" />
+	<set label="15 March 2009" value="730" />
+	<set label="16 March 2009" value="760" />
+	<set label="17 March 2009" value="790" />
+	<set label="18 March 2009" value="800" />
+	<set label="19 March 2009" value="795" />
+	<set label="20 March 2009" value="790" />
+	<set label="21 March 2009" value="770" />
+	<set label="22 March 2009" value="750" />
+	<set label="23 March 2009" value="1150" />
+	<set label="24 March 2009" value="1140" />
+	<set label="25 March 2009" value="730" />
+	<set label="26 March 2009" value="710" />
+	<set label="27 March 2009" value="700" />
+	<set label="28 March 2009" value="690" />
+	<set label="29 March 2009" value="670" />
+	<set label="30 March 2009" value="680" />
+	<set label="31 March 2009" value="690" />
+
+
+</chart>

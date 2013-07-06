@@ -1,0 +1,77 @@
+<chart caption='Visits from search engines' showValues='0' plotFillAlpha='95' formatNumberScale='0'>
+
+	<categories>
+		<category label='Jan' />
+		<category label='Feb' />
+		<category label='Mar' />
+		<category label='Apr' />
+		<category label='May' />
+		<category label='Jun' />
+		<category label='Jul' />
+		<category label='Aug' />
+		<category label='Sep' />
+		<category label='Oct' />
+		<category label='Nov' />
+		<category label='Dec' />
+	</categories>
+
+	<dataset seriesName='Google'>
+		<set value='3040' />
+		<set value='2794' />
+		<set value='3026' />
+		<set value='3341' />
+		<set value='2800' />
+		<set value='2507' />
+		<set value='3701' />
+		<set value='2671' />
+		<set value='2980' />
+		<set value='2041' />
+		<set value='1813' />
+		<set value='1691' />
+	</dataset>
+
+	<dataset seriesName='Yahoo'>
+		<set value='1200' />
+		<set value='1124' />
+		<set value='1006' />
+		<set value='921' />
+		<set value='1500' />
+		<set value='1007' />
+		<set value='921' />
+		<set value='971' />
+		<set value='1080' />
+		<set value='1041' />
+		<set value='1113' />
+		<set value='1091' />
+	</dataset>
+
+	<dataset seriesName='MSN'>
+		<set value='600' />
+		<set value='724' />
+		<set value='806' />
+		<set value='621' />
+		<set value='700' />
+		<set value='907' />
+		<set value='821' />
+		<set value='671' />
+		<set value='880' />
+		<set value='641' />
+		<set value='913' />
+		<set value='691' />
+	</dataset>
+
+	<dataset seriesName='Others'>
+		<set value='965' />
+		<set value='771' />
+		<set value='732' />
+		<set value='611' />
+		<set value='700' />
+		<set value='607' />
+		<set value='621' />
+		<set value='751' />
+		<set value='800' />
+		<set value='741' />
+		<set value='813' />
+		<set value='791' />
+	</dataset>
+</chart>

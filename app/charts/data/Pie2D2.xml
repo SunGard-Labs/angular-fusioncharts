@@ -1,0 +1,7 @@
+<chart caption="Pie Chart" numberPrefix="$">
+	<set value="25" label="Item A" color="AFD8F8" /> 
+	<set value="17" label="Item B" color="F6BD0F" /> 
+	<set value="23" label="Item C" color="8BBA00" isSliced="1" /> 
+	<set value="65" label="Item D" color="A66EDD" /> 
+	<set value="22" label="Item E" color="F984A1" /> 
+</chart>

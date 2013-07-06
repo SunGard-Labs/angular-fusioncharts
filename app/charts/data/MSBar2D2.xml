@@ -1,0 +1,21 @@
+<chart caption='Business Results: 2005' yAxisName='Revenue (Millions)' canvasBgColor='FEFEFE' canvasBaseColor='FEFEFE' toolTipBgColor='DEDEBE' toolTipBorder='889E6D' divLineColor='999999' showColumnShadow='0' divLineIsDashed='1' divLineDashLen='1' divLineDashGap='2' numberPrefix='$' numberSuffix='M' chartRightMargin='30'>
+
+	<categories>
+		<category label='Hardware'/>
+		<category label='Software' />
+		<category label='Service' />
+	</categories>
+
+	<dataset seriesname='Domestic' color='8EAC41'>
+		<set value='84' />
+		<set value='207' />
+		<set value='116' />
+	</dataset>
+
+	<dataset seriesname='International' color='607142' >
+		<set value='116' />
+		<set value='237' />
+		<set value='83' />
+	</dataset>
+
+</chart> 
