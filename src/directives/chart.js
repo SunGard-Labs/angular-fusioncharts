@@ -22,7 +22,7 @@ fc.directive('fcChart', ['$timeout', function($timeout) {
         replace: true,
         link: function(scope, element, attrs) {
             $timeout(function() {
-                scope.chartId = scope.chartId || scope.id || 'fcChart' + (counter++);
+                scope.chartId = scope.chartId || 'fcChart' + (counter++);
                 if( !scope.id ) {
                     scope.id = scope.chartId + 'Id';
                     element.attr('id', scope.id);
