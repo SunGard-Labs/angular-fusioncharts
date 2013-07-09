@@ -1,0 +1,27 @@
+<chart decimals="0" showvalues="0" caption="Browser Statistics" xaxisname="No of Visitor" yaxisname="Global Share" animation="1" stack100percent="0"  legendcaption="Year" canvasbgangle="0" canvasborderthickness="2" chartleftmargin="5" chartrightmargin="15" charttopmargin="10" chartbottommargin="20" captionpadding="10" xaxisnamepadding="5" yaxisnamepadding="5" yaxisvaluespadding="2" labelpadding="3" basefontsize="13" outcnvbasefontsize="12" zeroplanealpha="80" zeroplanethickness="2" bgcolor="F5F5F5" bgalpha="100" showxaxispercentvalues="1" plotgradientcolor="" basefont="Calibri" canvasbgcolor="FFFFFF" showalternatehgridcolor="0" alternatehgridcolor="FEEFED" divlinealpha="0" usePercentDistribution="0">
+	<categories>
+		<category label="IE" />
+		<category label="Mozilla" />
+		<category label="Chrome" />
+		<category label="Safari" />
+	</categories>
+	<dataset seriesName="USA" color="C0E9DE" color_cc="C0E9DE">
+		<set value="61600000"/>
+		<set value="39800000"/>
+		<set value="16000000"/>
+		<set value="8000000"/>
+	</dataset>
+	<dataset seriesName="Europe" color_cc="8ABBB1" color="8ABBB1">
+		<set value="63000000"/>
+		<set value="43800000"/>
+		<set value="17000000"/>
+		<set value="8380000"/>
+	</dataset>
+	<dataset seriesName="Rest of the world" color="40847D" color_cc="40847D">
+		<set value="64000000"/>
+		<set value="48593000"/>
+		<set value="18000000"/>
+		<set value="8576900"/>
+	</dataset>
+	
+	</chart>

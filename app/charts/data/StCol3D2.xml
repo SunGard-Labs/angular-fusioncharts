@@ -1,0 +1,32 @@
+<chart caption='Breakdown of Revenue' subCaption='(into Products and Services)' xAxisName='Year' yAxisMaxValue='100' numberSuffix='%' 
+areaBorderColor='FFFFFF' showValues='0' numVDivLines='3' palette='2'>
+	<categories>
+		<category label='2004' />
+		<category label='2003' />
+		<category label='2002' />
+		<category label='2001' />
+		<category label='2000' />
+	</categories>
+
+	<dataset seriesName='Products'>
+		<set value='65' /> 
+		<set value='70' /> 
+		<set value='60' /> 
+		<set value='62' /> 
+		<set value='48' /> 
+		<set value='54' /> 
+		<set value='46' /> 
+	</dataset>
+
+	<dataset seriesName='Services' >
+		<set value='35' /> 
+		<set value='30' /> 
+		<set value='40' /> 
+		<set value='38'/> 
+		<set value='52' /> 
+		<set value='46'  /> 
+		<set value='54'/> 
+	</dataset>
+
+	
+</chart>

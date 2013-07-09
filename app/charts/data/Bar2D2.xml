@@ -1,0 +1,36 @@
+<chart yAxisName='Number of Leads' xAxisName='Industry' canvasBgColor='FFFFDD' bgColor='B8D288,FFFFFF' bgAngle='90' numDivLines='0' plotBorderColor='83B242' canvasBorderColor='83B242' canvasBorderThickness='1'>
+	<set label='Advertising/Marketing/PR' value='3' color='83B242,B8D288'/>
+	<set label='Aerospace/Defense Products' value='1' color='83B242,B8D288' />
+	<set label='Banking/Finance/Securities' value='1' color='83B242,B8D288'/>
+	<set label='Communications/Cable/Phone' value='2' color='83B242,B8D288'/>
+	<set label='Conglomerates' value='0' color='83B242,B8D288'/>
+	<set label='Construction' value='2' color='83B242,B8D288'/>
+	<set label='Consumer Products - Non-Durables' value='1' color='83B242,B8D288'/>
+	<set label='Distribution' value='1' color='83B242,B8D288'/> 
+	<set label='Education' value='1' color='83B242,B8D288'/>  
+	<set label='Enery - Oil &amp; Gas' value='0' color='83B242,B8D288'/>
+	<set label='Entertainment' value='2' color='83B242,B8D288'/>
+	<set label='Government' value='0' color='83B242,B8D288'/>
+	<set label='Health Products &amp; Services' value='1' color='83B242,B8D288'/>  
+	<set label='Hospitality &amp; Hotels' value='1' color='83B242,B8D288'/>
+	<set label='Insurance' value='0' color='83B242,B8D288'/>
+	<set label='ISP/Hotspot Operator' value='0' color='83B242,B8D288'/>
+	<set label='Non-Business/Residential' value='1' color='83B242,B8D288'/>
+	<set label='OEM &amp; Manufacturing' value='0' color='83B242,B8D288'/>
+	<set label='Other' value='3' color='83B242,B8D288'/>
+	<set label='Pharmaceutical' value='1' color='83B242,B8D288'/>
+	<set label='Point of Sale (POS)/Retail' value='0' color='83B242,B8D288'/>
+	<set label='Printer Service/Toner/Laser' value='0' color='83B242,B8D288'/>
+	<set label='Printing &amp; Publishing' value='1' color='83B242,B8D288'/>
+	<set label='Professional Services' value='1' color='83B242,B8D288'/>
+	<set label='Real Estate' value='3' color='83B242,B8D288'/>
+	<set label='REITs' value='0' color='83B242,B8D288'/>
+	<set label='Staffing Firm/Full Time/Temporary' value='2' color='83B242,B8D288'/>
+	<set label='Transportation/Logistics' value='2' color='83B242,B8D288'/>
+	<set label='Travel &amp; Leisure' value='4' color='83B242,B8D288' dashed='1' alpha='80'/>
+	<set label='Utilities' value='2' color='83B242,B8D288'/>
+	<set label='VAR/ISV' value='1' color='83B242,B8D288'/>
+	<set label='Vertical Market Software' value='0' color='83B242,B8D288'/>
+	<set label='Warranty Administrators' value='1' color='83B242,B8D288'/>
+	<set label='White Box Builder' value='0' color='83B242,B8D288'/>
+ </chart>

@@ -1,0 +1,26 @@
+<chart showValues="0" caption="Cost Analysis" numberPrefix="$" xAxisName="Quarters" yAxisName="Cost" useRoundEdges="1" >
+        <categories>
+          <category label="Quarter 1"/>
+          <category label="Quarter 2"/>
+          <category label="Quarter 3"/>
+          <category label="Quarter 4"/>
+        </categories>
+        <dataset seriesName="Fixed Cost">
+          <set value="235000"/>
+          <set value="225100"/>
+          <set value="222000"/>
+          <set value="230500"/>
+        </dataset>
+        <dataset seriesName="Variable Cost">
+          <set value="230000"/>
+          <set value="143000"/>
+          <set value="198000"/>
+          <set value="327600"/>
+        </dataset>
+        <dataset seriesName="Budgeted cost" renderAs="Line">
+          <set value="455000"/>
+          <set value="334000"/>
+          <set value="426000"/>
+          <set value="403000"/>
+        </dataset>
+      </chart>

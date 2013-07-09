@@ -1,0 +1,48 @@
+<chart caption='Total crimes for 2005-06 ' showValues='0' canvasBgColor='D9E5F1' canvasBaseColor='D9E5F1' >
+	
+	<categories>
+		<category label='Jan' />
+		<category label='Feb' />
+		<category label='Mar' />
+		<category label='Apr' />
+		<category label='May' />
+		<category label='Jun' />
+		<category label='Jul' />
+		<category label='Aug' />
+		<category label='Sep' />
+		<category label='Oct' />
+		<category label='Nov' />
+		<category label='Dec' />
+	</categories>
+
+	<dataset seriesName='Crimes Reported' >
+		<set value='720' />
+		<set value='680' />
+		<set value='660' />
+		<set value='700' />
+		<set value='650' />
+		<set value='690' />
+		<set value='710' />
+		<set value='730' />
+		<set value='800' />
+		<set value='760' />
+		<set value='710' />
+		<set value='810' />
+	</dataset>
+
+	<dataset seriesname='Crimes Detected' renderAs='Line' color='BBDA00' anchorSides='4' anchorRadius='5' anchorBgColor='BBDA00' anchorBorderColor='FFFFFF' anchorBorderThickness='2'>
+		<set value='380' />
+		<set value='330' />
+		<set value='350' />
+		<set value='380' />
+		<set value='350' />
+		<set value='330' />
+		<set value='400' />
+		<set value='370' />
+		<set value='400' />
+		<set value='390' />
+		<set value='300' />
+		<set value='490' />
+	</dataset>
+
+</chart>

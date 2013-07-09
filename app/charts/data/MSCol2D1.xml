@@ -1,0 +1,43 @@
+<chart palette='2' rotateNames='0' animation='1' 
+numdivlines='4' caption='Global Export Index : 2004' baseFont='Arial' baseFontSize='12' useRoundEdges='1' legendBorderAlpha='0'>
+	<categories font='Arial' fontSize='12'>
+		<category label='N. America' toolText='North America'/>
+		<category label='Asia' />
+		<category label='Europe'/>
+		<category label='Australia' />
+		<category label='Africa' />
+
+	</categories>
+	<dataset seriesname='Data Series 1' color='9ACCF6' alpha='90' showValues='0' dashed='1'>
+		<set value='30' />
+		<set value='26' />
+		<set value='29' />
+		<set value='31' />
+		<set value='34' />
+	</dataset>
+	
+	<dataset seriesname='Data Series 2' color='82CF27'  showValues='0' alpha='90'>
+		<set value='27' />
+		<set value='25' />
+		<set value='28' />
+		<set value='26' />
+		<set value='10' />
+	</dataset>
+
+
+	<trendLines>
+		<line startValue='20' endValue='35' color='8BBA00' thickness='1' alpha='20' showOnTop='0' displayValue='Trend 1' isTrendZone='1'/>		
+	</trendLines>
+<styles>
+        <definition>
+            <style name='Anim1' type='animation' param='_xScale' start='0' duration='1' />
+            <style name='Anim2' type='animation' param='_alpha' start='0' duration='1' />
+			<style name='myCaptionFont' type='font' align='left'/>
+        </definition>
+        <application>
+            <apply toObject='TRENDLINES' styles='Anim1, Anim2' />
+			<apply toObject='Caption' styles='myCaptionFont' />
+        </application>
+    </styles>
+
+</chart>

@@ -1,0 +1,22 @@
+<chart showvalues="0" caption="Market Share Analysis" subcaption="2009" numberprefix="$" xaxisname="Market Segment" yaxisname="Market Share" animation="1" stack100percent="0"  legendcaption="Manufacturer" canvasbgangle="0" canvasborderthickness="2" chartleftmargin="5" chartrightmargin="15" charttopmargin="10" chartbottommargin="20" captionpadding="10" xaxisnamepadding="5" yaxisnamepadding="5" yaxisvaluespadding="2" labelpadding="3" basefontsize="10" outcnvbasefontsize="12" zeroplanealpha="80" zeroplanethickness="2" bgcolor="CBCBCB,E9E9E9" bgalpha="10,10" showxaxispercentvalues="1" usepercentdistribution="1" plotgradientcolor="" outcnvbasefontcolor="8F8F8F" >
+	<categories>
+		<category label="Desktop" widthpercent=""/>
+		<category label="Laptop" widthpercent="33"/>
+		<category label="Notebook" widthpercent="34"/>
+	</categories>
+	<dataset seriesName="Alpha" color_cc="1A86D3" color="1A86D3">
+		<set value="335000"/>
+		<set value="225100"/>
+		<set value="164200"/>
+	</dataset>
+	<dataset seriesName="Beta" color_cc="91C43E" color="91C43E">
+		<set value="245000"/>
+		<set value="198000"/>
+		<set value="120000"/>
+	</dataset>
+	<dataset seriesName="Gamma" color="BFBFBF" color_cc="BFBFBF">
+		<set value="298000"/>
+		<set value="109300"/>
+		<set value="153600"/>
+	</dataset>
+	</chart>

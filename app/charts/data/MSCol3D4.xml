@@ -1,0 +1,34 @@
+<chart palette='1' xaxisname='Continent' yaxisname='Export' numdivlines='9' caption='Global Cereal Export' subcaption='In Millions Tonnes per annum per Hectare' >
+	<categories font='Arial' >
+		<category label='N. America' toolText='North America'/>
+		<category label='Asia' />
+		<category label='Europe' />
+		<category label='Australia' />
+		<category label='Africa' />
+
+	</categories>
+	<dataset seriesname='Rice' color='8BBA00' >
+		<set value='30' />
+		<set value='26' />
+		<set value='29' />
+		<set value='31' />
+		<set value='34' />
+	</dataset>
+
+	<dataset seriesname='Wheat' color='A66EDD' >
+		<set value='67' />
+		<set value='98' />
+		<set value='79' />
+		<set value='73' />
+		<set value='80' />
+	</dataset>
+
+	<dataset seriesname='Grain' color='F6BD0F' >
+		<set value='27' />
+		<set value='25' />
+		<set value='28' />
+		<set value='26' />
+		<set value='10' />
+	</dataset>
+
+</chart>

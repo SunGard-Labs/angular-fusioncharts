@@ -1,0 +1,50 @@
+<chart caption="Traffic Report" subCaption="Six Months"  xaxisname="Month" yaxisname="Unique Users"  clustered="1"  showPlotBorder="0" zGapPlot="50" zDepth="50" cameraAngX="9" cameraAngY="-27" animate3D="0" formatNumberScale='0'>
+      <categories>
+        <category label="Jan"/>
+        <category label="Feb"/>
+        <category label="Mar"/>
+        <category label="Apr"/>
+        <category label="May"/>
+        <category label="Jun"/>
+      </categories>
+      <dataset seriesName="Total Traffic" renderAs="area" color="6DAC84">
+        <set value="5400"/>
+        <set value="4400"/>
+        <set value="6200"/>
+        <set value="4700"/>
+        <set value="3500"/>
+        <set value="3900"/>
+      </dataset>
+      <dataset seriesName="Yahoo" renderAs="column" color="CBB06E">
+        <set value="2000"/>
+        <set value="1000"/>
+        <set value="1900"/>
+        <set value="1000"/>
+        <set value="1000"/>
+        <set value="1000"/>
+      </dataset>
+      <dataset seriesName="Google" renderAs="column" color="CD754A">
+        <set value="2300"/>
+        <set value="2100"/>
+        <set value="2900"/>
+        <set value="2500"/>
+        <set value="2000"/>
+        <set value="1800"/>
+      </dataset>
+      <dataset seriesName="Banner Ads" renderAs="line" color="85ABDC">
+        <set value="1100"/>
+        <set value="1300"/>
+        <set value="1400"/>
+        <set value="1200"/>
+        <set value="500"/>
+        <set value="1100"/>
+      </dataset>
+<styles>
+<definition>
+<style name='captionFont' type='font' size='15' />
+</definition>
+<application>
+<apply toObject='caption' styles='captionfont' />
+</application>
+</styles>
+</chart>

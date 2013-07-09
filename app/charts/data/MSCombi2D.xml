@@ -1,0 +1,35 @@
+<chart showvalues="0" numberprefix="$" chartrightmargin="40" bgcolor="FFFFFF" bgratio="0" bgalpha="100" showborder="0" canvasbgcolor="" numdivlines="0" showyaxisvalues="0" canvasbordercolor="FFFFFF" showlegend="0" labeldisplay="none" bordercolor="FFFFFF" showplotborder="0" plotgradientcolor="1F1F1F" showtooltip="0" basefontsize="11" basefont="Arial Black" basefontcolor="3F3F3F" drawanchors="0" linethickness="4" plotfillangle="" plotfillalpha="9" chartleftmargin="20" chartbottommargin="20" labelpadding="5" valuepadding="3" yaxisvaluespadding="4" animation="1">
+ <categories>
+  <category label="1920"/>
+  <category label="1930"/>
+  <category label="1940"/>
+  <category label="1950"/>
+  <category label="1960"/>
+  <category label="1970"/>
+  <category label="1980"/>
+  <category label="1990"/>
+  <category label="2010"/>
+ </categories>
+ <dataset seriesName="2008" parentyaxis="P" renderas="Column" alpha="100">
+  <set value="34" color="B99983"/>
+  <set value="47" color="819FB6"/>
+  <set value="76" color="EBB71A"/>
+  <set value="71" color="8CB416"/>
+  <set value="108" color="FF944F"/>
+  <set value="138" color="36A5A5"/>
+  <set value="162" color="DA5353"/>
+  <set value="202" color="5379DA"/>
+  <set value="265" color="AD4CE8"/>
+ </dataset>
+ <dataset seriesName="2007" color="D10C0C" parentyaxis="P" renderas="Line" alpha="100">
+  <set/>
+  <set value="22"/>
+  <set value="46"/>
+  <set value="29"/>
+  <set value="71"/>
+  <set value="55"/>
+  <set value="89" color="D10C0C" anchorsides="3" anchorradius="2" anchorbgcolor="D10C0C"/>
+  <set value="95" color="D10C0C" anchorsides="3" anchorradius="2" anchorbgcolor="D10C0C"/>
+  <set value="192" color="D10C0C" anchorsides="3" anchorradius="2" anchorbgcolor="D10C0C"/>
+ </dataset>
+ <styles><definition><style type="Shadow" name="Shadow_0" Angle="75" Color="400000" Alpha="80" blurX="2" blurY="2"/><style type="Bevel" name="Bevel_0" angle="90" Distance="1" shadowColor="333333" shadowAlpha="55"/><style type="Shadow" name="Shadow_colm" Distance="9" Angle="90" Color="000000" Alpha="19" blurX="0" blurY="15"/></definition><application><apply toObject="DATAPLOTLINE" styles="Shadow_0"/><apply toObject="DATAPLOTCOLUMN" styles="Bevel_0,Shadow_colm"/></application></styles></chart>

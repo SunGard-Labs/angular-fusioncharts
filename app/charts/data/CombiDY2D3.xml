@@ -1,0 +1,39 @@
+<chart caption='Population Chart' showValues='0' sNumberSuffix='%' decimals='3' setAdaptiveYMin='1' setAdaptiveSYMin='1' lineThickness='5'>
+
+	<categories>
+		<category label='2000' />
+		<category label='2001' />
+		<category label='2002' />
+		<category label='2003' />
+		<category label='2004' />
+		<category label='2005' />
+	</categories>
+
+	<dataset seriesname='Population' parentYAxis='P' renderAs='Area'>
+		<set value='275562673'/>
+		<set value='278558081'/>
+		<set value='280562489'/>
+		<set value='290342551'/>
+		<set value='290342551'/>
+		<set value='293027112'/>
+
+	</dataset>
+
+	<dataset parentYAxis='S' seriesname='Birth Rate'>
+		<set value='1.42'/>
+		<set value='1.42'/>
+		<set value='1.41'/>
+		<set value='1.414'/>
+		<set value='1.413'/>
+		<set value='1.414'/>
+	</dataset>
+
+	<dataset parentYAxis='S' seriesname='Death Rate' renderAs='Line'>
+		<set value='0.87'/>
+		<set value='0.87'/>
+		<set value='0.87'/>
+		<set value='0.844'/>
+		<set value='0.834'/>
+		<set value='0.825'/>
+	</dataset>
+</chart>

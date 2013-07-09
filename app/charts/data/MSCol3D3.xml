@@ -1,0 +1,26 @@
+<chart palette='5' caption='Product Sales' xAxisName='Month' yAxisName='Sales' numberPrefix='$'  rotateValues='1' placeValuesInside='1' forceYAxisValueDecimals='1'  yAxisValueDecimals='2'>
+	<categories>
+		<category label='January' />
+		<category label='February' />
+		<category label='March' />
+		<category label='April' />
+		<category label='May' />
+		<category label='June' />
+	</categories>
+	<dataset seriesname='Product A' color='F0807F' showValues='1'>
+		<set value='8343' />
+		<set value='6983' />
+		<set value='7658' />
+		<set value='8345' />
+		<set value='8195' />
+		<set value='7684'/>
+	</dataset>
+	<dataset seriesname='Product B' color='F1C7D2'  showValues='1'>
+		<set value='2446' />
+		<set value='3935' />
+		<set value='3452'  />
+		<set value='4424' />
+		<set value='4925' />
+		<set value='4328' />
+	</dataset>
+</chart>

@@ -1,0 +1,33 @@
+<chart caption='Pizza Mania' subcaption='Consumption' palettecolors='880000,880000' plotgradientcolor='fba71a' placevaluesinside='1' showplotBorder='0' 
+plotfillalpha='90,90' showlabels='0' canvasbgalpha='0' numdivlines='0' showyaxisvalues='0' canvasborderalpha='0' bgImage='pizza.jpg'>
+
+<set label='Joel' value='900' displayValue=' Joel'/>
+<set label='Tyler' value='500' displayValue=' Tyler'/>
+<set label='Clarke' value='700' displayValue=' Clarke'/>
+<set label='Pablo' value='1000' displayValue=' Pablo'/>
+<set label='Carl' value='500' displayValue=' Carl'/>
+<set label='Regina' value='200' displayValue=' Regina'/>
+<set label='Craig' value='400' displayValue=' Craig' />
+
+<styles>
+  <definition>
+	<style name='ani' type='animation' DURATION='3' easing='bounce' start='0' param='_xscale'/>
+	<style name='myFont' type='font' color='ffffff'/>
+	<style name='myFontCaption' type='font' size='18' color='ffffff' />
+	<style name='myFontSubCaption' type='font' size='12' color='ffffff'/>
+	<style name='myShadow' type='shadow' color='333333' angle='45' strength='3'/>
+
+  </definition>	
+  <application>
+  	<apply toObject='Dataplot' styles='ani'/>
+	  	<apply toObject='Datavalues' styles='myFont'/>
+			  	<apply toObject='caption' styles='myFontCaption,myShadow'/>
+			  	<apply toObject='subcaption' styles='myFontSubCaption,myShadow'/>
+				<apply toObject='DataValues' styles='myShadow' />
+
+
+  </application>
+  
+</styles>
+
+</chart>

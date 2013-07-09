@@ -1,0 +1,63 @@
+<chart palette='4' caption='Web Statistics' pYAxisName='Views' sYAxisName='% of visitors' showValues='0' rotateLabels='1' slantLabels='1' plotSpacePercent='40' sNumberSuffix='%' >
+	
+	<categories>
+		<category label='Jan' />
+		<category label='Feb' />
+		<category label='Mar' />
+		<category label='Apr' />
+		<category label='May' />
+		<category label='Jun' />
+		<category label='Jul' />
+		<category label='Aug' />
+		<category label='Sep' />
+		<category label='Oct' />
+		<category label='Nov' />
+		<category label='Dec' />
+	</categories>
+
+	<dataset seriesName='Page Views' >
+		<set value='36000' />
+		<set value='34300' />
+		<set value='30000' />
+		<set value='27800' />
+		<set value='26000' />
+		<set value='29000' />
+		<set value='32000' />
+		<set value='37500' />
+		<set value='32000' />
+		<set value='28500' />
+		<set value='31000' />
+		<set value='28000' />
+	</dataset>
+
+	<dataset seriesname='Add to Favorites' parentYAxis='S' color='CC3300'>
+		<set value='25' />
+		<set value='23' />
+		<set value='20' />
+		<set value='18' />
+		<set value='14' />
+		<set value='17' />
+		<set value='21' />
+		<set value='25' />
+		<set value='21' />
+		<set value='20' />
+		<set value='22' />
+		<set value='20' />
+	</dataset>
+
+	<dataset seriesname='Set as Home page' parentYAxis='S' color='FFCC33'>
+		<set value='4' />
+		<set value='5' />
+		<set value='9' />
+		<set value='11' />
+		<set value='6' />
+		<set value='4' />
+		<set value='7' />
+		<set value='9' />
+		<set value='10' />
+		<set value='12' />
+		<set value='9' />
+		<set value='14' />
+	</dataset>
+
+</chart>

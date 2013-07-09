@@ -1,0 +1,27 @@
+<chart showvalues="0" caption="Production Forecast" subcaption="" numberprefix="$" chartrightmargin="45" xaxisname="" yaxisname="" animation="1" bgcolor="FFFFFF" pyaxisname="" showalternatehgridcolor="0" numdivlines="0" showyaxisvalues="0" chartleftmargin="50" charttopmargin="35" chartbottommargin="20" plotgradientcolor="" showplotborder="0" showshadow="1" showborder="1" canvasborderalpha="0" yaxisvaluespadding="10" valuepadding="5" labelpadding="6" canvasbordercolor="800080" canvasborderthickness="3" canvasbgratio="0" canvasbgalpha="100" bordercolor="0080FF" borderalpha="50" bgratio="0" bgalpha="50" stack100percent="0" >
+        <categories>
+          <category label="2008"/>
+          <category label="2009"/>
+          <category label="2010"/>
+        </categories>
+        <dataset seriesName="2008">
+          <set value="470000" color="C295F2" color_cc="C295F2"/>
+          <set value="350000" color="00ACE8" color_cc="00ACE8"/>
+          <set value="200000"/>
+        </dataset>
+        <set value="470000" color="C295F2" color_cc="C295F2" label="2008"/>
+        <set value="350000" color="00ACE8" color_cc="00ACE8" label="2009"/>
+        <set value="200000" label="2010"/>
+        <styles>
+        <definition>
+          <style name="Font_0" type="font" font="Calibri" size="14" bold="1" Italic="0" underline="0" bgcolor="FFFFFF" bordercolor="FFFFFF" isHTML="0"/>
+          <style name="Font_1" type="font" size="15" color="000080" bold="0" Italic="0" underline="0" bgcolor="FFFFFF" bordercolor="FFFFFF" isHTML="0"/>
+          <style name="Glow_0" type="Glow" color="0080FF" alpha="43" quality="3"/>
+        </definition>
+        <application>
+          <apply toObject="DATALABELS" styles="Font_0"/>
+          <apply toObject="CAPTION" styles="Font_1"/>
+          <apply toObject="DATAPLOT" styles="Glow_0"/>
+        </application>
+        </styles>
+      </chart>

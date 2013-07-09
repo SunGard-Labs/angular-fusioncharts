@@ -1,0 +1,30 @@
+<chart showvalues="0" caption="Market Share Analysis" numberprefix="$" xaxisname="Market Segment" yaxisname="Market Share"  stack100percent="0"  legendcaption="Manufacturer" canvasbgangle="0" canvasborderthickness="2" chartleftmargin="5" chartrightmargin="15" charttopmargin="10" chartbottommargin="20" captionpadding="10" xaxisnamepadding="5" yaxisnamepadding="5" yaxisvaluespadding="2" labelpadding="3" basefontsize="10" outcnvbasefontsize="10" bgcolor="FFFFFF" bgalpha="100" showxaxispercentvalues="1" usepercentdistribution="1" plotgradientcolor="" >
+	<categories>
+		<category label="Smart Phone" widthpercent=""/>
+		<category label="Basic Phone" widthpercent="33"/>
+		<category label="Camera Phone" widthpercent="34"/>
+		<category label="Music Phone"/>
+		<category label="Gaming Phone"/>
+	</categories>
+	<dataset seriesName="Alpha" color="F3D784" color_cc="F3D784">
+		<set value="38500"/>
+		<set value="10510"/>
+		<set value="22420"/>
+		<set value="19600"/>
+		<set value="8000"/>
+	</dataset>
+	<dataset seriesName="Beta" color_cc="C9B26B" color="C9B26B">
+		<set value="34500"/>
+		<set value="9800"/>
+		<set value="18000"/>
+		<set value="23680"/>
+		<set value="8600"/>
+	</dataset>
+	<dataset seriesName="Gamma" color="A3893B" color_cc="A3893B">
+		<set value="32800"/>
+		<set value="9930"/>
+		<set value="17360"/>
+		<set value="21769"/>
+		<set value="8655"/>
+	</dataset>
+	</chart>

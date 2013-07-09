@@ -1,0 +1,25 @@
+<chart caption='Engineering Masters Degrees - 2005' baseFontColor='FFFFFF' bgColor='2E4A89, 90B1DE' pieYScale='30'  pieSliceDepth='8' smartLineColor='FFFFFF'>
+
+	<set value='96' label='Computer' color='1160B8'  />
+	<set value='87' label='Electrical' color='F2AC0C' />
+	<set value='82' label='Mechanical' color='BF0000'/>
+	<set value='43' label='Civil' color='00247C'/>
+	<set value='55' label='Industrial' color='008900'/>
+	<set value='35' label='Biotechnology' color='E95D0F'/>
+
+	<styles>
+
+		<definition>
+			<style name='CaptionFont' type='FONT' size='12' bold='1' />
+			<style name='LabelFont' type='FONT' color='2E4A89' bgColor='FFFFFF' bold='1' />
+			<style name='ToolTipFont' type='FONT' bgColor='2E4A89' borderColor='2E4A89' />
+		</definition>
+
+		<application>
+        		<apply toObject='CAPTION' styles='CaptionFont' />
+        		<apply toObject='DATALABELS' styles='LabelFont' />
+        		<apply toObject='TOOLTIP' styles='ToolTIpFont' />
+		</application>
+
+	</styles>
+</chart>

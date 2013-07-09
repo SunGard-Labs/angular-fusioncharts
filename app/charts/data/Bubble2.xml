@@ -1,0 +1,28 @@
+<chart palette='3' numberPrefix='$' is3D='1' animation='1' clipBubbles='1' xAxisMaxValue='100' showPlotBorder='0' xAxisName='Stickiness' yAxisName='Cost Per Service' chartRightMargin='30'>
+<categories>
+<category label='0%' x='0' />
+<category label='20%' x='20' showVerticalLine='1'/>
+<category label='40%' x='40' showVerticalLine='1'/>
+<category label='60%' x='60' showVerticalLine='1'/>
+<category label='80%' x='80' showVerticalLine='1'/>
+<category label='100%' x='100' showVerticalLine='1'/>
+</categories>
+<dataSet showValues='0'>
+<set x='30' y='1.3' z='116'  name='Traders'/>
+<set x='32' y='3.5' z='99' name='Farmers'/>
+<set x='8' y='2.1' z='33' name='Individuals'/>
+<set x='62' y='2.5' z='72' name='Medium Business Houses'/>
+<set x='78' y='2.3' z='55' name='Corporate Group A'/>
+<set x='75' y='1.4' z='58' name='Corporate Group C'/>
+<set x='68' y='3.7' z='80' name='HNW Individuals'/>
+<set x='50' y='2.1' z='105' name='Small Business Houses'/>
+</dataSet>
+<trendlines>
+	<line startValue='2.5' isTrendZone='0' displayValue='Median Cost' color='0372AB'/>
+</trendlines>
+<vTrendlines>
+	<line startValue='0' endValue='60' isTrendZone='1' displayValue='Potential Wins' color='663333' alpha='10'/>
+<line startValue='60' endValue='100' isTrendZone='1' displayValue='Cash Cows' color='990099' alpha='5'/>
+
+</vTrendlines>
+</chart>

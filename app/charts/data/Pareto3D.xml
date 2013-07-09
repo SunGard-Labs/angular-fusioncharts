@@ -1,0 +1,11 @@
+<chart showvalues="0" caption="Software Testing Report" xaxisname="Type of Bugs" pyaxisname="No of Bugs">
+
+  <set value="205" label="GUI"/>
+  <set value="165" label="Functional"/>
+  <set value="85" label="Navigation"/>
+  <set value="62" label="Cross Platform"/>
+  <set value="73" label="Hardware"/>
+  <set value="131" label="Runtime"/>
+  <set value="109" label="Load Condition"/>
+ 
+</chart>

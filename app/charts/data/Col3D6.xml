@@ -1,0 +1,11 @@
+<chart palette='4' showValues="0" showBorder="1" forceYAxisValueDecimals='1'  yAxisValueDecimals='2'>
+  <set label="Jan" value="11874" /> 
+  <set label="Feb" value="15557" /> 
+  <set label="Mar" value="" /> 
+  <set label="Apr" value="11071" /> 
+  <set label="May" value="11152" /> 
+  <set label="Jun" value="" /> 
+  <set label="Jul" value="7520" /> 
+  <set label="Aug" value="" /> 
+  <set label="Sep" value="" /> 
+  </chart>

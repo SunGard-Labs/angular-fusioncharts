@@ -1,0 +1,20 @@
+﻿<chart caption="1996 - Top 10 Cities By Sales " palette="2" animation="1" formatNumberScale="0" numberPrefix="$" labeldisplay="ROTATE" slantLabels="1" seriesNameInToolTip="0" sNumberSuffix=" pcs." showValues="0" plotSpacePercent="0" labelDisplay="STAGGER">
+<set label="Graz" value="57182.9" />
+<set label="Cunewalde" value="42980.99" />
+<set label="Boise" value="42806.25" />
+<set label="Rio de Janeiro" value="35054.6" />
+<set label="London" value="26035.96" />
+<set label="Cork" value="22796.34" />
+<set label="Albuquerque" value="22355.1" />
+<set label="Brandenburg" value="21789.95" />
+<set label="Bräcke" value="21185.85" />
+<set label="Seattle" value="15278.9" />
+<styles>
+<definition><style type="font" name="CaptionFont" size="15" color="666666" />
+<style type="font" name="SubCaptionFont" bold="0" />
+</definition><application>
+<apply toObject="caption" styles="CaptionFont" />
+<apply toObject="SubCaption" styles="SubCaptionFont" />
+</application>
+</styles>
+</chart>

@@ -1,0 +1,19 @@
+<chart caption='Business Results' subCaption='2004 v 2005' yAxisName='Revenue (Millions)' showValues='0' useRoundEdges='1'>
+	<categories>
+		<category label='Hardware'/>
+		<category label='Software' />
+		<category label='Service' />
+	</categories>
+
+	<dataset seriesname='2004' color='FDC12E'>
+		<set value='124' />
+		<set value='247' />
+		<set value='156' />
+	</dataset>
+
+	<dataset seriesname='2005' color='333333' >
+		<set value='156' />
+		<set value='277' />
+		<set value='123' />
+	</dataset>
+</chart>

@@ -1,0 +1,14 @@
+<chart caption='Industrial Growth Rate' subcaption='(Country)' palette='4' decimals='0' enableSmartLabels='1' enableRotation='0' bgAngle='360' showBorder='1' startingAngle='70' >
+            <set label='France' value='17'  />
+            <set label='India' value='12' />
+            <set label='Brazil' value='18' />
+            <set label='USA' value='8' isSliced='1'/>
+            <set label='Australia' value='10' isSliced='1'/>
+            <set label='Japan' value='16' isSliced='1'/>
+            <set label='England' value='11' />
+            <set label='Nigeria' value='12' />
+	    <set label='Italy' value='8' />
+            <set label='China' value='10' />
+            <set label='Canada' value='19'/>
+            <set label='Germany' value='15'/>
+</chart>

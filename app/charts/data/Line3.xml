@@ -1,0 +1,25 @@
+<chart caption='Web Statistics' subCaption='Add To Favorites (% of unique visitors)' yAxisMaxValue='100' bgColor='406181, 6DA5DB'  bgAlpha='100' baseFontColor='FFFFFF' canvasBgAlpha='0' canvasBorderColor='FFFFFF' divLineColor='FFFFFF' divLineAlpha='100' numVDivlines='10' vDivLineisDashed='1' showAlternateVGridColor='1' lineColor='BBDA00' anchorRadius='4' anchorBgColor='BBDA00' anchorBorderColor='FFFFFF' anchorBorderThickness='2' showValues='0' numberSuffix='%' toolTipBgColor='406181' toolTipBorderColor='406181' alternateHGridAlpha='5'>
+
+	<set label='Jan' value='34' />
+	<set label='Feb' value='44' />
+	<set label='Mar' value='48' />
+	<set label='Apr' value='54' />
+	<set label='May' value='60' />
+	<set label='Jun' value='70' />
+	<set label='Jul' value='58' />
+	<set label='Aug' value='62' />
+	<set label='Sep' value='54' />
+	<set label='Oct' value='45' />
+	<set label='Nov' value='39' />
+	<set label='Dec' value='23' />
+
+	<styles>
+		<definition>
+			<style name='LineShadow' type='shadow' color='333333' distance='6'/>
+		</definition>
+
+		<application>
+			<apply toObject='DATAPLOT' styles='LineShadow' />
+		</application>	
+	</styles>
+</chart> 

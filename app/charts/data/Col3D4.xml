@@ -1,0 +1,17 @@
+<chart caption='Monthly Unit Sales' xAxisName='Month' yAxisName='Units' showValues='0' decimals='0' formatNumberScale='0' palette='4'>
+<set label='Jan' value='462' />
+<set label='Feb' value='857' />
+<set label='Mar' value='671' />
+<set label='Apr' value='494' />
+<set label='May' value='761' />
+<set label='Jun' value='960' />
+<set label='Jul' value='629' />
+<set label='Aug' value='622' />
+<set label='Sep' value='376' />
+<set label='Oct' value='494' />
+<set label='Nov' value='761' />
+<set label='Dec' value='960' />
+<trendlines>
+<line startValue='750' displayValue='Average' color='009900' valueOnRight='1' />
+</trendlines>
+</chart>	

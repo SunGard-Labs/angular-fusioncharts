@@ -1,0 +1,142 @@
+<chart palette='3' caption='Daily Sales'  numberprefix='$' xaxisName='Day' useRoundEdges='1' showValues='0' legendBorderAlpha='0'>  
+
+<categories>
+      <category label='1' />
+      <category label='2' />
+      <category label='3' />
+      <category label='4' />
+      <category label='5' />
+      <category label='6' />
+      <category label='7' />
+      <category label='8' />
+      <category label='9' />
+      <category label='10' />
+      <category label='11' />
+      <category label='12' />
+      <category label='13' />
+      <category label='14' />
+      <category label='15' />
+      <category label='16' />
+      <category label='17' />
+      <category label='18' />
+      <category label='19' />
+      <category label='20' />
+      <category label='21' />
+      <category label='22' />
+      <category label='23' />
+      <category label='24' />
+      <category label='25' />
+      <category label='26' />
+      <category label='27' />
+      <category label='28' />
+      <category label='29' />
+      <category label='30' />
+      <category label='31' />      
+</categories>
+
+<dataset seriesname='Product A'>
+      <set value='57000' />
+      <set value='58995' />
+      <set value='61119' />
+      <set value='63502' />
+      <set value='57000' />
+      <set value='58995' />
+      <set value='61119' />
+      <set value='63502' />
+      <set value='65662' />
+      <set value='68157' />
+      <set value='69997' />
+      <set value='72797' />
+      <set value='75272' />
+      <set value='77455' />
+      <set value='79546' />
+      <set value='80739' />
+      <set value='82273' />
+      <set value='84001' />
+      <set value='85849' />
+      <set value='85868' />
+      <set value='87843' />
+      <set value='90039' />
+      <set value='61452' />
+      <set value='64463' />
+      <set value='65945' />
+      <set value='68056' />
+      <set value='70914' />
+      <set value='73467' />
+      <set value='76332' />
+      <set value='78927' />
+      <set value='81927' />      
+</dataset>
+
+<dataset seriesname='Product B'>
+      <set value='15500' />
+      <set value='16361' />
+      <set value='17212' />
+      <set value='18443' />
+      <set value='15500' />
+      <set value='16361' />
+      <set value='17212' />
+      <set value='18443' />
+      <set value='19270' />
+      <set value='20782' />
+      <set value='21128' />
+      <set value='22606' />
+      <set value='23915' />
+      <set value='24982' />
+      <set value='26436' />
+      <set value='26810' />
+      <set value='27421' />
+      <set value='28162' />
+      <set value='30000' />
+      <set value='28965' />
+      <set value='29767' />
+      <set value='29559' />
+      <set value='26150' />
+      <set value='28349' />
+      <set value='28676' />
+      <set value='29221' />
+      <set value='30681' />
+      <set value='31665' />
+      <set value='33109' />
+      <set value='34062' />
+      <set value='35849' />      
+</dataset>
+
+<dataset seriesname='Product C'>
+      <set value='38000' />
+      <set value='39330' />
+      <set value='40746' />
+      <set value='42335' />
+      <set value='38000' />
+      <set value='39330' />
+      <set value='40746' />
+      <set value='42335' />
+      <set value='43774' />
+      <set value='45438' />
+      <set value='46665' />
+      <set value='48531' />
+      <set value='50181' />
+      <set value='51637' />
+      <set value='53031' />
+      <set value='53826' />
+      <set value='54849' />
+      <set value='56001' />
+      <set value='57233' />
+      <set value='57245' />
+      <set value='58562' />
+      <set value='60026' />
+      <set value='40968' />
+      <set value='42975' />
+      <set value='43964' />
+      <set />
+      <set />
+      <set />
+      <set />
+      <set />
+      <set />
+</dataset>
+
+
+
+
+</chart>
