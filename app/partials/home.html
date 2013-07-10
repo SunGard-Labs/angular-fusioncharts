@@ -1,14 +1,30 @@
-<div class='row-fluid' ng-controller="DemoListCtrl">
-<div class='span9'>
-    <div id="chartDiv" fc-chart fc-chart-type="{{chartType}}" fc-data="{{chartData}}" height="450"></div>
+<div class="jumbotron">
+    <h1>Super awesome marketing speak!</h1>
+    <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+    <a class="btn btn-large btn-primary" href="#/demo">Take me to the demo &raquo;</a>
 </div>
+<hr>
+<div class="row-fluid">
+    <div class="span6">
+        <h4>Simple...</h4>
+        <pre ng-non-bindable>&lt;fc-chart fc-chart-type="Column3D" fc-data="salesData"&gt;</pre>
 
-<div class='span3'>
-    <h3>Demos</h3>
-    <div class="well sidebar-nav" >
-        <ul ng-repeat='demo in demos' class="nav nav-list">
-            <li><a href="#" ng-click="setDemo(demo)">{{demo.name}}</a></li>
-        </ul>
-    </div><!--/.well -->
-</div>
+        <h4>Or Complex</h4>
+        <pre ng-non-bindable>&lt;fc-chart
+    fc-chart-type="{{settings.type}}"
+    fc-data="/sales/:month"
+    fc-param-month="{{month}}"
+    fc-caption="Sales for {{month}}" &gt;</pre>
+    </div>
+
+    <div class="span6">
+        <h4>Dynamically bind data to charts</h4>
+        <p>Lets you easily visualise your model data using FusionCharts. Lorem ipsum...</p>
+
+        <h4>Integrates well with AngularJS</h4>
+        <p>Uses $http to get data if needed... Bind model properties to chart attributes for dynamic changes... Lorem ipsum...</p>
+
+        <h4>Subheading</h4>
+        <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+    </div>
 </div>

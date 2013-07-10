@@ -4,15 +4,13 @@ module.exports = function(grunt) {
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
     concat: {
-      config: {
-        options: {
-          banner: "(function(angular) {",
-          footer: "}(angular));"
-        }
+      options: {
+        banner: "(function(angular) {",
+        footer: "}(angular));"
       },
       dist: {
         src: ['src/main.js',
-              'src/services/chart.js',
+              'src/services/chartFactory.js',
               'src/directives/chart.js'],
         dest: 'build/<%= pkg.name %>.js'
       },

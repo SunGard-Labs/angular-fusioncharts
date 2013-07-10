@@ -2,13 +2,8 @@ function HomeCtrl($scope) {
 
 }
 
-function SettingsCtrl($scope) {
+function DemoCtrl ($scope) {
 
-}
-
-function DemoListCtrl ($scope) {
-	$scope.chartType = "Column3D";
-	$scope.chartData = "/app/charts/Data.xml";
 	$scope.demos = [{name:'100PStArea1',
 		chartType:'StackedArea2D'},
 		{name:'100PStBar2D1',
@@ -277,8 +272,12 @@ function DemoListCtrl ($scope) {
 		chartType:'ZoomLine'}
 	];
 
-	$scope.setDemo = function(item) {
-		$scope.chartType = item.chartType;
-	}
+    angular.forEach($scope.demos, function(demo) {
+        demo.xmlUrl = 'app/data/xml/' + demo.name + '.xml';
+        demo.jsonUrl = 'app/data/json/' + demo.name + '.json';
+        if( !$scope.selected && demo.chartType === 'Column3D' ){
+            $scope.selected = demo;
+        }
+    });
 
 }

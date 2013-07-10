@@ -1,12 +1,4 @@
-fc.directive('fcChart', ['$timeout', function($timeout) {
-    var counter = 0;
-
-    function renderData(scope, chartObj, render) {
-        chartObj.setChartData(scope.chartData, scope.chartDataType);
-        if( render === undefined || render ) {
-            chartObj.render(scope.id);
-        }
-    }
+fc.directive('fcChart', ['fcChartFactory', '$timeout', function(fcChartFactory, $timeout) {
 
     return {
         restrict: 'AE',
@@ -15,45 +7,62 @@ fc.directive('fcChart', ['$timeout', function($timeout) {
             type: '@fcChartType',
             width: '@width',
             height: '@height',
-            id: '@id',
-            chartData: '@fcData',
-            chartDataType: '@fcDataType'
+            data: '=fcData', // if string: xml.
+            dataType: '@fcDataType', // xml or json. Not xmlurl or jsonurl
+            dataUrl: '@fcDataUrl' // use content-type to detect data type
         },
         replace: true,
-        link: function(scope, element, attrs) {
-            $timeout(function() {
-                scope.chartId = scope.chartId || 'fcChart' + (counter++);
-                if( !scope.id ) {
-                    scope.id = scope.chartId + 'Id';
-                    element.attr('id', scope.id);
+        link: function(scope, element) {
+
+            // holds the current chart instance
+            var chart, handle;
+
+            function renderData() {
+                // this could be invoked twice in a $apply cycle if the type and data has changed for example
+                // make sure rendering happens only once.
+                if( !handle ) {
+                    handle = $timeout(function() {
+                        if( scope.data ) {
+                            chart.renderData(element, scope.data, scope.dataType);
+                        } else if( angular.isString( scope.dataUrl ) ) {
+                            chart.renderDataUrl(element, scope.dataUrl, scope.dataType);
+                        } else {
+                            throw new Error('No data to get. Use the fc-data or fc-data-url attributes.');
+                        }
+                        handle = null;
+                    });
                 }
-                scope.type = scope.type || 'Column3D';
-                scope.chartDataType = scope.chartDataType || 'xmlurl'; //xmlurl, xml, jsonurl, json
+            }
 
-                var chartObj = new FusionCharts( scope.type, scope.chartId, scope.width, scope.height );
-                console.log(chartObj);
+            scope.$watch('type', function(newType) {
+                if( chart ) {
+                    // dispose of previously created chart because the chart type has changed
+                    chart.destroy();
+                }
+                chart = fcChartFactory.create(newType, scope.chartId, scope.width, scope.height);
 
-                scope.$watch('type', function(newVal, oldVal) {
-                    if( newVal === oldVal ) {
-                        return;
-                    }
+                renderData();
+            });
 
-                    if(chartObj) {
-                        chartObj.dispose();
-                    }
-                    chartObj = new FusionCharts( scope.type, scope.chartId, scope.width, scope.height );
-                    renderData(scope, chartObj);
-                });
+            // watch if data changes
+            scope.$watch('data', function(newData, oldData) {
+                if( newData && newData !== oldData ) {
+                    // data has changed since initial rendering, re-render
+                    renderData();
+                }
+            });
 
-                // chartData
-                scope.$watch('chartData', function(newVal, oldVal) {
-                    renderData(scope, chartObj, newVal === oldVal);
-                });
+            // watch if the data URL changes
+            scope.$watch('dataUrl', function(newDataUrl, oldDataUrl) {
+                if( newDataUrl && newDataUrl !== oldDataUrl ) {
+                    // data url has changed since initial rendering
+                    renderData();
+                }
+            });
 
-                // cleanup after ourselves
-                scope.$on('$destroy', function() {
-                    chartObj.dispose();
-                });
+            // cleanup after ourselves
+            scope.$on('$destroy', function() {
+                chart.destroy();
             });
 
         }

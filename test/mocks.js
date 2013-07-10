@@ -1,0 +1,1 @@
+var FusionCharts = jasmine.createSpy('FusionCharts');

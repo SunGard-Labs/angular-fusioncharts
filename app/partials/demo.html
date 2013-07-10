@@ -1,0 +1,8 @@
+<h4>Demo of available charts</h4>
+<ul class="nav nav-tabs">
+    <li class="active"><a href="">Demo</a></li>
+    <li><a href="">Code</a></li>
+    <li class="pull-right"><button class="btn btn-primary">Try it live!</button></li>
+</ul>
+<div><select ng-model="selected" ng-options="demo.name group by demo.chartType for demo in demos"></select></div>
+<div fc-chart fc-chart-type="{{selected.chartType}}" fc-data-url="{{selected.xmlUrl}}" height="450"></div>

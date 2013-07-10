@@ -18,9 +18,9 @@
             <a class="brand" href="#">Angular FusionCharts</a>
             <div class="nav-collapse collapse">
                 <ul class="nav">
-                    <li class="active"><a href="#">Home</a></li>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#contact">Contact</a></li>
+                    <li class="active"><a href="#/">Home</a></li>
+                    <li><a href="#/demo">Demo</a></li>
+                    <li><a href="#/doc">Documentation</a></li>
                 </ul>
             </div><!--/.nav-collapse -->
         </div>
@@ -30,22 +30,19 @@
 <div class="container-fluid">
     <div class="row-fluid">
       <div class="span9">
-        <h3>Instructions:</h3>
-        <p>Instructions will go here</p>
-        <pre>Code sample can go here</pre>
+        <div ng-view></div>
       </div>
       <div class="span3">
-        <h3>Current version</h3>
-        <ul class="unstyled">
-          <li><a href="" >Release Notes</a></li>
-          <li><a href="" >Source Code</a></li>
-        </ul>
-        <p><a class="btn btn-success btn-large" href="#">Download <small>v.0.0.1</small> &raquo;</a></p>
+          <div class="well">
+            <p><a class="btn btn-success btn-large" href="https://github.com/SunGard-Labs/angular-fusioncharts/tree/master/build">Download <small>v.0.0.1</small> &raquo;</a></p>
+            <ul class="unstyled">
+              <li><a href="https://github.com/SunGard-Labs/angular-fusioncharts/CHANGELOG.md" >Release Notes</a></li>
+              <li><a href="https://github.com/SunGard-Labs/angular-fusioncharts" >Source Code</a></li>
+            </ul>
+          </div>
+        <div ng-include="'app/partials/menu.html'"></div>
       </div><!--/span-->
     </div><!--/row-->
-    <div ng-view>
-    </div>
-
 
     <hr>
 
