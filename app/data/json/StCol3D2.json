@@ -1,0 +1,88 @@
+{
+  "chart": {
+    "caption": "Breakdown of Revenue",
+    "subcaption": "(into Products and Services)",
+    "xaxisname": "Year",
+    "yaxismaxvalue": "100",
+    "numbersuffix": "%",
+    "areabordercolor": "FFFFFF",
+    "showvalues": "0",
+    "numvdivlines": "3",
+    "palette": "2"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "2004"
+        },
+        {
+          "label": "2003"
+        },
+        {
+          "label": "2002"
+        },
+        {
+          "label": "2001"
+        },
+        {
+          "label": "2000"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Products",
+      "data": [
+        {
+          "value": "65"
+        },
+        {
+          "value": "70"
+        },
+        {
+          "value": "60"
+        },
+        {
+          "value": "62"
+        },
+        {
+          "value": "48"
+        },
+        {
+          "value": "54"
+        },
+        {
+          "value": "46"
+        }
+      ]
+    },
+    {
+      "seriesname": "Services",
+      "data": [
+        {
+          "value": "35"
+        },
+        {
+          "value": "30"
+        },
+        {
+          "value": "40"
+        },
+        {
+          "value": "38"
+        },
+        {
+          "value": "52"
+        },
+        {
+          "value": "46"
+        },
+        {
+          "value": "54"
+        }
+      ]
+    }
+  ]
+}

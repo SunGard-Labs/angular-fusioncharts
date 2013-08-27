@@ -1,0 +1,89 @@
+{
+  "chart": {
+    "palette": "5",
+    "caption": "Product Sales",
+    "xaxisname": "Month",
+    "yaxisname": "Sales",
+    "numberprefix": "$",
+    "rotatevalues": "1",
+    "placevaluesinside": "1",
+    "forceyaxisvaluedecimals": "1",
+    "yaxisvaluedecimals": "2"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "January"
+        },
+        {
+          "label": "February"
+        },
+        {
+          "label": "March"
+        },
+        {
+          "label": "April"
+        },
+        {
+          "label": "May"
+        },
+        {
+          "label": "June"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Product A",
+      "color": "F0807F",
+      "showvalues": "1",
+      "data": [
+        {
+          "value": "8343"
+        },
+        {
+          "value": "6983"
+        },
+        {
+          "value": "7658"
+        },
+        {
+          "value": "8345"
+        },
+        {
+          "value": "8195"
+        },
+        {
+          "value": "7684"
+        }
+      ]
+    },
+    {
+      "seriesname": "Product B",
+      "color": "F1C7D2",
+      "showvalues": "1",
+      "data": [
+        {
+          "value": "2446"
+        },
+        {
+          "value": "3935"
+        },
+        {
+          "value": "3452"
+        },
+        {
+          "value": "4424"
+        },
+        {
+          "value": "4925"
+        },
+        {
+          "value": "4328"
+        }
+      ]
+    }
+  ]
+}

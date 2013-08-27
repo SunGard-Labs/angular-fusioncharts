@@ -1,0 +1,47 @@
+{
+  "chart": {
+    "palette": "4",
+    "showvalues": "0",
+    "showborder": "1",
+    "forceyaxisvaluedecimals": "1",
+    "yaxisvaluedecimals": "2"
+  },
+  "data": [
+    {
+      "label": "Jan",
+      "value": "11874"
+    },
+    {
+      "label": "Feb",
+      "value": "15557"
+    },
+    {
+      "label": "Mar",
+      "value": ""
+    },
+    {
+      "label": "Apr",
+      "value": "11071"
+    },
+    {
+      "label": "May",
+      "value": "11152"
+    },
+    {
+      "label": "Jun",
+      "value": ""
+    },
+    {
+      "label": "Jul",
+      "value": "7520"
+    },
+    {
+      "label": "Aug",
+      "value": ""
+    },
+    {
+      "label": "Sep",
+      "value": ""
+    }
+  ]
+}

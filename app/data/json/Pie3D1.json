@@ -1,0 +1,67 @@
+{
+  "chart": {
+    "caption": "Top 5 Employees for 1996",
+    "palette": "2",
+    "animation": "1",
+    "subcaption": "(Click to slice out or right click to choose rotation mode)",
+    "yaxisname": "Sales Achieved",
+    "showvalues": "0",
+    "numberprefix": "$",
+    "formatnumberscale": "0",
+    "showpercentintooltip": "0",
+    "showlabels": "0",
+    "showlegend": "1"
+  },
+  "data": [
+    {
+      "label": "Leverling",
+      "value": "100524",
+      "issliced": "0"
+    },
+    {
+      "label": "Fuller",
+      "value": "87790",
+      "issliced": "0"
+    },
+    {
+      "label": "Davolio",
+      "value": "81898",
+      "issliced": "0"
+    },
+    {
+      "label": "Peacock",
+      "value": "76438",
+      "issliced": "0"
+    },
+    {
+      "label": "King",
+      "value": "57430",
+      "issliced": "0"
+    }
+  ],
+  "styles": {
+    "definition": [
+      {
+        "type": "font",
+        "name": "CaptionFont",
+        "color": "666666",
+        "size": "15"
+      },
+      {
+        "type": "font",
+        "name": "SubCaptionFont",
+        "bold": "0"
+      }
+    ],
+    "application": [
+      {
+        "toobject": "caption",
+        "styles": "CaptionFont"
+      },
+      {
+        "toobject": "SubCaption",
+        "styles": "SubCaptionFont"
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "chart": {
+    "caption": "1996 - Average delay in Shipping Time (from the Required Time)",
+    "subcaption": "By Country",
+    "yaxisname": "Delay (in days)",
+    "xaxisname": "Country",
+    "palette": "2",
+    "animation": "1",
+    "showvalues": "0",
+    "formatnumberscale": "1",
+    "numbersuffix": " days",
+    "labeldisplay": "ROTATE",
+    "numdivlines": "5",
+    "slantlabels": "1"
+  },
+  "styles": {
+    "definition": [
+      {
+        "type": "font",
+        "name": "CaptionFont",
+        "size": "15",
+        "color": "666666"
+      },
+      {
+        "type": "font",
+        "name": "SubCaptionFont",
+        "bold": "0"
+      }
+    ],
+    "application": [
+      {
+        "toobject": "caption",
+        "styles": "CaptionFont"
+      },
+      {
+        "toobject": "SubCaption",
+        "styles": "SubCaptionFont"
+      }
+    ]
+  },
+  "data": [
+    {
+      "label": "Portugal",
+      "value": "8"
+    },
+    {
+      "label": "Belgium",
+      "value": "7"
+    },
+    {
+      "label": "Poland",
+      "value": "5"
+    },
+    {
+      "label": "Spain",
+      "value": "4"
+    },
+    {
+      "label": "Finland",
+      "value": "2"
+    },
+    {
+      "label": "Venezuela",
+      "value": "2"
+    },
+    {
+      "label": "Italy",
+      "value": "1"
+    },
+    {
+      "label": "Switzerland",
+      "value": "0"
+    },
+    {
+      "label": "France",
+      "value": "0"
+    },
+    {
+      "label": "UK",
+      "value": "0"
+    },
+    {
+      "label": "USA",
+      "value": "0"
+    },
+    {
+      "label": "Austria",
+      "value": "-1"
+    },
+    {
+      "label": "Germany",
+      "value": "-2"
+    },
+    {
+      "label": "Norway",
+      "value": "-3"
+    },
+    {
+      "label": "Argentina",
+      "value": "-3"
+    },
+    {
+      "label": "Denmark",
+      "value": "-4"
+    },
+    {
+      "label": "Sweden",
+      "value": "-4"
+    },
+    {
+      "label": "Brazil",
+      "value": "-5"
+    },
+    {
+      "label": "Canada",
+      "value": "-6"
+    },
+    {
+      "label": "Mexico",
+      "value": "-7"
+    },
+    {
+      "label": "Ireland",
+      "value": "-12"
+    }
+  ]
+}

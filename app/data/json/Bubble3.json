@@ -1,0 +1,191 @@
+{
+  "chart": {
+    "bgalpha": "0",
+    "canvasbgalpha": "0",
+    "xaxisname": "Price (Bt./kg.)",
+    "yaxisname": "Original Cost (Bt./kg.)",
+    "numdivlines": "4",
+    "showalternatevgridcolor": "1",
+    "alternatevgridalpha": "30",
+    "numberprefix": "$"
+  },
+  "categories": [
+    {
+      "verticallinecolor": "666666",
+      "verticallinealpha": "20",
+      "category": [
+        {
+          "label": "0",
+          "x": "0"
+        },
+        {
+          "label": "5",
+          "x": "5",
+          "sl": "1"
+        },
+        {
+          "label": "10",
+          "x": "10",
+          "sl": "1"
+        },
+        {
+          "label": "15",
+          "x": "15",
+          "sl": "1"
+        },
+        {
+          "label": "20",
+          "x": "20",
+          "sl": "1"
+        },
+        {
+          "label": "25",
+          "x": "25",
+          "sl": "1"
+        },
+        {
+          "label": "30",
+          "x": "30",
+          "sl": "1"
+        },
+        {
+          "label": "35",
+          "x": "35",
+          "sl": "1"
+        },
+        {
+          "label": "40",
+          "x": "40",
+          "sl": "1"
+        },
+        {
+          "label": "45",
+          "x": "45",
+          "sl": "1"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "color": "ff5904",
+      "seriesname": "1996",
+      "showvalues": "0",
+      "data": [
+        {
+          "x": "30",
+          "y": "35",
+          "z": "116",
+          "name": "Mango"
+        },
+        {
+          "x": "42",
+          "y": "60",
+          "z": "99",
+          "name": "Apple"
+        },
+        {
+          "x": "8",
+          "y": "15",
+          "z": "33",
+          "name": "Orange"
+        },
+        {
+          "x": "22",
+          "y": "30",
+          "z": "72",
+          "name": "Strawberry"
+        },
+        {
+          "x": "18",
+          "y": "20",
+          "z": "55",
+          "name": "Kiwi"
+        },
+        {
+          "x": "25",
+          "y": "41",
+          "z": "58",
+          "name": "Tomato"
+        },
+        {
+          "x": "12",
+          "y": "17",
+          "z": "80",
+          "name": "Cucumber"
+        },
+        {
+          "x": "20",
+          "y": "30",
+          "z": "105",
+          "name": "Potato"
+        }
+      ]
+    },
+    {
+      "color": "4371AB",
+      "seriesname": "1997",
+      "data": [
+        {
+          "x": "14",
+          "y": "35",
+          "z": "116",
+          "name": "Mango"
+        },
+        {
+          "x": "22",
+          "y": "20",
+          "z": "99",
+          "name": "Apple"
+        },
+        {
+          "x": "28",
+          "y": "25",
+          "z": "33",
+          "name": "Orange"
+        },
+        {
+          "x": "32",
+          "y": "20",
+          "z": "72",
+          "name": "Strawberry"
+        },
+        {
+          "x": "38",
+          "y": "20",
+          "z": "55",
+          "name": "Kiwi"
+        },
+        {
+          "x": "5",
+          "y": "21",
+          "z": "58",
+          "name": "Tomato"
+        },
+        {
+          "x": "2",
+          "y": "27",
+          "z": "80",
+          "name": "Cucumber"
+        },
+        {
+          "x": "12",
+          "y": "20",
+          "z": "105",
+          "name": "Potato"
+        }
+      ]
+    }
+  ],
+  "trendlines": [
+    {
+      "line": [
+        {
+          "value": "50",
+          "istrendzone": "0",
+          "displayvalue": "Trend"
+        }
+      ]
+    }
+  ]
+}

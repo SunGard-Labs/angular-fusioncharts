@@ -1,0 +1,3336 @@
+{
+  "chart": {
+    "caption": "Unique Website Visits in a Year",
+    "xaxisname": "Date",
+    "yaxisname": "Unique Visitors",
+    "divintervalhints": "0, 600, 1200, 1800",
+    "palette": "3"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "1st January 2009"
+        },
+        {
+          "label": "2nd January 2009"
+        },
+        {
+          "label": "3rd January 2009"
+        },
+        {
+          "label": "4th January 2009"
+        },
+        {
+          "label": "5th January 2009"
+        },
+        {
+          "label": "6th January 2009"
+        },
+        {
+          "label": "7th January 2009"
+        },
+        {
+          "label": "8th January 2009"
+        },
+        {
+          "label": "9th January 2009"
+        },
+        {
+          "label": "10th January 2009"
+        },
+        {
+          "label": "11th January 2009"
+        },
+        {
+          "label": "12th January 2009"
+        },
+        {
+          "label": "13th January 2009"
+        },
+        {
+          "label": "14th January 2009"
+        },
+        {
+          "label": "15th January 2009"
+        },
+        {
+          "label": "16th January 2009"
+        },
+        {
+          "label": "17th January 2009"
+        },
+        {
+          "label": "18th January 2009"
+        },
+        {
+          "label": "19th January 2009"
+        },
+        {
+          "label": "20th January 2009"
+        },
+        {
+          "label": "21st January 2009"
+        },
+        {
+          "label": "22nd January 2009"
+        },
+        {
+          "label": "23rd January 2009"
+        },
+        {
+          "label": "24th January 2009"
+        },
+        {
+          "label": "25th January 2009"
+        },
+        {
+          "label": "26th January 2009"
+        },
+        {
+          "label": "27th January 2009"
+        },
+        {
+          "label": "28th January 2009"
+        },
+        {
+          "label": "29th January 2009"
+        },
+        {
+          "label": "30th January 2009"
+        },
+        {
+          "label": "31st January 2009"
+        },
+        {
+          "label": "1st February 2009"
+        },
+        {
+          "label": "2nd February 2009"
+        },
+        {
+          "label": "3rd February 2009"
+        },
+        {
+          "label": "4th February 2009"
+        },
+        {
+          "label": "5th February 2009"
+        },
+        {
+          "label": "6th February 2009"
+        },
+        {
+          "label": "7th February 2009"
+        },
+        {
+          "label": "8th February 2009"
+        },
+        {
+          "label": "9th February 2009"
+        },
+        {
+          "label": "10th February 2009"
+        },
+        {
+          "label": "11th February 2009"
+        },
+        {
+          "label": "12th February 2009"
+        },
+        {
+          "label": "13th February 2009"
+        },
+        {
+          "label": "14th February 2009"
+        },
+        {
+          "label": "15th February 2009"
+        },
+        {
+          "label": "16th February 2009"
+        },
+        {
+          "label": "17th February 2009"
+        },
+        {
+          "label": "18th February 2009"
+        },
+        {
+          "label": "19th February 2009"
+        },
+        {
+          "label": "20th February 2009"
+        },
+        {
+          "label": "21st February 2009"
+        },
+        {
+          "label": "22nd February 2009"
+        },
+        {
+          "label": "23rd February 2009"
+        },
+        {
+          "label": "24th February 2009"
+        },
+        {
+          "label": "25th February 2009"
+        },
+        {
+          "label": "26th February 2009"
+        },
+        {
+          "label": "27th February 2009"
+        },
+        {
+          "label": "28th February 2009"
+        },
+        {
+          "label": "1st March 2009"
+        },
+        {
+          "label": "2nd March 2009"
+        },
+        {
+          "label": "3rd March 2009"
+        },
+        {
+          "label": "4th March 2009"
+        },
+        {
+          "label": "5th March 2009"
+        },
+        {
+          "label": "6th March 2009"
+        },
+        {
+          "label": "7th March 2009"
+        },
+        {
+          "label": "8th March 2009"
+        },
+        {
+          "label": "9th March 2009"
+        },
+        {
+          "label": "10th March 2009"
+        },
+        {
+          "label": "11th March 2009"
+        },
+        {
+          "label": "12th March 2009"
+        },
+        {
+          "label": "13th March 2009"
+        },
+        {
+          "label": "14th March 2009"
+        },
+        {
+          "label": "15th March 2009"
+        },
+        {
+          "label": "16th March 2009"
+        },
+        {
+          "label": "17th March 2009"
+        },
+        {
+          "label": "18th March 2009"
+        },
+        {
+          "label": "19th March 2009"
+        },
+        {
+          "label": "20th March 2009"
+        },
+        {
+          "label": "21st March 2009"
+        },
+        {
+          "label": "22nd March 2009"
+        },
+        {
+          "label": "23rd March 2009"
+        },
+        {
+          "label": "24th March 2009"
+        },
+        {
+          "label": "25th March 2009"
+        },
+        {
+          "label": "26th March 2009"
+        },
+        {
+          "label": "27th March 2009"
+        },
+        {
+          "label": "28th March 2009"
+        },
+        {
+          "label": "29th March 2009"
+        },
+        {
+          "label": "30th March 2009"
+        },
+        {
+          "label": "31st March 2009"
+        },
+        {
+          "label": "1st April 2009"
+        },
+        {
+          "label": "2nd April 2009"
+        },
+        {
+          "label": "3rd April 2009"
+        },
+        {
+          "label": "4th April 2009"
+        },
+        {
+          "label": "5th April 2009"
+        },
+        {
+          "label": "6th April 2009"
+        },
+        {
+          "label": "7th April 2009"
+        },
+        {
+          "label": "8th April 2009"
+        },
+        {
+          "label": "9th April 2009"
+        },
+        {
+          "label": "10th April 2009"
+        },
+        {
+          "label": "11th April 2009"
+        },
+        {
+          "label": "12th April 2009"
+        },
+        {
+          "label": "13th April 2009"
+        },
+        {
+          "label": "14th April 2009"
+        },
+        {
+          "label": "15th April 2009"
+        },
+        {
+          "label": "16th April 2009"
+        },
+        {
+          "label": "17th April 2009"
+        },
+        {
+          "label": "18th April 2009"
+        },
+        {
+          "label": "19th April 2009"
+        },
+        {
+          "label": "20th April 2009"
+        },
+        {
+          "label": "21st April 2009"
+        },
+        {
+          "label": "22nd April 2009"
+        },
+        {
+          "label": "23rd April 2009"
+        },
+        {
+          "label": "24th April 2009"
+        },
+        {
+          "label": "25th April 2009"
+        },
+        {
+          "label": "26th April 2009"
+        },
+        {
+          "label": "27th April 2009"
+        },
+        {
+          "label": "28th April 2009"
+        },
+        {
+          "label": "29th April 2009"
+        },
+        {
+          "label": "30th April 2009"
+        },
+        {
+          "label": "1st May 2009"
+        },
+        {
+          "label": "2nd May 2009"
+        },
+        {
+          "label": "3rd May 2009"
+        },
+        {
+          "label": "4th May 2009"
+        },
+        {
+          "label": "5th May 2009"
+        },
+        {
+          "label": "6th May 2009"
+        },
+        {
+          "label": "7th May 2009"
+        },
+        {
+          "label": "8th May 2009"
+        },
+        {
+          "label": "9th May 2009"
+        },
+        {
+          "label": "10th May 2009"
+        },
+        {
+          "label": "11th May 2009"
+        },
+        {
+          "label": "12th May 2009"
+        },
+        {
+          "label": "13th May 2009"
+        },
+        {
+          "label": "14th May 2009"
+        },
+        {
+          "label": "15th May 2009"
+        },
+        {
+          "label": "16th May 2009"
+        },
+        {
+          "label": "17th May 2009"
+        },
+        {
+          "label": "18th May 2009"
+        },
+        {
+          "label": "19th May 2009"
+        },
+        {
+          "label": "20th May 2009"
+        },
+        {
+          "label": "21st May 2009"
+        },
+        {
+          "label": "22nd May 2009"
+        },
+        {
+          "label": "23rd May 2009"
+        },
+        {
+          "label": "24th May 2009"
+        },
+        {
+          "label": "25th May 2009"
+        },
+        {
+          "label": "26th May 2009"
+        },
+        {
+          "label": "27th May 2009"
+        },
+        {
+          "label": "28th May 2009"
+        },
+        {
+          "label": "29th May 2009"
+        },
+        {
+          "label": "30th May 2009"
+        },
+        {
+          "label": "31st May 2009"
+        },
+        {
+          "label": "1st June 2009"
+        },
+        {
+          "label": "2nd June 2009"
+        },
+        {
+          "label": "3rd June 2009"
+        },
+        {
+          "label": "4th June 2009"
+        },
+        {
+          "label": "5th June 2009"
+        },
+        {
+          "label": "6th June 2009"
+        },
+        {
+          "label": "7th June 2009"
+        },
+        {
+          "label": "8th June 2009"
+        },
+        {
+          "label": "9th June 2009"
+        },
+        {
+          "label": "10th June 2009"
+        },
+        {
+          "label": "11th June 2009"
+        },
+        {
+          "label": "12th June 2009"
+        },
+        {
+          "label": "13th June 2009"
+        },
+        {
+          "label": "14th June 2009"
+        },
+        {
+          "label": "15th June 2009"
+        },
+        {
+          "label": "16th June 2009"
+        },
+        {
+          "label": "17th June 2009"
+        },
+        {
+          "label": "18th June 2009"
+        },
+        {
+          "label": "19th June 2009"
+        },
+        {
+          "label": "20th June 2009"
+        },
+        {
+          "label": "21st June 2009"
+        },
+        {
+          "label": "22nd June 2009"
+        },
+        {
+          "label": "23rd June 2009"
+        },
+        {
+          "label": "24th June 2009"
+        },
+        {
+          "label": "25th June 2009"
+        },
+        {
+          "label": "26th June 2009"
+        },
+        {
+          "label": "27th June 2009"
+        },
+        {
+          "label": "28th June 2009"
+        },
+        {
+          "label": "29th June 2009"
+        },
+        {
+          "label": "30th June 2009"
+        },
+        {
+          "label": "1st July 2009"
+        },
+        {
+          "label": "2nd July 2009"
+        },
+        {
+          "label": "3rd July 2009"
+        },
+        {
+          "label": "4th July 2009"
+        },
+        {
+          "label": "5th July 2009"
+        },
+        {
+          "label": "6th July 2009"
+        },
+        {
+          "label": "7th July 2009"
+        },
+        {
+          "label": "8th July 2009"
+        },
+        {
+          "label": "9th July 2009"
+        },
+        {
+          "label": "10th July 2009"
+        },
+        {
+          "label": "11th July 2009"
+        },
+        {
+          "label": "12th July 2009"
+        },
+        {
+          "label": "13th July 2009"
+        },
+        {
+          "label": "14th July 2009"
+        },
+        {
+          "label": "15th July 2009"
+        },
+        {
+          "label": "16th July 2009"
+        },
+        {
+          "label": "17th July 2009"
+        },
+        {
+          "label": "18th July 2009"
+        },
+        {
+          "label": "19th July 2009"
+        },
+        {
+          "label": "20th July 2009"
+        },
+        {
+          "label": "21st July 2009"
+        },
+        {
+          "label": "22nd July 2009"
+        },
+        {
+          "label": "23rd July 2009"
+        },
+        {
+          "label": "24th July 2009"
+        },
+        {
+          "label": "25th July 2009"
+        },
+        {
+          "label": "26th July 2009"
+        },
+        {
+          "label": "27th July 2009"
+        },
+        {
+          "label": "28th July 2009"
+        },
+        {
+          "label": "29th July 2009"
+        },
+        {
+          "label": "30th July 2009"
+        },
+        {
+          "label": "31st July 2009"
+        },
+        {
+          "label": "1st August 2009"
+        },
+        {
+          "label": "2nd August 2009"
+        },
+        {
+          "label": "3rd August 2009"
+        },
+        {
+          "label": "4th August 2009"
+        },
+        {
+          "label": "5th August 2009"
+        },
+        {
+          "label": "6th August 2009"
+        },
+        {
+          "label": "7th August 2009"
+        },
+        {
+          "label": "8th August 2009"
+        },
+        {
+          "label": "9th August 2009"
+        },
+        {
+          "label": "10th August 2009"
+        },
+        {
+          "label": "11th August 2009"
+        },
+        {
+          "label": "12th August 2009"
+        },
+        {
+          "label": "13th August 2009"
+        },
+        {
+          "label": "14th August 2009"
+        },
+        {
+          "label": "15th August 2009"
+        },
+        {
+          "label": "16th August 2009"
+        },
+        {
+          "label": "17th August 2009"
+        },
+        {
+          "label": "18th August 2009"
+        },
+        {
+          "label": "19th August 2009"
+        },
+        {
+          "label": "20th August 2009"
+        },
+        {
+          "label": "21st August 2009"
+        },
+        {
+          "label": "22nd August 2009"
+        },
+        {
+          "label": "23rd August 2009"
+        },
+        {
+          "label": "24th August 2009"
+        },
+        {
+          "label": "25th August 2009"
+        },
+        {
+          "label": "26th August 2009"
+        },
+        {
+          "label": "27th August 2009"
+        },
+        {
+          "label": "28th August 2009"
+        },
+        {
+          "label": "29th August 2009"
+        },
+        {
+          "label": "30th August 2009"
+        },
+        {
+          "label": "31st August 2009"
+        },
+        {
+          "label": "1st September 2009"
+        },
+        {
+          "label": "2nd September 2009"
+        },
+        {
+          "label": "3rd September 2009"
+        },
+        {
+          "label": "4th September 2009"
+        },
+        {
+          "label": "5th September 2009"
+        },
+        {
+          "label": "6th September 2009"
+        },
+        {
+          "label": "7th September 2009"
+        },
+        {
+          "label": "8th September 2009"
+        },
+        {
+          "label": "9th September 2009"
+        },
+        {
+          "label": "10th September 2009"
+        },
+        {
+          "label": "11th September 2009"
+        },
+        {
+          "label": "12th September 2009"
+        },
+        {
+          "label": "13th September 2009"
+        },
+        {
+          "label": "14th September 2009"
+        },
+        {
+          "label": "15th September 2009"
+        },
+        {
+          "label": "16th September 2009"
+        },
+        {
+          "label": "17th September 2009"
+        },
+        {
+          "label": "18th September 2009"
+        },
+        {
+          "label": "19th September 2009"
+        },
+        {
+          "label": "20th September 2009"
+        },
+        {
+          "label": "21st September 2009"
+        },
+        {
+          "label": "22nd September 2009"
+        },
+        {
+          "label": "23rd September 2009"
+        },
+        {
+          "label": "24th September 2009"
+        },
+        {
+          "label": "25th September 2009"
+        },
+        {
+          "label": "26th September 2009"
+        },
+        {
+          "label": "27th September 2009"
+        },
+        {
+          "label": "28th September 2009"
+        },
+        {
+          "label": "29th September 2009"
+        },
+        {
+          "label": "30th September 2009"
+        },
+        {
+          "label": "1st October 2009"
+        },
+        {
+          "label": "2nd October 2009"
+        },
+        {
+          "label": "3rd October 2009"
+        },
+        {
+          "label": "4th October 2009"
+        },
+        {
+          "label": "5th October 2009"
+        },
+        {
+          "label": "6th October 2009"
+        },
+        {
+          "label": "7th October 2009"
+        },
+        {
+          "label": "8th October 2009"
+        },
+        {
+          "label": "9th October 2009"
+        },
+        {
+          "label": "10th October 2009"
+        },
+        {
+          "label": "11th October 2009"
+        },
+        {
+          "label": "12th October 2009"
+        },
+        {
+          "label": "13th October 2009"
+        },
+        {
+          "label": "14th October 2009"
+        },
+        {
+          "label": "15th October 2009"
+        },
+        {
+          "label": "16th October 2009"
+        },
+        {
+          "label": "17th October 2009"
+        },
+        {
+          "label": "18th October 2009"
+        },
+        {
+          "label": "19th October 2009"
+        },
+        {
+          "label": "20th October 2009"
+        },
+        {
+          "label": "21st October 2009"
+        },
+        {
+          "label": "22nd October 2009"
+        },
+        {
+          "label": "23rd October 2009"
+        },
+        {
+          "label": "24th October 2009"
+        },
+        {
+          "label": "25th October 2009"
+        },
+        {
+          "label": "26th October 2009"
+        },
+        {
+          "label": "27th October 2009"
+        },
+        {
+          "label": "28th October 2009"
+        },
+        {
+          "label": "29th October 2009"
+        },
+        {
+          "label": "30th October 2009"
+        },
+        {
+          "label": "31st October 2009"
+        },
+        {
+          "label": "1st November 2009"
+        },
+        {
+          "label": "2nd November 2009"
+        },
+        {
+          "label": "3rd November 2009"
+        },
+        {
+          "label": "4th November 2009"
+        },
+        {
+          "label": "5th November 2009"
+        },
+        {
+          "label": "6th November 2009"
+        },
+        {
+          "label": "7th November 2009"
+        },
+        {
+          "label": "8th November 2009"
+        },
+        {
+          "label": "9th November 2009"
+        },
+        {
+          "label": "10th November 2009"
+        },
+        {
+          "label": "11th November 2009"
+        },
+        {
+          "label": "12th November 2009"
+        },
+        {
+          "label": "13th November 2009"
+        },
+        {
+          "label": "14th November 2009"
+        },
+        {
+          "label": "15th November 2009"
+        },
+        {
+          "label": "16th November 2009"
+        },
+        {
+          "label": "17th November 2009"
+        },
+        {
+          "label": "18th November 2009"
+        },
+        {
+          "label": "19th November 2009"
+        },
+        {
+          "label": "20th November 2009"
+        },
+        {
+          "label": "21st November 2009"
+        },
+        {
+          "label": "22nd November 2009"
+        },
+        {
+          "label": "23rd November 2009"
+        },
+        {
+          "label": "24th November 2009"
+        },
+        {
+          "label": "25th November 2009"
+        },
+        {
+          "label": "26th November 2009"
+        },
+        {
+          "label": "27th November 2009"
+        },
+        {
+          "label": "28th November 2009"
+        },
+        {
+          "label": "29th November 2009"
+        },
+        {
+          "label": "30th November 2009"
+        },
+        {
+          "label": "1st December 2009"
+        },
+        {
+          "label": "2nd December 2009"
+        },
+        {
+          "label": "3rd December 2009"
+        },
+        {
+          "label": "4th December 2009"
+        },
+        {
+          "label": "5th December 2009"
+        },
+        {
+          "label": "6th December 2009"
+        },
+        {
+          "label": "7th December 2009"
+        },
+        {
+          "label": "8th December 2009"
+        },
+        {
+          "label": "9th December 2009"
+        },
+        {
+          "label": "10th December 2009"
+        },
+        {
+          "label": "11th December 2009"
+        },
+        {
+          "label": "12th December 2009"
+        },
+        {
+          "label": "13th December 2009"
+        },
+        {
+          "label": "14th December 2009"
+        },
+        {
+          "label": "15th December 2009"
+        },
+        {
+          "label": "16th December 2009"
+        },
+        {
+          "label": "17th December 2009"
+        },
+        {
+          "label": "18th December 2009"
+        },
+        {
+          "label": "19th December 2009"
+        },
+        {
+          "label": "20th December 2009"
+        },
+        {
+          "label": "21st December 2009"
+        },
+        {
+          "label": "22nd December 2009"
+        },
+        {
+          "label": "23rd December 2009"
+        },
+        {
+          "label": "24th December 2009"
+        },
+        {
+          "label": "25th December 2009"
+        },
+        {
+          "label": "26th December 2009"
+        },
+        {
+          "label": "27th December 2009"
+        },
+        {
+          "label": "28th December 2009"
+        },
+        {
+          "label": "29th December 2009"
+        },
+        {
+          "label": "30th December 2009"
+        },
+        {
+          "label": "31st December 2009"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Website A",
+      "data": [
+        {
+          "value": "300"
+        },
+        {
+          "value": "349"
+        },
+        {
+          "value": "627"
+        },
+        {
+          "value": "445"
+        },
+        {
+          "value": "623"
+        },
+        {
+          "value": "575"
+        },
+        {
+          "value": "567"
+        },
+        {
+          "value": "576"
+        },
+        {
+          "value": "745"
+        },
+        {
+          "value": "409"
+        },
+        {
+          "value": "647"
+        },
+        {
+          "value": "690"
+        },
+        {
+          "value": "502"
+        },
+        {
+          "value": "471"
+        },
+        {
+          "value": "694"
+        },
+        {
+          "value": "707"
+        },
+        {
+          "value": "725"
+        },
+        {
+          "value": "951"
+        },
+        {
+          "value": "853"
+        },
+        {
+          "value": "846"
+        },
+        {
+          "value": "995"
+        },
+        {
+          "value": "967"
+        },
+        {
+          "value": "1084"
+        },
+        {
+          "value": "1028"
+        },
+        {
+          "value": "736"
+        },
+        {
+          "value": "1105"
+        },
+        {
+          "value": "541"
+        },
+        {
+          "value": "780"
+        },
+        {
+          "value": "940"
+        },
+        {
+          "value": "1047"
+        },
+        {
+          "value": "847"
+        },
+        {
+          "value": "853"
+        },
+        {
+          "value": "1106"
+        },
+        {
+          "value": "963"
+        },
+        {
+          "value": "949"
+        },
+        {
+          "value": "1079"
+        },
+        {
+          "value": "797"
+        },
+        {
+          "value": "941"
+        },
+        {
+          "value": "964"
+        },
+        {
+          "value": "1008"
+        },
+        {
+          "value": "1267"
+        },
+        {
+          "value": "1162"
+        },
+        {
+          "value": "835"
+        },
+        {
+          "value": "980"
+        },
+        {
+          "value": "683"
+        },
+        {
+          "value": "933"
+        },
+        {
+          "value": "1163"
+        },
+        {
+          "value": "1277"
+        },
+        {
+          "value": "984"
+        },
+        {
+          "value": "678"
+        },
+        {
+          "value": "1018"
+        },
+        {
+          "value": "694"
+        },
+        {
+          "value": "1038"
+        },
+        {
+          "value": "598"
+        },
+        {
+          "value": "922"
+        },
+        {
+          "value": "835"
+        },
+        {
+          "value": "686"
+        },
+        {
+          "value": "789"
+        },
+        {
+          "value": "873"
+        },
+        {
+          "value": "724"
+        },
+        {
+          "value": "1260"
+        },
+        {
+          "value": "1746"
+        },
+        {
+          "value": "1070"
+        },
+        {
+          "value": "711"
+        },
+        {
+          "value": "854"
+        },
+        {
+          "value": "725"
+        },
+        {
+          "value": "812"
+        },
+        {
+          "value": "944"
+        },
+        {
+          "value": "952"
+        },
+        {
+          "value": "989"
+        },
+        {
+          "value": "1047"
+        },
+        {
+          "value": "841"
+        },
+        {
+          "value": "930"
+        },
+        {
+          "value": "1051"
+        },
+        {
+          "value": "1288"
+        },
+        {
+          "value": "1213"
+        },
+        {
+          "value": "1027"
+        },
+        {
+          "value": "1297"
+        },
+        {
+          "value": "1022"
+        },
+        {
+          "value": "886"
+        },
+        {
+          "value": "866"
+        },
+        {
+          "value": "1550"
+        },
+        {
+          "value": "1345"
+        },
+        {
+          "value": "871"
+        },
+        {
+          "value": "784"
+        },
+        {
+          "value": "1221"
+        },
+        {
+          "value": "1142"
+        },
+        {
+          "value": "1147"
+        },
+        {
+          "value": "1520"
+        },
+        {
+          "value": "1254"
+        },
+        {
+          "value": "1665"
+        },
+        {
+          "value": "1027"
+        },
+        {
+          "value": "1266"
+        },
+        {
+          "value": "1088"
+        },
+        {
+          "value": "1470"
+        },
+        {
+          "value": "1760"
+        },
+        {
+          "value": "1298"
+        },
+        {
+          "value": "1184"
+        },
+        {
+          "value": "879"
+        },
+        {
+          "value": "957"
+        },
+        {
+          "value": "719"
+        },
+        {
+          "value": "730"
+        },
+        {
+          "value": "1309"
+        },
+        {
+          "value": "819"
+        },
+        {
+          "value": "897"
+        },
+        {
+          "value": "934"
+        },
+        {
+          "value": "960"
+        },
+        {
+          "value": "717"
+        },
+        {
+          "value": "656"
+        },
+        {
+          "value": "1072"
+        },
+        {
+          "value": "1021"
+        },
+        {
+          "value": "1121"
+        },
+        {
+          "value": "600"
+        },
+        {
+          "value": "671"
+        },
+        {
+          "value": "730"
+        },
+        {
+          "value": "796"
+        },
+        {
+          "value": "811"
+        },
+        {
+          "value": "933"
+        },
+        {
+          "value": "752"
+        },
+        {
+          "value": "548"
+        },
+        {
+          "value": "507"
+        },
+        {
+          "value": "456"
+        },
+        {
+          "value": "905"
+        },
+        {
+          "value": "887"
+        },
+        {
+          "value": "824"
+        },
+        {
+          "value": "818"
+        },
+        {
+          "value": "769"
+        },
+        {
+          "value": "648"
+        },
+        {
+          "value": "1477"
+        },
+        {
+          "value": "661"
+        },
+        {
+          "value": "847"
+        },
+        {
+          "value": "1551"
+        },
+        {
+          "value": "780"
+        },
+        {
+          "value": "636"
+        },
+        {
+          "value": "672"
+        },
+        {
+          "value": "455"
+        },
+        {
+          "value": "880"
+        },
+        {
+          "value": "884"
+        },
+        {
+          "value": "1120"
+        },
+        {
+          "value": "1664"
+        },
+        {
+          "value": "513"
+        },
+        {
+          "value": "1174"
+        },
+        {
+          "value": "935"
+        },
+        {
+          "value": "760"
+        },
+        {
+          "value": "942"
+        },
+        {
+          "value": "1347"
+        },
+        {
+          "value": "1004"
+        },
+        {
+          "value": "814"
+        },
+        {
+          "value": "617"
+        },
+        {
+          "value": "852"
+        },
+        {
+          "value": "632"
+        },
+        {
+          "value": "808"
+        },
+        {
+          "value": "990"
+        },
+        {
+          "value": "746"
+        },
+        {
+          "value": "1099"
+        },
+        {
+          "value": "679"
+        },
+        {
+          "value": "750"
+        },
+        {
+          "value": "544"
+        },
+        {
+          "value": "1194"
+        },
+        {
+          "value": "935"
+        },
+        {
+          "value": "846"
+        },
+        {
+          "value": "1043"
+        },
+        {
+          "value": "741"
+        },
+        {
+          "value": "669"
+        },
+        {
+          "value": "689"
+        },
+        {
+          "value": "872"
+        },
+        {
+          "value": "1051"
+        },
+        {
+          "value": "677"
+        },
+        {
+          "value": "611"
+        },
+        {
+          "value": "709"
+        },
+        {
+          "value": "441"
+        },
+        {
+          "value": "598"
+        },
+        {
+          "value": "586"
+        },
+        {
+          "value": "941"
+        },
+        {
+          "value": "919"
+        },
+        {
+          "value": "822"
+        },
+        {
+          "value": "1007"
+        },
+        {
+          "value": "992"
+        },
+        {
+          "value": "766"
+        },
+        {
+          "value": "855"
+        },
+        {
+          "value": "1016"
+        },
+        {
+          "value": "903"
+        },
+        {
+          "value": "761"
+        },
+        {
+          "value": "574"
+        },
+        {
+          "value": "309"
+        },
+        {
+          "value": "634"
+        },
+        {
+          "value": "1098"
+        },
+        {
+          "value": "633"
+        },
+        {
+          "value": "993"
+        },
+        {
+          "value": "957"
+        },
+        {
+          "value": "1145"
+        },
+        {
+          "value": "731"
+        },
+        {
+          "value": "680"
+        },
+        {
+          "value": "906"
+        },
+        {
+          "value": "1232"
+        },
+        {
+          "value": "1142"
+        },
+        {
+          "value": "779"
+        },
+        {
+          "value": "636"
+        },
+        {
+          "value": "601"
+        },
+        {
+          "value": "768"
+        },
+        {
+          "value": "582"
+        },
+        {
+          "value": "1042"
+        },
+        {
+          "value": "1096"
+        },
+        {
+          "value": "1405"
+        },
+        {
+          "value": "568"
+        },
+        {
+          "value": "712"
+        },
+        {
+          "value": "673"
+        },
+        {
+          "value": "754"
+        },
+        {
+          "value": "1082"
+        },
+        {
+          "value": "1157"
+        },
+        {
+          "value": "1203"
+        },
+        {
+          "value": "845"
+        },
+        {
+          "value": "659"
+        },
+        {
+          "value": "475"
+        },
+        {
+          "value": "896"
+        },
+        {
+          "value": "1128"
+        },
+        {
+          "value": "1332"
+        },
+        {
+          "value": "915"
+        },
+        {
+          "value": "535"
+        },
+        {
+          "value": "441"
+        },
+        {
+          "value": "1020"
+        },
+        {
+          "value": "1050"
+        },
+        {
+          "value": "795"
+        },
+        {
+          "value": "634"
+        },
+        {
+          "value": "711"
+        },
+        {
+          "value": "529"
+        },
+        {
+          "value": "666"
+        },
+        {
+          "value": "702"
+        },
+        {
+          "value": "686"
+        },
+        {
+          "value": "823"
+        },
+        {
+          "value": "834"
+        },
+        {
+          "value": "797"
+        },
+        {
+          "value": "1008"
+        },
+        {
+          "value": "645"
+        },
+        {
+          "value": "757"
+        },
+        {
+          "value": "761"
+        },
+        {
+          "value": "878"
+        },
+        {
+          "value": "752"
+        },
+        {
+          "value": "876"
+        },
+        {
+          "value": "769"
+        },
+        {
+          "value": "1264"
+        },
+        {
+          "value": "1037"
+        },
+        {
+          "value": "1202"
+        },
+        {
+          "value": "965"
+        },
+        {
+          "value": "1165"
+        },
+        {
+          "value": "1167"
+        },
+        {
+          "value": "896"
+        },
+        {
+          "value": "1285"
+        },
+        {
+          "value": "851"
+        },
+        {
+          "value": "808"
+        },
+        {
+          "value": "893"
+        },
+        {
+          "value": "831"
+        },
+        {
+          "value": "695"
+        },
+        {
+          "value": "801"
+        },
+        {
+          "value": "848"
+        },
+        {
+          "value": "1319"
+        },
+        {
+          "value": "1126"
+        },
+        {
+          "value": "1171"
+        },
+        {
+          "value": "889"
+        },
+        {
+          "value": "1108"
+        },
+        {
+          "value": "1435"
+        },
+        {
+          "value": "1130"
+        },
+        {
+          "value": "975"
+        },
+        {
+          "value": "978"
+        },
+        {
+          "value": "1501"
+        },
+        {
+          "value": "1036"
+        },
+        {
+          "value": "1161"
+        },
+        {
+          "value": "1318"
+        },
+        {
+          "value": "727"
+        },
+        {
+          "value": "975"
+        },
+        {
+          "value": "1821"
+        },
+        {
+          "value": "1569"
+        },
+        {
+          "value": "1247"
+        },
+        {
+          "value": "1015"
+        },
+        {
+          "value": "1034"
+        },
+        {
+          "value": "953"
+        },
+        {
+          "value": "1325"
+        },
+        {
+          "value": "1543"
+        },
+        {
+          "value": "1515"
+        },
+        {
+          "value": "1565"
+        },
+        {
+          "value": "1517"
+        },
+        {
+          "value": "962"
+        },
+        {
+          "value": "1353"
+        },
+        {
+          "value": "1541"
+        },
+        {
+          "value": "1204"
+        },
+        {
+          "value": "1476"
+        },
+        {
+          "value": "1215"
+        },
+        {
+          "value": "1262"
+        },
+        {
+          "value": "885"
+        },
+        {
+          "value": "1606"
+        },
+        {
+          "value": "995"
+        },
+        {
+          "value": "1872"
+        },
+        {
+          "value": "1402"
+        },
+        {
+          "value": "1499"
+        },
+        {
+          "value": "1031"
+        },
+        {
+          "value": "870"
+        },
+        {
+          "value": "1001"
+        },
+        {
+          "value": "1541"
+        },
+        {
+          "value": "1392"
+        },
+        {
+          "value": "1716"
+        },
+        {
+          "value": "1826"
+        },
+        {
+          "value": "993"
+        },
+        {
+          "value": "1152"
+        },
+        {
+          "value": "732"
+        },
+        {
+          "value": "792"
+        },
+        {
+          "value": "1262"
+        },
+        {
+          "value": "1860"
+        },
+        {
+          "value": "1407"
+        },
+        {
+          "value": "1216"
+        },
+        {
+          "value": "989"
+        },
+        {
+          "value": "830"
+        },
+        {
+          "value": "892"
+        },
+        {
+          "value": "1620"
+        },
+        {
+          "value": "1326"
+        },
+        {
+          "value": "1164"
+        },
+        {
+          "value": "1679"
+        },
+        {
+          "value": "958"
+        },
+        {
+          "value": "1254"
+        },
+        {
+          "value": "971"
+        },
+        {
+          "value": "1428"
+        },
+        {
+          "value": "1696"
+        },
+        {
+          "value": "952"
+        },
+        {
+          "value": "1329"
+        },
+        {
+          "value": "1276"
+        },
+        {
+          "value": "732"
+        },
+        {
+          "value": "1335"
+        },
+        {
+          "value": "1353"
+        },
+        {
+          "value": "837"
+        },
+        {
+          "value": "906"
+        },
+        {
+          "value": "734"
+        },
+        {
+          "value": "656"
+        },
+        {
+          "value": "636"
+        },
+        {
+          "value": "585"
+        },
+        {
+          "value": "1103"
+        },
+        {
+          "value": "910"
+        },
+        {
+          "value": "995"
+        },
+        {
+          "value": "1046"
+        },
+        {
+          "value": "932"
+        },
+        {
+          "value": "1123"
+        },
+        {
+          "value": "1158"
+        },
+        {
+          "value": "895"
+        },
+        {
+          "value": "1412"
+        },
+        {
+          "value": "1406"
+        },
+        {
+          "value": "971"
+        },
+        {
+          "value": "926"
+        },
+        {
+          "value": "649"
+        },
+        {
+          "value": "1140"
+        },
+        {
+          "value": "929"
+        },
+        {
+          "value": "1350"
+        },
+        {
+          "value": "701"
+        },
+        {
+          "value": "611"
+        },
+        {
+          "value": "544"
+        },
+        {
+          "value": "527"
+        },
+        {
+          "value": "483"
+        },
+        {
+          "value": "522"
+        },
+        {
+          "value": "542"
+        },
+        {
+          "value": "115"
+        },
+        {
+          "value": "340"
+        },
+        {
+          "value": "033"
+        },
+        {
+          "value": "234"
+        },
+        {
+          "value": "123"
+        },
+        {
+          "value": "455"
+        },
+        {
+          "value": "125"
+        },
+        {
+          "value": "230"
+        },
+        {
+          "value": "276"
+        }
+      ]
+    },
+    {
+      "seriesname": "Website B",
+      "data": [
+        {
+          "value": "200"
+        },
+        {
+          "value": "480"
+        },
+        {
+          "value": "790"
+        },
+        {
+          "value": "600"
+        },
+        {
+          "value": "750"
+        },
+        {
+          "value": "600"
+        },
+        {
+          "value": "520"
+        },
+        {
+          "value": "430"
+        },
+        {
+          "value": "730"
+        },
+        {
+          "value": "505"
+        },
+        {
+          "value": "548"
+        },
+        {
+          "value": "520"
+        },
+        {
+          "value": "320"
+        },
+        {
+          "value": "281"
+        },
+        {
+          "value": "150"
+        },
+        {
+          "value": "470"
+        },
+        {
+          "value": "750"
+        },
+        {
+          "value": "1350"
+        },
+        {
+          "value": "1270"
+        },
+        {
+          "value": "1160"
+        },
+        {
+          "value": "1315"
+        },
+        {
+          "value": "1550"
+        },
+        {
+          "value": "900"
+        },
+        {
+          "value": "700"
+        },
+        {
+          "value": "450"
+        },
+        {
+          "value": "1305"
+        },
+        {
+          "value": "771"
+        },
+        {
+          "value": "1040"
+        },
+        {
+          "value": "1240"
+        },
+        {
+          "value": "1447"
+        },
+        {
+          "value": "1247"
+        },
+        {
+          "value": "1453"
+        },
+        {
+          "value": "1660"
+        },
+        {
+          "value": "1163"
+        },
+        {
+          "value": "1349"
+        },
+        {
+          "value": "1450"
+        },
+        {
+          "value": "997"
+        },
+        {
+          "value": "1241"
+        },
+        {
+          "value": "1264"
+        },
+        {
+          "value": "1200"
+        },
+        {
+          "value": "1267"
+        },
+        {
+          "value": "1772"
+        },
+        {
+          "value": "1335"
+        },
+        {
+          "value": "1280"
+        },
+        {
+          "value": "1650"
+        },
+        {
+          "value": "533"
+        },
+        {
+          "value": "663"
+        },
+        {
+          "value": "777"
+        },
+        {
+          "value": "884"
+        },
+        {
+          "value": "900"
+        },
+        {
+          "value": "1118"
+        },
+        {
+          "value": "1204"
+        },
+        {
+          "value": "1338"
+        },
+        {
+          "value": "1498"
+        },
+        {
+          "value": "1510"
+        },
+        {
+          "value": "1635"
+        },
+        {
+          "value": "1786"
+        },
+        {
+          "value": "1505"
+        },
+        {
+          "value": "1673"
+        },
+        {
+          "value": "1790"
+        },
+        {
+          "value": "1360"
+        },
+        {
+          "value": "1146"
+        },
+        {
+          "value": "925"
+        },
+        {
+          "value": "611"
+        },
+        {
+          "value": "554"
+        },
+        {
+          "value": "425"
+        },
+        {
+          "value": "412"
+        },
+        {
+          "value": "444"
+        },
+        {
+          "value": "410"
+        },
+        {
+          "value": "489"
+        },
+        {
+          "value": "747"
+        },
+        {
+          "value": "912"
+        },
+        {
+          "value": "1130"
+        },
+        {
+          "value": "1451"
+        },
+        {
+          "value": "1288"
+        },
+        {
+          "value": "1300"
+        },
+        {
+          "value": "1127"
+        },
+        {
+          "value": "1097"
+        },
+        {
+          "value": "900"
+        },
+        {
+          "value": "786"
+        },
+        {
+          "value": "1266"
+        },
+        {
+          "value": "1350"
+        },
+        {
+          "value": "1400"
+        },
+        {
+          "value": "1501"
+        },
+        {
+          "value": "1484"
+        },
+        {
+          "value": "1121"
+        },
+        {
+          "value": "1200"
+        },
+        {
+          "value": "1347"
+        },
+        {
+          "value": "1420"
+        },
+        {
+          "value": "1554"
+        },
+        {
+          "value": "1525"
+        },
+        {
+          "value": "1427"
+        },
+        {
+          "value": "1366"
+        },
+        {
+          "value": "1288"
+        },
+        {
+          "value": "1170"
+        },
+        {
+          "value": "1050"
+        },
+        {
+          "value": "1098"
+        },
+        {
+          "value": "984"
+        },
+        {
+          "value": "850"
+        },
+        {
+          "value": "657"
+        },
+        {
+          "value": "519"
+        },
+        {
+          "value": "430"
+        },
+        {
+          "value": "309"
+        },
+        {
+          "value": "519"
+        },
+        {
+          "value": "797"
+        },
+        {
+          "value": "834"
+        },
+        {
+          "value": "860"
+        },
+        {
+          "value": "817"
+        },
+        {
+          "value": "656"
+        },
+        {
+          "value": "872"
+        },
+        {
+          "value": "821"
+        },
+        {
+          "value": "821"
+        },
+        {
+          "value": "800"
+        },
+        {
+          "value": "871"
+        },
+        {
+          "value": "830"
+        },
+        {
+          "value": "896"
+        },
+        {
+          "value": "911"
+        },
+        {
+          "value": "950"
+        },
+        {
+          "value": "952"
+        },
+        {
+          "value": "948"
+        },
+        {
+          "value": "907"
+        },
+        {
+          "value": "956"
+        },
+        {
+          "value": "905"
+        },
+        {
+          "value": "987"
+        },
+        {
+          "value": "924"
+        },
+        {
+          "value": "918"
+        },
+        {
+          "value": "969"
+        },
+        {
+          "value": "948"
+        },
+        {
+          "value": "977"
+        },
+        {
+          "value": "961"
+        },
+        {
+          "value": "947"
+        },
+        {
+          "value": "951"
+        },
+        {
+          "value": "980"
+        },
+        {
+          "value": "936"
+        },
+        {
+          "value": "972"
+        },
+        {
+          "value": "955"
+        },
+        {
+          "value": "980"
+        },
+        {
+          "value": "984"
+        },
+        {
+          "value": "920"
+        },
+        {
+          "value": "964"
+        },
+        {
+          "value": "913"
+        },
+        {
+          "value": "974"
+        },
+        {
+          "value": "935"
+        },
+        {
+          "value": "960"
+        },
+        {
+          "value": "952"
+        },
+        {
+          "value": "1147"
+        },
+        {
+          "value": "1104"
+        },
+        {
+          "value": "1114"
+        },
+        {
+          "value": "1117"
+        },
+        {
+          "value": "1152"
+        },
+        {
+          "value": "1132"
+        },
+        {
+          "value": "1108"
+        },
+        {
+          "value": "1190"
+        },
+        {
+          "value": "1146"
+        },
+        {
+          "value": "1176"
+        },
+        {
+          "value": "1179"
+        },
+        {
+          "value": "1250"
+        },
+        {
+          "value": "1244"
+        },
+        {
+          "value": "1294"
+        },
+        {
+          "value": "1225"
+        },
+        {
+          "value": "1246"
+        },
+        {
+          "value": "1243"
+        },
+        {
+          "value": "1241"
+        },
+        {
+          "value": "1229"
+        },
+        {
+          "value": "1229"
+        },
+        {
+          "value": "1272"
+        },
+        {
+          "value": "1200"
+        },
+        {
+          "value": "1227"
+        },
+        {
+          "value": "1211"
+        },
+        {
+          "value": "1209"
+        },
+        {
+          "value": "1201"
+        },
+        {
+          "value": "1298"
+        },
+        {
+          "value": "1386"
+        },
+        {
+          "value": "1341"
+        },
+        {
+          "value": "1323"
+        },
+        {
+          "value": "1322"
+        },
+        {
+          "value": "1207"
+        },
+        {
+          "value": "1392"
+        },
+        {
+          "value": "1386"
+        },
+        {
+          "value": "1455"
+        },
+        {
+          "value": "1410"
+        },
+        {
+          "value": "1403"
+        },
+        {
+          "value": "1761"
+        },
+        {
+          "value": "1674"
+        },
+        {
+          "value": "1509"
+        },
+        {
+          "value": "1434"
+        },
+        {
+          "value": "1450"
+        },
+        {
+          "value": "1433"
+        },
+        {
+          "value": "1493"
+        },
+        {
+          "value": "1457"
+        },
+        {
+          "value": "1450"
+        },
+        {
+          "value": "1431"
+        },
+        {
+          "value": "1480"
+        },
+        {
+          "value": "1406"
+        },
+        {
+          "value": "1450"
+        },
+        {
+          "value": "1442"
+        },
+        {
+          "value": "1479"
+        },
+        {
+          "value": "1436"
+        },
+        {
+          "value": "1401"
+        },
+        {
+          "value": "1468"
+        },
+        {
+          "value": "1482"
+        },
+        {
+          "value": "1442"
+        },
+        {
+          "value": "1496"
+        },
+        {
+          "value": "1505"
+        },
+        {
+          "value": "1568"
+        },
+        {
+          "value": "1512"
+        },
+        {
+          "value": "1500"
+        },
+        {
+          "value": "1554"
+        },
+        {
+          "value": "1582"
+        },
+        {
+          "value": "1557"
+        },
+        {
+          "value": "1533"
+        },
+        {
+          "value": "1545"
+        },
+        {
+          "value": "1559"
+        },
+        {
+          "value": "1575"
+        },
+        {
+          "value": "1596"
+        },
+        {
+          "value": "1528"
+        },
+        {
+          "value": "1512"
+        },
+        {
+          "value": "1515"
+        },
+        {
+          "value": "1535"
+        },
+        {
+          "value": "1541"
+        },
+        {
+          "value": "1576"
+        },
+        {
+          "value": "1550"
+        },
+        {
+          "value": "1695"
+        },
+        {
+          "value": "1634"
+        },
+        {
+          "value": "1711"
+        },
+        {
+          "value": "1529"
+        },
+        {
+          "value": "1666"
+        },
+        {
+          "value": "1552"
+        },
+        {
+          "value": "1686"
+        },
+        {
+          "value": "1823"
+        },
+        {
+          "value": "1834"
+        },
+        {
+          "value": "1797"
+        },
+        {
+          "value": "1212"
+        },
+        {
+          "value": "1645"
+        },
+        {
+          "value": "1757"
+        },
+        {
+          "value": "1761"
+        },
+        {
+          "value": "1878"
+        },
+        {
+          "value": "1752"
+        },
+        {
+          "value": "1556"
+        },
+        {
+          "value": "1769"
+        },
+        {
+          "value": "1464"
+        },
+        {
+          "value": "1237"
+        },
+        {
+          "value": "1402"
+        },
+        {
+          "value": "1750"
+        },
+        {
+          "value": "1465"
+        },
+        {
+          "value": "1467"
+        },
+        {
+          "value": "1496"
+        },
+        {
+          "value": "1485"
+        },
+        {
+          "value": "1551"
+        },
+        {
+          "value": "1408"
+        },
+        {
+          "value": "1593"
+        },
+        {
+          "value": "1531"
+        },
+        {
+          "value": "1595"
+        },
+        {
+          "value": "1501"
+        },
+        {
+          "value": "1520"
+        },
+        {
+          "value": "1519"
+        },
+        {
+          "value": "1526"
+        },
+        {
+          "value": "1571"
+        },
+        {
+          "value": "1589"
+        },
+        {
+          "value": "1505"
+        },
+        {
+          "value": "1535"
+        },
+        {
+          "value": "1530"
+        },
+        {
+          "value": "1575"
+        },
+        {
+          "value": "1478"
+        },
+        {
+          "value": "1401"
+        },
+        {
+          "value": "1436"
+        },
+        {
+          "value": "1425"
+        },
+        {
+          "value": "1418"
+        },
+        {
+          "value": "1427"
+        },
+        {
+          "value": "1475"
+        },
+        {
+          "value": "1450"
+        },
+        {
+          "value": "1469"
+        },
+        {
+          "value": "1447"
+        },
+        {
+          "value": "1415"
+        },
+        {
+          "value": "1434"
+        },
+        {
+          "value": "1400"
+        },
+        {
+          "value": "1425"
+        },
+        {
+          "value": "1443"
+        },
+        {
+          "value": "1415"
+        },
+        {
+          "value": "1465"
+        },
+        {
+          "value": "1617"
+        },
+        {
+          "value": "1262"
+        },
+        {
+          "value": "1253"
+        },
+        {
+          "value": "1341"
+        },
+        {
+          "value": "1441"
+        },
+        {
+          "value": "1376"
+        },
+        {
+          "value": "1315"
+        },
+        {
+          "value": "1462"
+        },
+        {
+          "value": "1250"
+        },
+        {
+          "value": "1506"
+        },
+        {
+          "value": "1595"
+        },
+        {
+          "value": "1650"
+        },
+        {
+          "value": "1602"
+        },
+        {
+          "value": "1699"
+        },
+        {
+          "value": "1631"
+        },
+        {
+          "value": "1780"
+        },
+        {
+          "value": "1701"
+        },
+        {
+          "value": "1741"
+        },
+        {
+          "value": "1392"
+        },
+        {
+          "value": "1616"
+        },
+        {
+          "value": "1500"
+        },
+        {
+          "value": "1233"
+        },
+        {
+          "value": "1152"
+        },
+        {
+          "value": "1232"
+        },
+        {
+          "value": "1292"
+        },
+        {
+          "value": "1462"
+        },
+        {
+          "value": "1460"
+        },
+        {
+          "value": "1307"
+        },
+        {
+          "value": "1216"
+        },
+        {
+          "value": "1289"
+        },
+        {
+          "value": "1230"
+        },
+        {
+          "value": "1292"
+        },
+        {
+          "value": "1220"
+        },
+        {
+          "value": "1226"
+        },
+        {
+          "value": "1264"
+        },
+        {
+          "value": "1119"
+        },
+        {
+          "value": "1258"
+        },
+        {
+          "value": "1454"
+        },
+        {
+          "value": "1271"
+        },
+        {
+          "value": "1228"
+        },
+        {
+          "value": "1296"
+        },
+        {
+          "value": "1252"
+        },
+        {
+          "value": "1329"
+        },
+        {
+          "value": "1576"
+        },
+        {
+          "value": "1232"
+        },
+        {
+          "value": "1452"
+        },
+        {
+          "value": "1553"
+        },
+        {
+          "value": "1237"
+        },
+        {
+          "value": "1236"
+        },
+        {
+          "value": "1115"
+        },
+        {
+          "value": "1256"
+        },
+        {
+          "value": "1236"
+        },
+        {
+          "value": "1585"
+        },
+        {
+          "value": "1441"
+        },
+        {
+          "value": "1410"
+        },
+        {
+          "value": "1495"
+        },
+        {
+          "value": "1446"
+        },
+        {
+          "value": "1432"
+        },
+        {
+          "value": "1523"
+        },
+        {
+          "value": "1458"
+        },
+        {
+          "value": "1495"
+        },
+        {
+          "value": "1532"
+        },
+        {
+          "value": "1506"
+        },
+        {
+          "value": "1571"
+        },
+        {
+          "value": "1626"
+        },
+        {
+          "value": "1649"
+        },
+        {
+          "value": "1440"
+        },
+        {
+          "value": "1229"
+        },
+        {
+          "value": "1350"
+        },
+        {
+          "value": "1401"
+        },
+        {
+          "value": "1311"
+        },
+        {
+          "value": "1344"
+        },
+        {
+          "value": "1327"
+        },
+        {
+          "value": "1350"
+        },
+        {
+          "value": "1322"
+        },
+        {
+          "value": "1342"
+        },
+        {
+          "value": "1315"
+        },
+        {
+          "value": "1340"
+        },
+        {
+          "value": "1333"
+        },
+        {
+          "value": "1234"
+        },
+        {
+          "value": "1123"
+        },
+        {
+          "value": "1155"
+        },
+        {
+          "value": "1176"
+        },
+        {
+          "value": "1200"
+        },
+        {
+          "value": "1250"
+        }
+      ]
+    }
+  ],
+  "vtrendlines": [
+    {
+      "line": [
+        {
+          "startindex": "243",
+          "displayvalue": "PR",
+          "displayalways": "1",
+          "displaywhencount": "30"
+        },
+        {
+          "startindex": "69",
+          "displayvalue": "Product A",
+          "displayalways": "0",
+          "displaywhencount": "30"
+        },
+        {
+          "startindex": "264",
+          "displayvalue": "Product B",
+          "displayalways": "0",
+          "displaywhencount": "30"
+        }
+      ]
+    }
+  ]
+}

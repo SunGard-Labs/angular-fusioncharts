@@ -1,0 +1,39 @@
+{
+  "chart": {
+    "caption": "Marketing Expenses",
+    "bgcolor": "FFFFFF,CCCCCC",
+    "showpercentagevalues": "1",
+    "plotbordercolor": "FFFFFF",
+    "numberprefix": "$",
+    "issmartlineslanted": "0",
+    "showvalues": "0",
+    "showlabels": "0",
+    "showlegend": "1"
+  },
+  "data": [
+    {
+      "value": "212000",
+      "label": "Banners",
+      "color": "99CC00",
+      "alpha": "60"
+    },
+    {
+      "value": "96800",
+      "label": "Print Ads",
+      "color": "333333",
+      "alpha": "60"
+    },
+    {
+      "value": "26400",
+      "label": "Service",
+      "color": "99CC00",
+      "alpha": "30"
+    },
+    {
+      "value": "29300",
+      "label": "Others",
+      "color": "333333",
+      "alpha": "30"
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "chart": {
+    "numberprefix": "$",
+    "numbersuffix": " pa",
+    "caption": "Yearly Revenue",
+    "subcaption": "",
+    "xaxisname": "Years",
+    "yaxisname": "Revenue",
+    "legendposition": "BOTTOM",
+    "divlineisdashed": "1",
+    "palette1": "3",
+    "pixelsperpoint": "15",
+    "axis": "log",
+    "logbase": "5",
+    "numminorlogdivlines": "3",
+    "palettethemecolor1": "FF0000",
+    "anchorminrenderdistance": "20",
+    "showtooltip": "1",
+    "connectnulldata": "1",
+    "rotatevalues": "1",
+    "palette": "4"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "January-07"
+        },
+        {
+          "label": "February-07"
+        },
+        {
+          "label": "March-07"
+        },
+        {
+          "label": "April-07"
+        },
+        {
+          "label": "May-07"
+        },
+        {
+          "label": "June-07"
+        },
+        {
+          "label": "July-07"
+        },
+        {
+          "label": "August-07"
+        },
+        {
+          "label": "September-07"
+        },
+        {
+          "label": "October-07"
+        },
+        {
+          "label": "November-07"
+        },
+        {
+          "label": "December-07"
+        },
+        {
+          "label": "January-08"
+        },
+        {
+          "label": "February-08"
+        },
+        {
+          "label": "March-08"
+        },
+        {
+          "label": "April-08"
+        },
+        {
+          "label": "May-08"
+        },
+        {
+          "label": "June-08"
+        },
+        {
+          "label": "July-08"
+        },
+        {
+          "label": "August-08"
+        },
+        {
+          "label": "September-08"
+        },
+        {
+          "label": "October-08"
+        },
+        {
+          "label": "November-08"
+        },
+        {
+          "label": "December-08"
+        },
+        {
+          "label": "January-09"
+        },
+        {
+          "label": "February-09"
+        },
+        {
+          "label": "March-09"
+        },
+        {
+          "label": "April-09"
+        },
+        {
+          "label": "May-09"
+        },
+        {
+          "label": "June-09"
+        },
+        {
+          "label": "July-09"
+        },
+        {
+          "label": "August-09"
+        },
+        {
+          "label": "September-09"
+        },
+        {
+          "label": "October-09"
+        },
+        {
+          "label": "Nevember-09"
+        },
+        {
+          "label": "December-09"
+        },
+        {
+          "label": "January-10"
+        },
+        {
+          "label": "February-10"
+        },
+        {
+          "label": "March-10"
+        },
+        {
+          "label": "April-10"
+        },
+        {
+          "label": "May-10"
+        },
+        {
+          "label": "June-10"
+        },
+        {
+          "label": "July-10"
+        },
+        {
+          "label": "August-10"
+        },
+        {
+          "label": "September-10"
+        },
+        {
+          "label": "October-10"
+        },
+        {
+          "label": "November-10"
+        },
+        {
+          "label": "December-10"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Product A",
+      "color": "AFD8F8",
+      "linethickness": "1",
+      "data": [
+        {
+          "value1": "93"
+        },
+        {
+          "value1": "51"
+        },
+        {
+          "value1": "99"
+        },
+        {
+          "value1": "25"
+        },
+        {
+          "value": "16"
+        },
+        {
+          "value": "41"
+        },
+        {
+          "value": "64"
+        },
+        {
+          "value": "53"
+        },
+        {
+          "value": "78"
+        },
+        {
+          "value": "47"
+        },
+        {
+          "value": "91"
+        },
+        {
+          "value": "23"
+        },
+        {
+          "value": "72"
+        },
+        {
+          "value": "49"
+        },
+        {
+          "value": "27"
+        },
+        {
+          "value1": "83"
+        },
+        {
+          "value": "26"
+        },
+        {
+          "value": "49"
+        },
+        {
+          "value": "27"
+        },
+        {
+          "value": "41"
+        },
+        {
+          "value": "35"
+        },
+        {
+          "value": "12"
+        },
+        {
+          "value": "24"
+        },
+        {
+          "value": "10"
+        },
+        {
+          "value": "79"
+        },
+        {
+          "value": "71"
+        },
+        {
+          "value": "74"
+        },
+        {
+          "value": "84"
+        },
+        {
+          "value": "43"
+        },
+        {
+          "value": "63"
+        },
+        {
+          "value": "40"
+        },
+        {
+          "value": "59"
+        },
+        {
+          "value": "64"
+        },
+        {
+          "value": "59"
+        },
+        {
+          "value": "52"
+        },
+        {
+          "value": "55"
+        },
+        {
+          "value": "20"
+        },
+        {
+          "value": "22"
+        },
+        {
+          "value": "61"
+        },
+        {
+          "value": "57"
+        },
+        {
+          "value": "61"
+        },
+        {
+          "value": "05"
+        },
+        {
+          "value": "15"
+        },
+        {
+          "value": "39"
+        },
+        {
+          "value1": "18"
+        },
+        {
+          "value": "32"
+        },
+        {
+          "value": "31"
+        },
+        {
+          "value": "25"
+        },
+        {
+          "value": "14"
+        },
+        {
+          "value": "44"
+        }
+      ]
+    },
+    {
+      "seriesname": "Product B",
+      "color": "F6BD0F",
+      "data": [
+        {
+          "value": "23"
+        },
+        {
+          "value": "69"
+        },
+        {
+          "value": "80"
+        },
+        {
+          "value": "49"
+        },
+        {
+          "value": "69"
+        },
+        {
+          "value": "01"
+        },
+        {
+          "value": "04"
+        },
+        {
+          "value": "46"
+        },
+        {
+          "value": "27"
+        },
+        {
+          "value": "40"
+        },
+        {
+          "value": "25"
+        },
+        {
+          "value": "22"
+        },
+        {
+          "value": "39"
+        },
+        {
+          "value": "10"
+        },
+        {
+          "value": "46"
+        },
+        {
+          "value": "44"
+        },
+        {
+          "value": "16"
+        },
+        {
+          "value": "39"
+        },
+        {
+          "value": "10"
+        },
+        {
+          "value": "30"
+        },
+        {
+          "value": "23"
+        },
+        {
+          "value": "30"
+        },
+        {
+          "value": "42"
+        },
+        {
+          "value": "78"
+        },
+        {
+          "value": "45"
+        },
+        {
+          "value1": "76"
+        },
+        {
+          "value": "70"
+        },
+        {
+          "value": "59"
+        },
+        {
+          "value": "35"
+        },
+        {
+          "value": "34"
+        },
+        {
+          "value": "8"
+        },
+        {
+          "value": "45"
+        },
+        {
+          "value": "83"
+        },
+        {
+          "value": "50"
+        },
+        {
+          "value": "97"
+        },
+        {
+          "value": "17"
+        },
+        {
+          "value": "73"
+        },
+        {
+          "value": "49"
+        },
+        {
+          "value": "17"
+        },
+        {
+          "value": "14"
+        },
+        {
+          "value": "28"
+        },
+        {
+          "value1": "63"
+        },
+        {
+          "value": "84"
+        },
+        {
+          "value": "32"
+        },
+        {
+          "value": "62"
+        },
+        {
+          "value": "25"
+        },
+        {
+          "value": "78"
+        },
+        {
+          "value": "31"
+        },
+        {
+          "value": "56"
+        },
+        {
+          "value": "19"
+        }
+      ]
+    }
+  ],
+  "trendlines": [
+    {
+      "line": [
+        {
+          "startvalue": "200",
+          "displayvalue": "Trend 1",
+          "tooltext": "good trend"
+        },
+        {
+          "startvalue": "700",
+          "displayvalue1": "Trend 3",
+          "isdashed": "1",
+          "color": "FF5904"
+        },
+        {
+          "startvalue": "400",
+          "endvalue": "500",
+          "istrendzone": "1",
+          "displayvalue": "Trend 2",
+          "showontop": "1",
+          "valueonright": "1"
+        }
+      ]
+    }
+  ]
+}

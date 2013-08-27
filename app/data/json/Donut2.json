@@ -1,0 +1,66 @@
+{
+  "chart": {
+    "caption": "Product Sales - 2005",
+    "bgalpha": "30,100",
+    "bgangle": "45",
+    "pieyscale": "50",
+    "startingangle": "175",
+    "smartlinecolor": "7D8892",
+    "smartlinethickness": "2"
+  },
+  "data": [
+    {
+      "value": "243",
+      "label": "USA",
+      "color": "A53838"
+    },
+    {
+      "value": "207",
+      "label": "UK",
+      "color": "7D8892"
+    },
+    {
+      "value": "82",
+      "label": "Canada",
+      "color": "C3CACA"
+    },
+    {
+      "value": "65",
+      "label": "France",
+      "color": "B2D2DD"
+    },
+    {
+      "value": "175",
+      "label": "Others",
+      "color": "507D9E"
+    }
+  ],
+  "styles": {
+    "definition": [
+      {
+        "name": "CaptionFont",
+        "type": "FONT",
+        "face": "Verdana",
+        "size": "11",
+        "color": "7D8892",
+        "bold": "1"
+      },
+      {
+        "name": "LabelFont",
+        "type": "FONT",
+        "color": "7D8892",
+        "bold": "1"
+      }
+    ],
+    "application": [
+      {
+        "toobject": "DATALABELS",
+        "styles": "LabelFont"
+      },
+      {
+        "toobject": "CAPTION",
+        "styles": "CaptionFont"
+      }
+    ]
+  }
+}

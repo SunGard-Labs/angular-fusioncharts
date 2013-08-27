@@ -1,0 +1,221 @@
+{
+  "chart": {
+    "caption": "Market Activity",
+    "yaxisname": "Listings",
+    "showvalues": "0",
+    "stack100percent": "1",
+    "showpercentvalues": "1"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "Jan"
+        },
+        {
+          "label": "Feb"
+        },
+        {
+          "label": "Mar"
+        },
+        {
+          "label": "Apr"
+        },
+        {
+          "label": "May"
+        },
+        {
+          "label": "Jun"
+        },
+        {
+          "label": "Jul"
+        },
+        {
+          "label": "Aug"
+        },
+        {
+          "label": "Sep"
+        },
+        {
+          "label": "Oct"
+        },
+        {
+          "label": "Nov"
+        },
+        {
+          "label": "Dec"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "New Listings",
+      "color": "FBAB35",
+      "data": [
+        {
+          "value": "370"
+        },
+        {
+          "value": "401"
+        },
+        {
+          "value": "342"
+        },
+        {
+          "value": "370"
+        },
+        {
+          "value": "414"
+        },
+        {
+          "value": "385"
+        },
+        {
+          "value": "400"
+        },
+        {
+          "value": "456"
+        },
+        {
+          "value": "340"
+        },
+        {
+          "value": "390"
+        },
+        {
+          "value": "332"
+        },
+        {
+          "value": "401"
+        }
+      ]
+    },
+    {
+      "seriesname": "Re-list",
+      "color": "DA3608",
+      "data": [
+        {
+          "value": "325"
+        },
+        {
+          "value": "305"
+        },
+        {
+          "value": "295"
+        },
+        {
+          "value": "345"
+        },
+        {
+          "value": "285"
+        },
+        {
+          "value": "315"
+        },
+        {
+          "value": "295"
+        },
+        {
+          "value": "335"
+        },
+        {
+          "value": "300"
+        },
+        {
+          "value": "320"
+        },
+        {
+          "value": "285"
+        },
+        {
+          "value": "260"
+        }
+      ]
+    },
+    {
+      "seriesname": "Sold",
+      "color": "015887",
+      "data": [
+        {
+          "value": "155"
+        },
+        {
+          "value": "135"
+        },
+        {
+          "value": "125"
+        },
+        {
+          "value": "175"
+        },
+        {
+          "value": "115"
+        },
+        {
+          "value": "145"
+        },
+        {
+          "value": "125"
+        },
+        {
+          "value": "165"
+        },
+        {
+          "value": "130"
+        },
+        {
+          "value": "150"
+        },
+        {
+          "value": "115"
+        },
+        {
+          "value": "90"
+        }
+      ]
+    },
+    {
+      "seriesname": "Withdrawn",
+      "color": "78AE1C",
+      "data": [
+        {
+          "value": "76"
+        },
+        {
+          "value": "85"
+        },
+        {
+          "value": "64"
+        },
+        {
+          "value": "105"
+        },
+        {
+          "value": "56"
+        },
+        {
+          "value": "78"
+        },
+        {
+          "value": "56"
+        },
+        {
+          "value": "105"
+        },
+        {
+          "value": "80"
+        },
+        {
+          "value": "100"
+        },
+        {
+          "value": "67"
+        },
+        {
+          "value": "82"
+        }
+      ]
+    }
+  ]
+}

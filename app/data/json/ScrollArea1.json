@@ -1,0 +1,335 @@
+{
+  "chart": {
+    "caption": "Site hits per hour",
+    "subcaption": "In Thousands",
+    "numdivlines": "9",
+    "showvalues": "0",
+    "numvdivlines": "24",
+    "showalternatevgridcolor": "1",
+    "numvisibleplot": "12",
+    "plotgradientcolor": "",
+    "plotfillalpha": "30",
+    "palette": "4",
+    "scrollbtnpadding": "2",
+    "scrollheight": "26",
+    "scrollbtnwidth": "40",
+    "canvaspadding": "25"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "00:00"
+        },
+        {
+          "label": "01:00"
+        },
+        {
+          "label": "02:00"
+        },
+        {
+          "label": "03:00"
+        },
+        {
+          "label": "04:00"
+        },
+        {
+          "label": "05:00"
+        },
+        {
+          "label": "06:00"
+        },
+        {
+          "label": "07:00"
+        },
+        {
+          "label": "08:00"
+        },
+        {
+          "label": "09:00"
+        },
+        {
+          "label": "10:00"
+        },
+        {
+          "label": "11:00"
+        },
+        {
+          "label": "12:00"
+        },
+        {
+          "label": "13:00"
+        },
+        {
+          "label": "14:00"
+        },
+        {
+          "label": "15:00"
+        },
+        {
+          "label": "16:00"
+        },
+        {
+          "label": "17:00"
+        },
+        {
+          "label": "18:00"
+        },
+        {
+          "label": "19:00"
+        },
+        {
+          "label": "20:00"
+        },
+        {
+          "label": "21:00"
+        },
+        {
+          "label": "22:00"
+        },
+        {
+          "label": "23:00"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Mon",
+      "color": "808080",
+      "anchorbordercolor": "808080",
+      "data": [
+        {
+          "value": "37"
+        },
+        {
+          "value": "45"
+        },
+        {
+          "value": "70"
+        },
+        {
+          "value": "79"
+        },
+        {
+          "value": "168"
+        },
+        {
+          "value": "337"
+        },
+        {
+          "value": "374"
+        },
+        {
+          "value": "431"
+        },
+        {
+          "value": "543"
+        },
+        {
+          "value": "784"
+        },
+        {
+          "value": "1117"
+        },
+        {
+          "value": "1415"
+        },
+        {
+          "value": "2077"
+        },
+        {
+          "value": "2510"
+        },
+        {
+          "value": "3025"
+        },
+        {
+          "value": "3383"
+        },
+        {
+          "value": "3711"
+        },
+        {
+          "value": "4016"
+        },
+        {
+          "value": "4355"
+        },
+        {
+          "value": "4751"
+        },
+        {
+          "value": "5154"
+        },
+        {
+          "value": "5475"
+        },
+        {
+          "value": "5696"
+        },
+        {
+          "value": "5801"
+        }
+      ]
+    },
+    {
+      "seriesname": "Tue",
+      "color": "800080",
+      "anchorbordercolor": "800080",
+      "data": [
+        {
+          "value": "54"
+        },
+        {
+          "value": "165"
+        },
+        {
+          "value": "175"
+        },
+        {
+          "value": "190"
+        },
+        {
+          "value": "212"
+        },
+        {
+          "value": "241"
+        },
+        {
+          "value": "308"
+        },
+        {
+          "value": "401"
+        },
+        {
+          "value": "481"
+        },
+        {
+          "value": "851"
+        },
+        {
+          "value": "1250"
+        },
+        {
+          "value": "2415"
+        },
+        {
+          "value": "2886"
+        },
+        {
+          "value": "3252"
+        },
+        {
+          "value": "3673"
+        },
+        {
+          "value": "4026"
+        },
+        {
+          "value": "4470"
+        },
+        {
+          "value": "4813"
+        },
+        {
+          "value": "4961"
+        },
+        {
+          "value": "5086"
+        },
+        {
+          "value": "5284"
+        },
+        {
+          "value": "5391"
+        },
+        {
+          "value": "5657"
+        },
+        {
+          "value": "5847"
+        }
+      ]
+    },
+    {
+      "seriesname": "Wed",
+      "color": "FF8040",
+      "anchorbordercolor": "FF8040",
+      "data": [
+        {
+          "value": "111"
+        },
+        {
+          "value": "120"
+        },
+        {
+          "value": "128"
+        },
+        {
+          "value": "140"
+        },
+        {
+          "value": "146"
+        },
+        {
+          "value": "157"
+        },
+        {
+          "value": "190"
+        },
+        {
+          "value": "250"
+        },
+        {
+          "value": "399"
+        },
+        {
+          "value": "691"
+        },
+        {
+          "value": "952"
+        },
+        {
+          "value": "1448"
+        },
+        {
+          "value": "1771"
+        },
+        {
+          "value": "2316"
+        },
+        {
+          "value": "2763"
+        },
+        {
+          "value": "3149"
+        },
+        {
+          "value": "3637"
+        },
+        {
+          "value": "4015"
+        },
+        {
+          "value": "4262"
+        },
+        {
+          "value": "4541"
+        },
+        {
+          "value": "4837"
+        },
+        {
+          "value": "5016"
+        },
+        {
+          "value": "5133"
+        },
+        {
+          "value": "5278"
+        }
+      ]
+    }
+  ]
+}

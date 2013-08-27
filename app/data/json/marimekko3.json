@@ -1,0 +1,129 @@
+{
+  "chart": {
+    "showvalues": "0",
+    "caption": "Quarterly Website  Visits (2010)",
+    "xaxisname": "No of Visitor",
+    "yaxisname": "Monthly share",
+    "animation": "1",
+    "stack100percent": "0",
+    "canvasbgangle": "0",
+    "canvasborderthickness": "2",
+    "chartleftmargin": "5",
+    "chartrightmargin": "15",
+    "charttopmargin": "10",
+    "chartbottommargin": "20",
+    "captionpadding": "10",
+    "xaxisnamepadding": "5",
+    "yaxisnamepadding": "5",
+    "yaxisvaluespadding": "2",
+    "labelpadding": "3",
+    "basefontsize": "13",
+    "outcnvbasefontsize": "12",
+    "zeroplanealpha": "80",
+    "zeroplanethickness": "2",
+    "bgcolor": "FFFFFF",
+    "bgalpha": "100",
+    "showxaxispercentvalues": "0",
+    "usepercentdistribution": "1",
+    "plotgradientcolor": "",
+    "basefont": "Calibri",
+    "canvasbgcolor": "FFFFFF",
+    "showalternatehgridcolor": "0",
+    "alternatehgridcolor": "FEEFED",
+    "divlinealpha": "0"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "Site A",
+          "widthpercent": "40"
+        },
+        {
+          "label": "Site B",
+          "widthpercent": "15"
+        },
+        {
+          "label": "Site C",
+          "widthpercent": "15"
+        },
+        {
+          "label": "Site D",
+          "widthpercent": "15"
+        },
+        {
+          "label": "Site E",
+          "widthpercent": "15"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Jan",
+      "color": "76EFB8",
+      "color_cc": "76EFB8",
+      "data": [
+        {
+          "value": "10548"
+        },
+        {
+          "value": "9550"
+        },
+        {
+          "value": "9001"
+        },
+        {
+          "value": "8120"
+        },
+        {
+          "value": "7845"
+        }
+      ]
+    },
+    {
+      "seriesname": "Feb",
+      "color_cc": "92BACF",
+      "color": "92BACF",
+      "data": [
+        {
+          "value": "12500"
+        },
+        {
+          "value": "10800"
+        },
+        {
+          "value": "9800"
+        },
+        {
+          "value": "9080"
+        },
+        {
+          "value": "8100"
+        }
+      ]
+    },
+    {
+      "seriesname": "Mar",
+      "color": "DBAEEE",
+      "color_cc": "DBAEEE",
+      "data": [
+        {
+          "value": "13800"
+        },
+        {
+          "value": "11930"
+        },
+        {
+          "value": "10360"
+        },
+        {
+          "value": "10769"
+        },
+        {
+          "value": "9077"
+        }
+      ]
+    }
+  ]
+}

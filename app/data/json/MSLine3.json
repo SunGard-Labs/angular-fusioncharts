@@ -1,0 +1,188 @@
+{
+  "chart": {
+    "caption": "Daily Visits",
+    "subcaption": "(from 8/6/2006 to 8/12/2006)",
+    "linethickness": "1",
+    "showvalues": "0",
+    "formatnumberscale": "0",
+    "anchorradius": "2",
+    "divlinealpha": "20",
+    "divlinecolor": "CC3300",
+    "divlineisdashed": "1",
+    "showalternatehgridcolor": "1",
+    "alternatehgridcolor": "CC3300",
+    "shadowalpha": "40",
+    "labelstep": "2",
+    "numvdivlines": "5",
+    "chartrightmargin": "35",
+    "bgcolor": "FFFFFF,CC3300",
+    "bgangle": "270",
+    "bgalpha": "10,10",
+    "alternatehgridalpha": "5",
+    "legendposition": "RIGHT "
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "8/6/2006"
+        },
+        {
+          "label": "8/7/2006"
+        },
+        {
+          "label": "8/8/2006"
+        },
+        {
+          "label": "8/9/2006"
+        },
+        {
+          "label": "8/10/2006"
+        },
+        {
+          "label": "8/11/2006"
+        },
+        {
+          "label": "8/12/2006"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Offline Marketing",
+      "color": "1D8BD1",
+      "anchorbordercolor": "1D8BD1",
+      "anchorbgcolor": "1D8BD1",
+      "data": [
+        {
+          "value": "1327"
+        },
+        {
+          "value": "1826"
+        },
+        {
+          "value": "1699"
+        },
+        {
+          "value": "1511"
+        },
+        {
+          "value": "1904"
+        },
+        {
+          "value": "1957"
+        },
+        {
+          "value": "1296"
+        }
+      ]
+    },
+    {
+      "seriesname": "Search",
+      "color": "F1683C",
+      "anchorbordercolor": "F1683C",
+      "anchorbgcolor": "F1683C",
+      "data": [
+        {
+          "value": "2042"
+        },
+        {
+          "value": "3210"
+        },
+        {
+          "value": "2994"
+        },
+        {
+          "value": "3115"
+        },
+        {
+          "value": "2844"
+        },
+        {
+          "value": "3576"
+        },
+        {
+          "value": "1862"
+        }
+      ]
+    },
+    {
+      "seriesname": "Paid Search",
+      "color": "2AD62A",
+      "anchorbordercolor": "2AD62A",
+      "anchorbgcolor": "2AD62A",
+      "data": [
+        {
+          "value": "850"
+        },
+        {
+          "value": "1010"
+        },
+        {
+          "value": "1116"
+        },
+        {
+          "value": "1234"
+        },
+        {
+          "value": "1210"
+        },
+        {
+          "value": "1054"
+        },
+        {
+          "value": "802"
+        }
+      ]
+    },
+    {
+      "seriesname": "From Mail",
+      "color": "DBDC25",
+      "anchorbordercolor": "DBDC25",
+      "anchorbgcolor": "DBDC25",
+      "data": [
+        {
+          "value": "541"
+        },
+        {
+          "value": "781"
+        },
+        {
+          "value": "920"
+        },
+        {
+          "value": "754"
+        },
+        {
+          "value": "840"
+        },
+        {
+          "value": "893"
+        },
+        {
+          "value": "451"
+        }
+      ]
+    }
+  ],
+  "styles": {
+    "definition": [
+      {
+        "name": "CaptionFont",
+        "type": "font",
+        "size": "12"
+      }
+    ],
+    "application": [
+      {
+        "toobject": "CAPTION",
+        "styles": "CaptionFont"
+      },
+      {
+        "toobject": "SUBCAPTION",
+        "styles": "CaptionFont"
+      }
+    ]
+  }
+}

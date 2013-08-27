@@ -1,0 +1,779 @@
+{
+  "chart": {
+    "palette": "3",
+    "caption": "Investment Overview",
+    "yaxisname": "Returns till date",
+    "xaxisname": "Age (years)",
+    "showlegend": "1",
+    "showlabels": "1",
+    "xaxismaxvalue": "10",
+    "xaxisminvalue": "0"
+  },
+  "categories": [
+    {
+      "verticallinethickness": "1",
+      "category": [
+        {
+          "label": "1",
+          "x": "1",
+          "showverticalline": "1"
+        },
+        {
+          "label": "2",
+          "x": "2",
+          "showverticalline": "1"
+        },
+        {
+          "label": "3",
+          "x": "3",
+          "showverticalline": "1"
+        },
+        {
+          "label": "4",
+          "x": "4",
+          "showverticalline": "1"
+        },
+        {
+          "label": "5",
+          "x": "5",
+          "showverticalline": "1"
+        },
+        {
+          "label": "6",
+          "x": "6",
+          "showverticalline": "1"
+        },
+        {
+          "label": "7",
+          "x": "7",
+          "showverticalline": "1"
+        },
+        {
+          "label": "8",
+          "x": "8",
+          "showverticalline": "1"
+        },
+        {
+          "label": "9",
+          "x": "9",
+          "showverticalline": "1"
+        },
+        {
+          "label": "10",
+          "x": "10",
+          "showverticalline": "0"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Equities",
+      "color": "0372AB",
+      "plotborderthickness": "0",
+      "showplotborder": "1",
+      "anchorsides": "3",
+      "data": [
+        {
+          "id": "INVEQ324_1",
+          "x": "4.2",
+          "y": "193.2",
+          "tooltext": "Script B1: 4.2 yrs., 193.2%"
+        },
+        {
+          "id": "INVEQ324_2",
+          "x": "2.8",
+          "y": "33.6",
+          "tooltext": "Script C2: 2.8 yrs., 33.6%"
+        },
+        {
+          "id": "INVEQ324_3",
+          "x": "6.2",
+          "y": "24.8",
+          "tooltext": "Script D3: 6.2 yrs., 24.8%"
+        },
+        {
+          "id": "INVEQ324_4",
+          "x": "1",
+          "y": "14",
+          "tooltext": "Script E4: 1 yrs., 14%"
+        },
+        {
+          "id": "INVEQ324_5",
+          "x": "1.2",
+          "y": "26.4",
+          "tooltext": "Script F5: 1.2 yrs., 26.4%"
+        },
+        {
+          "id": "INVEQ324_6",
+          "x": "4.4",
+          "y": "114.4",
+          "tooltext": "Script G6: 4.4 yrs., 114.4%"
+        },
+        {
+          "id": "INVEQ324_7",
+          "x": "8.5",
+          "y": "323",
+          "tooltext": "Script H7: 8.5 yrs., 323%"
+        },
+        {
+          "id": "INVEQ324_8",
+          "x": "6.9",
+          "y": "289.8",
+          "tooltext": "Script I8: 6.9 yrs., 289.8%"
+        },
+        {
+          "id": "INVEQ324_9",
+          "x": "9.9",
+          "y": "287.1",
+          "tooltext": "Script J9: 9.9 yrs., 287.1%"
+        },
+        {
+          "id": "INVEQ324_10",
+          "x": "0.9",
+          "y": "9",
+          "tooltext": "Script K10: 0.9 yrs., 9%"
+        },
+        {
+          "id": "INVEQ324_11",
+          "x": "8.8",
+          "y": "140.8",
+          "tooltext": "Script L11: 8.8 yrs., 140.8%"
+        },
+        {
+          "id": "INVEQ324_12",
+          "x": "3.2",
+          "y": "150.4",
+          "tooltext": "Script M12: 3.2 yrs., 150.4%"
+        },
+        {
+          "id": "INVEQ324_13",
+          "x": "1.1",
+          "y": "39.6",
+          "tooltext": "Script N13: 1.1 yrs., 39.6%"
+        },
+        {
+          "id": "INVEQ324_14",
+          "x": "4.8",
+          "y": "172.8",
+          "tooltext": "Script O14: 4.8 yrs., 172.8%"
+        },
+        {
+          "id": "INVEQ324_15",
+          "x": "5.8",
+          "y": "278.4",
+          "tooltext": "Script P15: 5.8 yrs., 278.4%"
+        },
+        {
+          "id": "INVEQ324_16",
+          "x": "3.5",
+          "y": "52.5",
+          "tooltext": "Script Q16: 3.5 yrs., 52.5%"
+        },
+        {
+          "id": "INVEQ324_17",
+          "x": "2.9",
+          "y": "84.1",
+          "tooltext": "Script R17: 2.9 yrs., 84.1%"
+        },
+        {
+          "id": "INVEQ324_18",
+          "x": "0.8",
+          "y": "18.4",
+          "tooltext": "Script S18: 0.8 yrs., 18.4%"
+        },
+        {
+          "id": "INVEQ324_19",
+          "x": "8.9",
+          "y": "26.7",
+          "tooltext": "Script T19: 8.9 yrs., 26.7%"
+        },
+        {
+          "id": "INVEQ324_20",
+          "x": "0.9",
+          "y": "27",
+          "tooltext": "Script U20: 0.9 yrs., 27%"
+        },
+        {
+          "id": "INVEQ324_21",
+          "x": "5.3",
+          "y": "148.4",
+          "tooltext": "Script V21: 5.3 yrs., 148.4%"
+        },
+        {
+          "id": "INVEQ324_22",
+          "x": "1.4",
+          "y": "22.4",
+          "tooltext": "Script W22: 1.4 yrs., 22.4%"
+        },
+        {
+          "id": "INVEQ324_23",
+          "x": "8.1",
+          "y": "137.7",
+          "tooltext": "Script X23: 8.1 yrs., 137.7%"
+        },
+        {
+          "id": "INVEQ324_24",
+          "x": "9.8",
+          "y": "401.8",
+          "tooltext": "Script Y24: 9.8 yrs., 401.8%"
+        },
+        {
+          "id": "INVEQ324_25",
+          "x": "8.8",
+          "y": "114.4",
+          "tooltext": "Script Z25: 8.8 yrs., 114.4%"
+        },
+        {
+          "id": "INVEQ324_26",
+          "x": "3.5",
+          "y": "28",
+          "tooltext": "Script A26: 3.5 yrs., 28%"
+        },
+        {
+          "id": "INVEQ324_27",
+          "x": "4.9",
+          "y": "117.6",
+          "tooltext": "Script B27: 4.9 yrs., 117.6%"
+        },
+        {
+          "id": "INVEQ324_28",
+          "x": "6.5",
+          "y": "195",
+          "tooltext": "Script C28: 6.5 yrs., 195%"
+        },
+        {
+          "id": "INVEQ324_29",
+          "x": "4.8",
+          "y": "76.8",
+          "tooltext": "Script D29: 4.8 yrs., 76.8%"
+        },
+        {
+          "id": "INVEQ324_30",
+          "x": "3",
+          "y": "48",
+          "tooltext": "Script E30: 3 yrs., 48%"
+        },
+        {
+          "id": "INVEQ324_31",
+          "x": "6.2",
+          "y": "192.2",
+          "tooltext": "Script F31: 6.2 yrs., 192.2%"
+        },
+        {
+          "id": "INVEQ324_32",
+          "x": "1.8",
+          "y": "12.6",
+          "tooltext": "Script G32: 1.8 yrs., 12.6%"
+        },
+        {
+          "id": "INVEQ324_33",
+          "x": "5.8",
+          "y": "168.2",
+          "tooltext": "Script H33: 5.8 yrs., 168.2%"
+        },
+        {
+          "id": "INVEQ324_34",
+          "x": "6.9",
+          "y": "179.4",
+          "tooltext": "Script I34: 6.9 yrs., 179.4%"
+        },
+        {
+          "id": "INVEQ324_35",
+          "x": "3.2",
+          "y": "60.8",
+          "tooltext": "Script J35: 3.2 yrs., 60.8%"
+        },
+        {
+          "id": "INVEQ324_36",
+          "x": "9",
+          "y": "18",
+          "tooltext": "Script K36: 9 yrs., 18%"
+        },
+        {
+          "id": "INVEQ324_37",
+          "x": "8.4",
+          "y": "336",
+          "tooltext": "Script L37: 8.4 yrs., 336%"
+        },
+        {
+          "id": "INVEQ324_38",
+          "x": "1.9",
+          "y": "39.9",
+          "tooltext": "Script M38: 1.9 yrs., 39.9%"
+        },
+        {
+          "id": "INVEQ324_39",
+          "x": "0.6",
+          "y": "20.4",
+          "tooltext": "Script N39: 0.6 yrs., 20.4%"
+        },
+        {
+          "id": "INVEQ324_40",
+          "x": "8.2",
+          "y": "65.6",
+          "tooltext": "Script O40: 8.2 yrs., 65.6%"
+        },
+        {
+          "id": "INVEQ324_41",
+          "x": "3.8",
+          "y": "102.6",
+          "tooltext": "Script P41: 3.8 yrs., 102.6%"
+        },
+        {
+          "id": "INVEQ324_42",
+          "x": "8",
+          "y": "40",
+          "tooltext": "Script Q42: 8 yrs., 40%"
+        },
+        {
+          "id": "INVEQ324_43",
+          "x": "2.7",
+          "y": "64.8",
+          "tooltext": "Script R43: 2.7 yrs., 64.8%"
+        },
+        {
+          "id": "INVEQ324_44",
+          "x": "1.8",
+          "y": "61.2",
+          "tooltext": "Script S44: 1.8 yrs., 61.2%"
+        },
+        {
+          "id": "INVEQ324_45",
+          "x": "8.9",
+          "y": "62.3",
+          "tooltext": "Script T45: 8.9 yrs., 62.3%"
+        },
+        {
+          "id": "INVEQ324_46",
+          "x": "1.6",
+          "y": "3.2",
+          "tooltext": "Script U46: 1.6 yrs., 3.2%"
+        },
+        {
+          "id": "INVEQ324_47",
+          "x": "0.8",
+          "y": "31.2",
+          "tooltext": "Script V47: 0.8 yrs., 31.2%"
+        },
+        {
+          "id": "INVEQ324_48",
+          "x": "5.3",
+          "y": "58.3",
+          "tooltext": "Script W48: 5.3 yrs., 58.3%"
+        },
+        {
+          "id": "INVEQ324_49",
+          "x": "3",
+          "y": "54",
+          "tooltext": "Script X49: 3 yrs., 54%"
+        },
+        {
+          "id": "INVEQ324_50",
+          "x": "3.4",
+          "y": "44.2",
+          "tooltext": "Script Y50: 3.4 yrs., 44.2%"
+        },
+        {
+          "id": "INVEQ324_51",
+          "x": "7.2",
+          "y": "129.6",
+          "tooltext": "Script Z51: 7.2 yrs., 129.6%"
+        },
+        {
+          "id": "INVEQ324_52",
+          "x": "1.6",
+          "y": "46.4",
+          "tooltext": "Script A52: 1.6 yrs., 46.4%"
+        },
+        {
+          "id": "INVEQ324_53",
+          "x": "8.7",
+          "y": "400.2",
+          "tooltext": "Script B53: 8.7 yrs., 400.2%"
+        },
+        {
+          "id": "INVEQ324_54",
+          "x": "5.3",
+          "y": "185.5",
+          "tooltext": "Script C54: 5.3 yrs., 185.5%"
+        },
+        {
+          "id": "INVEQ324_55",
+          "x": "3.3",
+          "y": "125.4",
+          "tooltext": "Script D55: 3.3 yrs., 125.4%"
+        },
+        {
+          "id": "INVEQ324_56",
+          "x": "0.7",
+          "y": "25.2",
+          "tooltext": "Script E56: 0.7 yrs., 25.2%"
+        },
+        {
+          "id": "INVEQ324_57",
+          "x": "9.2",
+          "y": "101.2",
+          "tooltext": "Script F57: 9.2 yrs., 101.2%"
+        },
+        {
+          "id": "INVEQ324_58",
+          "x": "1.7",
+          "y": "11.9",
+          "tooltext": "Script G58: 1.7 yrs., 11.9%"
+        },
+        {
+          "id": "INVEQ324_59",
+          "x": "1.8",
+          "y": "14.4",
+          "tooltext": "Script H59: 1.8 yrs., 14.4%"
+        },
+        {
+          "id": "INVEQ324_60",
+          "x": "2",
+          "y": "16",
+          "tooltext": "Script I60: 2 yrs., 16%"
+        },
+        {
+          "id": "INVEQ324_61",
+          "x": "7.4",
+          "y": "118.4",
+          "tooltext": "Script J61: 7.4 yrs., 118.4%"
+        },
+        {
+          "id": "INVEQ324_62",
+          "x": "8.8",
+          "y": "343.2",
+          "tooltext": "Script K62: 8.8 yrs., 343.2%"
+        },
+        {
+          "id": "INVEQ324_63",
+          "x": "5.2",
+          "y": "130",
+          "tooltext": "Script L63: 5.2 yrs., 130%"
+        },
+        {
+          "id": "INVEQ324_64",
+          "x": "9.8",
+          "y": "196",
+          "tooltext": "Script M64: 9.8 yrs., 196%"
+        },
+        {
+          "id": "INVEQ324_65",
+          "x": "2.5",
+          "y": "112.5",
+          "tooltext": "Script N65: 2.5 yrs., 112.5%"
+        },
+        {
+          "id": "INVEQ324_66",
+          "x": "1.3",
+          "y": "52",
+          "tooltext": "Script O66: 1.3 yrs., 52%"
+        },
+        {
+          "id": "INVEQ324_67",
+          "x": "6.4",
+          "y": "179.2",
+          "tooltext": "Script P67: 6.4 yrs., 179.2%"
+        },
+        {
+          "id": "INVEQ324_68",
+          "x": "8.8",
+          "y": "114.4",
+          "tooltext": "Script Q68: 8.8 yrs., 114.4%"
+        },
+        {
+          "id": "INVEQ324_69",
+          "x": "1.9",
+          "y": "70.3",
+          "tooltext": "Script R69: 1.9 yrs., 70.3%"
+        },
+        {
+          "id": "INVEQ324_70",
+          "x": "6.9",
+          "y": "6.9",
+          "tooltext": "Script S70: 6.9 yrs., 6.9%"
+        },
+        {
+          "id": "INVEQ324_71",
+          "x": "4.9",
+          "y": "205.8",
+          "tooltext": "Script T71: 4.9 yrs., 205.8%"
+        },
+        {
+          "id": "INVEQ324_72",
+          "x": "9.4",
+          "y": "413.6",
+          "tooltext": "Script U72: 9.4 yrs., 413.6%"
+        },
+        {
+          "id": "INVEQ324_73",
+          "x": "1.8",
+          "y": "14.4",
+          "tooltext": "Script V73: 1.8 yrs., 14.4%"
+        },
+        {
+          "id": "INVEQ324_74",
+          "x": "0.4",
+          "y": "2.4",
+          "tooltext": "Script W74: 0.4 yrs., 2.4%"
+        },
+        {
+          "id": "INVEQ324_75",
+          "x": "3.2",
+          "y": "121.6",
+          "tooltext": "Script X75: 3.2 yrs., 121.6%"
+        }
+      ]
+    },
+    {
+      "id": "DS2",
+      "seriesname": "Mutual Funds",
+      "color": "FF9900",
+      "showplotborder": "1",
+      "anchorradius": "4",
+      "data": [
+        {
+          "id": "INVMF324_1",
+          "x": "1.4",
+          "y": "32.2",
+          "tooltext": "Fund A: 1.4 yrs., 32.2%"
+        },
+        {
+          "id": "INVMF324_2",
+          "x": "1.6",
+          "y": "27",
+          "tooltext": "Fund B: 0.6 yrs., 27%"
+        },
+        {
+          "id": "INVMF324_3",
+          "x": "4.7",
+          "y": "230.3",
+          "tooltext": "Fund C: 4.7 yrs., 230.3%"
+        },
+        {
+          "id": "INVMF324_4",
+          "x": "8.9",
+          "y": "160.2",
+          "tooltext": "Fund D: 8.9 yrs., 160.2%"
+        },
+        {
+          "id": "INVMF324_5",
+          "x": "3",
+          "y": "24",
+          "tooltext": "Fund E: 3 yrs., 24%"
+        },
+        {
+          "id": "INVMF324_6",
+          "x": "2",
+          "y": "94",
+          "tooltext": "Fund F: 2 yrs., 94%"
+        },
+        {
+          "id": "INVMF324_7",
+          "x": "8.5",
+          "y": "399.5",
+          "tooltext": "Fund G: 8.5 yrs., 399.5%"
+        },
+        {
+          "id": "INVMF324_8",
+          "x": "6.9",
+          "y": "289.8",
+          "tooltext": "Fund H: 6.9 yrs., 289.8%"
+        },
+        {
+          "id": "INVMF324_9",
+          "x": "1.3",
+          "y": "15.6",
+          "tooltext": "Fund I: 1.3 yrs., 15.6%"
+        },
+        {
+          "id": "INVMF324_10",
+          "x": "7.1",
+          "y": "333.7",
+          "tooltext": "Fund J: 7.1 yrs., 333.7%"
+        },
+        {
+          "id": "INVMF324_11",
+          "x": "4.3",
+          "y": "98.9",
+          "tooltext": "Fund K: 4.3 yrs., 98.9%"
+        },
+        {
+          "id": "INVMF324_12",
+          "x": "1.4",
+          "y": "4.8",
+          "tooltext": "Fund L: 0.4 yrs., 4.8%"
+        },
+        {
+          "id": "INVMF324_13",
+          "x": "5",
+          "y": "230",
+          "tooltext": "Fund M: 5 yrs., 230%"
+        },
+        {
+          "id": "INVMF324_14",
+          "x": "9.9",
+          "y": "445.5",
+          "tooltext": "Fund N: 9.9 yrs., 445.5%"
+        },
+        {
+          "id": "INVMF324_15",
+          "x": "3.9",
+          "y": "70.2",
+          "tooltext": "Fund O: 3.9 yrs., 70.2%"
+        },
+        {
+          "id": "INVMF324_16",
+          "x": "1.3",
+          "y": "5.4",
+          "tooltext": "Fund P: 0.3 yrs., 5.4%"
+        },
+        {
+          "id": "INVMF324_17",
+          "x": "5.9",
+          "y": "271.4",
+          "tooltext": "Fund Q: 5.9 yrs., 271.4%"
+        },
+        {
+          "id": "INVMF324_18",
+          "x": "5.9",
+          "y": "177",
+          "tooltext": "Fund R: 5.9 yrs., 177%"
+        },
+        {
+          "id": "INVMF324_19",
+          "x": "0.7",
+          "y": "15.4",
+          "tooltext": "Fund S: 0.7 yrs., 15.4%"
+        },
+        {
+          "id": "INVMF324_20",
+          "x": "4",
+          "y": "24",
+          "tooltext": "Fund T: 4 yrs., 24%"
+        },
+        {
+          "id": "INVMF324_21",
+          "x": "9.8",
+          "y": "431.2",
+          "tooltext": "Fund U: 9.8 yrs., 431.2%"
+        },
+        {
+          "id": "INVMF324_22",
+          "x": "8.3",
+          "y": "132.8",
+          "tooltext": "Fund V: 8.3 yrs., 132.8%"
+        },
+        {
+          "id": "INVMF324_23",
+          "x": "4.9",
+          "y": "161.7",
+          "tooltext": "Fund W: 4.9 yrs., 161.7%"
+        },
+        {
+          "id": "INVMF324_24",
+          "x": "3.9",
+          "y": "187.2",
+          "tooltext": "Fund X: 3.9 yrs., 187.2%"
+        },
+        {
+          "id": "INVMF324_25",
+          "x": "1.7",
+          "y": "42.5",
+          "tooltext": "Fund Y: 1.7 yrs., 42.5%"
+        },
+        {
+          "id": "INVMF324_26",
+          "x": "6.3",
+          "y": "233.1",
+          "tooltext": "Fund Z: 6.3 yrs., 233.1%"
+        },
+        {
+          "id": "INVMF324_27",
+          "x": "4.7",
+          "y": "159.8",
+          "tooltext": "Fund A1: 4.7 yrs., 159.8%"
+        },
+        {
+          "id": "INVMF324_28",
+          "x": "1.3",
+          "y": "16.9",
+          "tooltext": "Fund A2: 1.3 yrs., 16.9%"
+        },
+        {
+          "id": "INVMF324_29",
+          "x": "7.6",
+          "y": "235.6",
+          "tooltext": "Fund A3: 7.6 yrs., 235.6%"
+        },
+        {
+          "id": "INVMF324_30",
+          "x": "4.4",
+          "y": "202.4",
+          "tooltext": "Fund A4: 4.4 yrs., 202.4%"
+        },
+        {
+          "id": "INVMF324_31",
+          "x": "5.3",
+          "y": "169.6",
+          "tooltext": "Fund A5: 5.3 yrs., 169.6%"
+        },
+        {
+          "id": "INVMF324_32",
+          "x": "8",
+          "y": "144",
+          "tooltext": "Fund A6: 8 yrs., 144%"
+        }
+      ]
+    }
+  ],
+  "vtrendlines": [
+    {
+      "line": [
+        {
+          "startvalue": "0",
+          "endvalue": "3",
+          "displayvalue": "Short Term",
+          "istrendzone": "1",
+          "color": "FF0000",
+          "alpha": "5"
+        },
+        {
+          "startvalue": "3",
+          "endvalue": "6",
+          "displayvalue": "Mid Term",
+          "istrendzone": "1",
+          "color": "5B5B00",
+          "alpha": "5"
+        },
+        {
+          "startvalue": "6",
+          "endvalue": "10",
+          "displayvalue": "Long Term",
+          "istrendzone": "1",
+          "color": "009900",
+          "alpha": "5"
+        }
+      ]
+    }
+  ],
+  "styles": {
+    "definition": [
+      {
+        "name": "myCaptionFont",
+        "type": "font",
+        "font": "Arial",
+        "size": "14",
+        "bold": "1",
+        "underline": "1"
+      }
+    ],
+    "application": [
+      {
+        "toobject": "Caption",
+        "styles": "myCaptionFont"
+      }
+    ]
+  }
+}

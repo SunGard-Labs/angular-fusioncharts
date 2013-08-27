@@ -1,0 +1,141 @@
+{
+  "chart": {
+    "caption": "Total crimes for 2005-06 ",
+    "showvalues": "0",
+    "canvasbgcolor": "D9E5F1",
+    "canvasbasecolor": "D9E5F1"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "Jan"
+        },
+        {
+          "label": "Feb"
+        },
+        {
+          "label": "Mar"
+        },
+        {
+          "label": "Apr"
+        },
+        {
+          "label": "May"
+        },
+        {
+          "label": "Jun"
+        },
+        {
+          "label": "Jul"
+        },
+        {
+          "label": "Aug"
+        },
+        {
+          "label": "Sep"
+        },
+        {
+          "label": "Oct"
+        },
+        {
+          "label": "Nov"
+        },
+        {
+          "label": "Dec"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Crimes Reported",
+      "data": [
+        {
+          "value": "720"
+        },
+        {
+          "value": "680"
+        },
+        {
+          "value": "660"
+        },
+        {
+          "value": "700"
+        },
+        {
+          "value": "650"
+        },
+        {
+          "value": "690"
+        },
+        {
+          "value": "710"
+        },
+        {
+          "value": "730"
+        },
+        {
+          "value": "800"
+        },
+        {
+          "value": "760"
+        },
+        {
+          "value": "710"
+        },
+        {
+          "value": "810"
+        }
+      ]
+    },
+    {
+      "seriesname": "Crimes Detected",
+      "renderas": "Line",
+      "color": "BBDA00",
+      "anchorsides": "4",
+      "anchorradius": "5",
+      "anchorbgcolor": "BBDA00",
+      "anchorbordercolor": "FFFFFF",
+      "anchorborderthickness": "2",
+      "data": [
+        {
+          "value": "380"
+        },
+        {
+          "value": "330"
+        },
+        {
+          "value": "350"
+        },
+        {
+          "value": "380"
+        },
+        {
+          "value": "350"
+        },
+        {
+          "value": "330"
+        },
+        {
+          "value": "400"
+        },
+        {
+          "value": "370"
+        },
+        {
+          "value": "400"
+        },
+        {
+          "value": "390"
+        },
+        {
+          "value": "300"
+        },
+        {
+          "value": "490"
+        }
+      ]
+    }
+  ]
+}

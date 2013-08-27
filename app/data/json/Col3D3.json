@@ -1,0 +1,74 @@
+{
+  "chart": {
+    "caption": "Decline in Net Interest Margins of Banks (1995-2005)",
+    "subcaption": "(in Percentage %)",
+    "yaxisname": "Points",
+    "xaxisname": "Country",
+    "divlinecolor": "FFFFFF",
+    "numbersuffix": "%",
+    "labeldisplay": "Stagger",
+    "numdivlines": "3"
+  },
+  "data": [
+    {
+      "label": "Spain",
+      "value": "-1.33",
+      "color": "F6BD0F"
+    },
+    {
+      "label": "Germany",
+      "value": "-0.27",
+      "color": "FF6600"
+    },
+    {
+      "label": "France",
+      "value": "0.40",
+      "color": "8BBA00"
+    },
+    {
+      "label": "Italy",
+      "value": "1.6",
+      "color": "F984A1"
+    },
+    {
+      "label": "Holland",
+      "value": "-1.2",
+      "color": "A66EDD"
+    },
+    {
+      "label": "Denmark",
+      "value": "-2.2",
+      "color": "B2FF66"
+    },
+    {
+      "label": "Sweden",
+      "value": "3.2",
+      "color": "AFD8F8"
+    }
+  ],
+  "styles": {
+    "definition": [
+      {
+        "name": "DivLineGlow",
+        "type": "glow",
+        "color": "FFFFFF",
+        "alpha": "50"
+      },
+      {
+        "name": "myCaptionFont",
+        "type": "font",
+        "align": "right"
+      }
+    ],
+    "application": [
+      {
+        "toobject": "DIVLINES",
+        "styles": "DivLineGlow"
+      },
+      {
+        "toobject": "subCaption",
+        "styles": "myCaptionFont"
+      }
+    ]
+  }
+}

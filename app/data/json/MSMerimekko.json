@@ -1,0 +1,70 @@
+{
+  "chart": {
+    "showvalues": "0",
+    "caption": "Market Share Analysis",
+    "subcaption": "2009",
+    "numberprefix": "$",
+    "xaxisname": "Market Segment",
+    "pyaxisname": "Market Share",
+    "legendcaption": "Manufacturer"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "Desktop"
+        },
+        {
+          "label": "Laptop"
+        },
+        {
+          "label": "Notebook"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "A",
+      "data": [
+        {
+          "value": "335000"
+        },
+        {
+          "value": "225100"
+        },
+        {
+          "value": "164200"
+        }
+      ]
+    },
+    {
+      "seriesname": "B",
+      "data": [
+        {
+          "value": "215000"
+        },
+        {
+          "value": "198000"
+        },
+        {
+          "value": "120000"
+        }
+      ]
+    },
+    {
+      "seriesname": "C",
+      "data": [
+        {
+          "value": "298000"
+        },
+        {
+          "value": "109300"
+        },
+        {
+          "value": "153600"
+        }
+      ]
+    }
+  ]
+}

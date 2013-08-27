@@ -1,0 +1,152 @@
+{
+  "chart": {
+    "showvalues": "0",
+    "caption": "",
+    "subcaption": "",
+    "numberprefix": "$",
+    "chartrightmargin": "15",
+    "xaxisname": "",
+    "yaxisname": "",
+    "animation": "1",
+    "bgcolor": "FFFFFF",
+    "pyaxisname": "",
+    "showalternatehgridcolor": "0",
+    "numdivlines": "0",
+    "showyaxisvalues": "0",
+    "chartleftmargin": "30",
+    "charttopmargin": "35",
+    "chartbottommargin": "40",
+    "plotgradientcolor": "",
+    "showplotborder": "0",
+    "showshadow": "1",
+    "showborder": "1",
+    "canvasborderalpha": "0",
+    "yaxisvaluespadding": "10",
+    "valuepadding": "5",
+    "labelpadding": "6",
+    "canvasbordercolor": "800080",
+    "canvasborderthickness": "3",
+    "canvasbgratio": "0",
+    "canvasbgalpha": "100",
+    "bordercolor": "8F8F8F",
+    "borderalpha": "50",
+    "bgratio": "0",
+    "bgalpha": "50",
+    "yaxisnamepadding": "10",
+    "stack100percent": "0"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "China"
+        },
+        {
+          "label": "USA"
+        },
+        {
+          "label": "Brazil"
+        },
+        {
+          "label": "Spain"
+        },
+        {
+          "label": "India"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "2008",
+      "data": [
+        {
+          "value": "490000",
+          "color": "64810A",
+          "color_cc": "64810A"
+        },
+        {
+          "value": "340000",
+          "color": "7B9F0C",
+          "color_cc": "7B9F0C"
+        },
+        {
+          "value": "160000",
+          "color": "90BC0E",
+          "color_cc": "90BC0E"
+        },
+        {
+          "value": "220000",
+          "color": "B7D702",
+          "color_cc": "B7D702"
+        },
+        {
+          "value": "123000",
+          "color": "DFEB55",
+          "color_cc": "DFEB55"
+        }
+      ]
+    }
+  ],
+  "data": [
+    {
+      "value": "490000",
+      "color": "64810A",
+      "color_cc": "64810A",
+      "label": "China"
+    },
+    {
+      "value": "340000",
+      "color": "7B9F0C",
+      "color_cc": "7B9F0C",
+      "label": "USA"
+    },
+    {
+      "value": "160000",
+      "color": "90BC0E",
+      "color_cc": "90BC0E",
+      "label": "Brazil"
+    },
+    {
+      "value": "220000",
+      "color": "B7D702",
+      "color_cc": "B7D702",
+      "label": "Spain"
+    },
+    {
+      "value": "123000",
+      "color": "DFEB55",
+      "color_cc": "DFEB55",
+      "label": "India"
+    }
+  ],
+  "styles": {
+    "definition": [
+      {
+        "name": "Animation_0",
+        "type": "ANIMATION",
+        "duration": "2",
+        "start": "0",
+        "param": "_y"
+      },
+      {
+        "name": "Animation_1",
+        "type": "ANIMATION",
+        "duration": "2",
+        "start": "0",
+        "param": "_x",
+        "easing": "Regular"
+      }
+    ],
+    "application": [
+      {
+        "toobject": "DATALABELS",
+        "styles": "Animation_0"
+      },
+      {
+        "toobject": "DATAPLOT",
+        "styles": "Animation_1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "chart": {
+    "caption": "Company Revenue",
+    "palette": "1",
+    "showvalues": "0",
+    "yaxisvaluespadding": "10",
+    "numberprefix": "$"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "Aug 05"
+        },
+        {
+          "label": "Sep 05"
+        },
+        {
+          "label": "Oct 05"
+        },
+        {
+          "label": "Nov 05"
+        },
+        {
+          "label": "Dec 05"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Product A",
+      "data": [
+        {
+          "value": "36000"
+        },
+        {
+          "value": "34300"
+        },
+        {
+          "value": "30000"
+        },
+        {
+          "value": "27800"
+        },
+        {
+          "value": "25000"
+        }
+      ]
+    },
+    {
+      "seriesname": "Product B",
+      "data": [
+        {
+          "value": "31000"
+        },
+        {
+          "value": "29300"
+        },
+        {
+          "value": "26000"
+        },
+        {
+          "value": "21000"
+        },
+        {
+          "value": "20500"
+        }
+      ]
+    },
+    {
+      "seriesname": "Predicted",
+      "renderas": "Line",
+      "data": [
+        {
+          "value": "25000"
+        },
+        {
+          "value": "23000"
+        },
+        {
+          "value": "20000"
+        },
+        {
+          "value": "18000"
+        },
+        {
+          "value": "14500"
+        }
+      ]
+    },
+    {
+      "seriesname": "2004 Avg.",
+      "renderas": "Line",
+      "data": [
+        {
+          "value": "17000"
+        },
+        {
+          "value": "15000"
+        },
+        {
+          "value": "16000"
+        },
+        {
+          "value": "11500"
+        },
+        {
+          "value": "10000"
+        }
+      ]
+    }
+  ]
+}

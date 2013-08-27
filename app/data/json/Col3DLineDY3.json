@@ -1,0 +1,83 @@
+{
+  "chart": {
+    "caption": "Yearly Sales Comparison",
+    "xaxisname": "Year",
+    "palette": "1",
+    "animation": "1",
+    "formatnumberscale": "0",
+    "numberprefix": "$",
+    "showvalues": "0",
+    "seriesnameintooltip": "0"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "1994"
+        },
+        {
+          "label": "1995"
+        },
+        {
+          "label": "1996"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Revenue",
+      "data": [
+        {
+          "value": "219702"
+        },
+        {
+          "value": "682796"
+        },
+        {
+          "value": "547248"
+        }
+      ]
+    },
+    {
+      "seriesname": "Units Sold",
+      "parentyaxis": "S",
+      "data": [
+        {
+          "value": "7381"
+        },
+        {
+          "value": "25007"
+        },
+        {
+          "value": "18929"
+        }
+      ]
+    }
+  ],
+  "styles": {
+    "definition": [
+      {
+        "type": "font",
+        "color": "666666",
+        "name": "CaptionFont",
+        "size": "15"
+      },
+      {
+        "type": "font",
+        "name": "SubCaptionFont",
+        "bold": "0"
+      }
+    ],
+    "application": [
+      {
+        "toobject": "caption",
+        "styles": "CaptionFont"
+      },
+      {
+        "toobject": "SubCaption",
+        "styles": "SubCaptionFont"
+      }
+    ]
+  }
+}

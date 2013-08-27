@@ -1,0 +1,121 @@
+{
+  "chart": {
+    "showvalues": "0",
+    "caption": "Market Share Analysis",
+    "numberprefix": "$",
+    "xaxisname": "Market Segment",
+    "yaxisname": "Market Share",
+    "stack100percent": "0",
+    "legendcaption": "Manufacturer",
+    "canvasbgangle": "0",
+    "canvasborderthickness": "2",
+    "chartleftmargin": "5",
+    "chartrightmargin": "15",
+    "charttopmargin": "10",
+    "chartbottommargin": "20",
+    "captionpadding": "10",
+    "xaxisnamepadding": "5",
+    "yaxisnamepadding": "5",
+    "yaxisvaluespadding": "2",
+    "labelpadding": "3",
+    "basefontsize": "10",
+    "outcnvbasefontsize": "10",
+    "bgcolor": "FFFFFF",
+    "bgalpha": "100",
+    "showxaxispercentvalues": "1",
+    "usepercentdistribution": "1",
+    "plotgradientcolor": ""
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "Smart Phone",
+          "widthpercent": ""
+        },
+        {
+          "label": "Basic Phone",
+          "widthpercent": "33"
+        },
+        {
+          "label": "Camera Phone",
+          "widthpercent": "34"
+        },
+        {
+          "label": "Music Phone"
+        },
+        {
+          "label": "Gaming Phone"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Alpha",
+      "color": "F3D784",
+      "color_cc": "F3D784",
+      "data": [
+        {
+          "value": "38500"
+        },
+        {
+          "value": "10510"
+        },
+        {
+          "value": "22420"
+        },
+        {
+          "value": "19600"
+        },
+        {
+          "value": "8000"
+        }
+      ]
+    },
+    {
+      "seriesname": "Beta",
+      "color_cc": "C9B26B",
+      "color": "C9B26B",
+      "data": [
+        {
+          "value": "34500"
+        },
+        {
+          "value": "9800"
+        },
+        {
+          "value": "18000"
+        },
+        {
+          "value": "23680"
+        },
+        {
+          "value": "8600"
+        }
+      ]
+    },
+    {
+      "seriesname": "Gamma",
+      "color": "A3893B",
+      "color_cc": "A3893B",
+      "data": [
+        {
+          "value": "32800"
+        },
+        {
+          "value": "9930"
+        },
+        {
+          "value": "17360"
+        },
+        {
+          "value": "21769"
+        },
+        {
+          "value": "8655"
+        }
+      ]
+    }
+  ]
+}

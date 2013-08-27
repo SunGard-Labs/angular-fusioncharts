@@ -1,0 +1,79 @@
+{
+  "chart": {
+    "caption": "Engineering Masters Degrees - 2005",
+    "basefontcolor": "FFFFFF",
+    "bgcolor": "2E4A89, 90B1DE",
+    "pieyscale": "30",
+    "pieslicedepth": "8",
+    "smartlinecolor": "FFFFFF"
+  },
+  "data": [
+    {
+      "value": "96",
+      "label": "Computer",
+      "color": "1160B8"
+    },
+    {
+      "value": "87",
+      "label": "Electrical",
+      "color": "F2AC0C"
+    },
+    {
+      "value": "82",
+      "label": "Mechanical",
+      "color": "BF0000"
+    },
+    {
+      "value": "43",
+      "label": "Civil",
+      "color": "00247C"
+    },
+    {
+      "value": "55",
+      "label": "Industrial",
+      "color": "008900"
+    },
+    {
+      "value": "35",
+      "label": "Biotechnology",
+      "color": "E95D0F"
+    }
+  ],
+  "styles": {
+    "definition": [
+      {
+        "name": "CaptionFont",
+        "type": "FONT",
+        "size": "12",
+        "bold": "1"
+      },
+      {
+        "name": "LabelFont",
+        "type": "FONT",
+        "color": "2E4A89",
+        "bgcolor": "FFFFFF",
+        "bold": "1"
+      },
+      {
+        "name": "ToolTipFont",
+        "type": "FONT",
+        "bgcolor": "2E4A89",
+        "bordercolor": "2E4A89"
+      }
+    ],
+    "application": [
+      {
+        "toobject": "CAPTION",
+        "styles": "CaptionFont"
+      },
+      {
+        "toobject": "DATALABELS",
+        "styles": "LabelFont"
+      },
+      {
+        "toobject": "TOOLTIP",
+        "styles": "ToolTIpFont"
+      }
+    ]
+  }
+}

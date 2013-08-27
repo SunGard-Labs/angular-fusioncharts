@@ -1,0 +1,94 @@
+{
+  "chart": {
+    "caption": "Alphabet Usage in a Novel",
+    "formatnumberscale": "0"
+  },
+  "data": [
+    {
+      "label": "B",
+      "value": "51852"
+    },
+    {
+      "label": "C",
+      "value": "88168"
+    },
+    {
+      "label": "D",
+      "value": "73897"
+    },
+    {
+      "label": "E",
+      "value": "93933"
+    },
+    {
+      "label": "F",
+      "value": "19289"
+    },
+    {
+      "label": "G",
+      "value": "79623"
+    },
+    {
+      "label": "H",
+      "value": "48262"
+    },
+    {
+      "label": "I",
+      "value": "29162"
+    },
+    {
+      "label": "J",
+      "value": "96878"
+    },
+    {
+      "label": "K",
+      "value": "81241"
+    },
+    {
+      "label": "L",
+      "value": "40652",
+      "issliced": "1"
+    },
+    {
+      "label": "M",
+      "value": "37581",
+      "issliced": "1"
+    },
+    {
+      "label": "N",
+      "value": "2882"
+    },
+    {
+      "label": "O",
+      "value": "746"
+    },
+    {
+      "label": "P",
+      "value": "7155"
+    },
+    {
+      "label": "Q",
+      "value": "12072"
+    },
+    {
+      "label": "R",
+      "value": "45608"
+    },
+    {
+      "label": "S",
+      "value": "72570"
+    },
+    {
+      "label": "T",
+      "value": "44799"
+    },
+    {
+      "label": "U",
+      "value": "71887"
+    },
+    {
+      "label": "V",
+      "value": "78170"
+    }
+  ]
+}

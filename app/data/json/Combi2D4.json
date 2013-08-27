@@ -1,0 +1,159 @@
+{
+  "chart": {
+    "palette": "2",
+    "caption": "Sales",
+    "subcaption": "March 2006",
+    "showvalues": "0",
+    "divlinedecimalprecision": "1",
+    "limitsdecimalprecision": "1",
+    "pyaxisname": "Amount",
+    "syaxisname": "Quantity",
+    "numberprefix": "$",
+    "formatnumberscale": "0"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "A"
+        },
+        {
+          "label": "B"
+        },
+        {
+          "label": "C"
+        },
+        {
+          "label": "D"
+        },
+        {
+          "label": "E"
+        },
+        {
+          "label": "F"
+        },
+        {
+          "label": "G"
+        },
+        {
+          "label": "H"
+        },
+        {
+          "label": "I"
+        },
+        {
+          "label": "J"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Revenue",
+      "data": [
+        {
+          "value": "5854"
+        },
+        {
+          "value": "4171"
+        },
+        {
+          "value": "1375"
+        },
+        {
+          "value": "1875"
+        },
+        {
+          "value": "2246"
+        },
+        {
+          "value": "2696"
+        },
+        {
+          "value": "1287"
+        },
+        {
+          "value": "2140"
+        },
+        {
+          "value": "1603"
+        },
+        {
+          "value": "1628"
+        }
+      ]
+    },
+    {
+      "seriesname": "Profit",
+      "renderas": "Area",
+      "data": [
+        {
+          "value": "3242"
+        },
+        {
+          "value": "3171"
+        },
+        {
+          "value": "700"
+        },
+        {
+          "value": "1287"
+        },
+        {
+          "value": "1856"
+        },
+        {
+          "value": "1126"
+        },
+        {
+          "value": "987"
+        },
+        {
+          "value": "1610"
+        },
+        {
+          "value": "903"
+        },
+        {
+          "value": "928"
+        }
+      ]
+    },
+    {
+      "seriesname": "Predicted Profit",
+      "renderas": "Line",
+      "data": [
+        {
+          "value": "4342"
+        },
+        {
+          "value": "2371"
+        },
+        {
+          "value": "740"
+        },
+        {
+          "value": "3487"
+        },
+        {
+          "value": "2156"
+        },
+        {
+          "value": "1326"
+        },
+        {
+          "value": "1087"
+        },
+        {
+          "value": "1710"
+        },
+        {
+          "value": "703"
+        },
+        {
+          "value": "928"
+        }
+      ]
+    }
+  ]
+}

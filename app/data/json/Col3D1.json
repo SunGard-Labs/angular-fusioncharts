@@ -1,0 +1,32 @@
+{
+  "chart": {
+    "yaxisname": "Sales Figure",
+    "caption": "Top 5 Sales Person",
+    "numberprefix": "$",
+    "showborder": "1",
+    "imagesave": "1",
+    "imagesaveurl": "http://www.fusioncharts.com/ExportHandlers/PHP/_FCExporter.php"
+  },
+  "data": [
+    {
+      "label": "Alex",
+      "value": "25000"
+    },
+    {
+      "label": "Mark",
+      "value": "35000"
+    },
+    {
+      "label": "David",
+      "value": "42300"
+    },
+    {
+      "label": "Graham",
+      "value": "35300"
+    },
+    {
+      "label": "John",
+      "value": "31300"
+    }
+  ]
+}
