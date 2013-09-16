@@ -155,7 +155,7 @@ fc.directive('fcChart', ['fcChartFactory', '$timeout', function(fcChartFactory, 
                     // data has changed since initial rendering, re-render
                     renderData();
                 }
-            });
+            }, true);
 
             // watch if the data URL changes
             scope.$watch('dataUrl', function(newDataUrl, oldDataUrl) {
