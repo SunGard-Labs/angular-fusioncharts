@@ -1,8 +1,18 @@
 <h4>Demo of available charts</h4>
 <ul class="nav nav-tabs">
-    <li class="active"><a href="">Demo</a></li>
-    <li><a href="">Code</a></li>
+    <li ng-class="navClass('demo')"><a ng-href="#/demo/{{selected.name}}">Demo</a></li>
+    <li ng-class="navClass('code')"><a ng-href="#/code/{{selected.name}}">Code</a></li>
     <li class="pull-right"><button class="btn btn-primary">Try it live!</button></li>
 </ul>
 <div><select ng-model="selected" ng-options="demo.name group by demo.chartType for demo in demos"></select></div>
-<div fc-chart fc-chart-type="{{selected.chartType}}" fc-data-url="{{selected.xmlUrl}}" height="450"></div>
+<div ng-switch on='action'>
+    <div ng-switch-when='demo' fc-chart fc-chart-type="{{selected.chartType}}" fc-data-url="{{selected.xmlUrl}}" height="450"></div>
+    <div ng-switch-when='code'>
+      <label>JSON <input type="radio" ng-model="view" value="json"></label><br/>
+      <label> XML
+      <input type="radio" ng-model="view" value="xml"></label><br/>
+      See for yourself: <a href="{{selected.xmlUrl}}">XML</a>, <a href="{{selected.jsonUrl}}">JSON</a>
+     <pre><code>{{ selected.code[view] || 'Nothing here, yet' }}</code></pre>
+   </div>
+
+</div>
