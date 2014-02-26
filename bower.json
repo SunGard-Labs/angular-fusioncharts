@@ -1,6 +1,7 @@
 {
   "name": "angular-fusioncharts",
   "version": "0.0.1",
+  "main": "build/angular-fusioncharts",
   "devDependencies": {
     "jquery": "~1.9.1",
     "angular-mocks": "~1.0.7"
