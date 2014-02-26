@@ -1,0 +1,131 @@
+{
+  "chart": {
+    "palette": "3",
+    "caption": "Inventory by Product Categories",
+    "pyaxisname": "Cost of Inventory",
+    "syaxisname": "Units in Inventory",
+    "xaxisname": "Product Category",
+    "animation": "1",
+    "showvalues": "0",
+    "formatnumberscale": "0",
+    "numberprefix": "$",
+    "labeldisplay": "STAGGER",
+    "seriesnameintooltip": "0"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "Seafood"
+        },
+        {
+          "label": "Beverages"
+        },
+        {
+          "label": "Condiments"
+        },
+        {
+          "label": "Dairy Products"
+        },
+        {
+          "label": "Confections"
+        },
+        {
+          "label": "Meat/Poultry"
+        },
+        {
+          "label": "Grains/Cereals"
+        },
+        {
+          "label": "Produce"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Quantity",
+      "parentyaxis": "S",
+      "data": [
+        {
+          "value": "701"
+        },
+        {
+          "value": "559"
+        },
+        {
+          "value": "507"
+        },
+        {
+          "value": "393"
+        },
+        {
+          "value": "386"
+        },
+        {
+          "value": "165"
+        },
+        {
+          "value": "308"
+        },
+        {
+          "value": "100"
+        }
+      ]
+    },
+    {
+      "seriesname": "Cost of Inventory",
+      "data": [
+        {
+          "value": "13010"
+        },
+        {
+          "value": "12480"
+        },
+        {
+          "value": "12024"
+        },
+        {
+          "value": "11271"
+        },
+        {
+          "value": "10392"
+        },
+        {
+          "value": "5729"
+        },
+        {
+          "value": "5594"
+        },
+        {
+          "value": "3549"
+        }
+      ]
+    }
+  ],
+  "styles": {
+    "definition": [
+      {
+        "type": "font",
+        "name": "CaptionFont",
+        "size": "15",
+        "color": "666666"
+      },
+      {
+        "type": "font",
+        "name": "SubCaptionFont",
+        "bold": "0"
+      }
+    ],
+    "application": [
+      {
+        "toobject": "caption",
+        "styles": "CaptionFont"
+      },
+      {
+        "toobject": "SubCaption",
+        "styles": "SubCaptionFont"
+      }
+    ]
+  }
+}

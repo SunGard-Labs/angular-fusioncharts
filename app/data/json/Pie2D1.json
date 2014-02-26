@@ -1,0 +1,31 @@
+{
+  "chart": {
+    "caption": "Airline Delay Causes",
+    "showpercentageinlabel": "1",
+    "showvalues": "1",
+    "showlabels": "1",
+    "showlegend": "1"
+  },
+  "data": [
+    {
+      "value": "14.94",
+      "label": "Weather",
+      "color": "429EAD"
+    },
+    {
+      "value": "19.17",
+      "label": "Volume",
+      "color": "4249AD"
+    },
+    {
+      "value": "7.14",
+      "label": "Closed Runway",
+      "color": "AD42A2"
+    },
+    {
+      "value": "7.75",
+      "label": "Others",
+      "color": "D4AC31"
+    }
+  ]
+}

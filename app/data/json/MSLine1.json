@@ -1,0 +1,88 @@
+{
+  "chart": {
+    "caption": "Production Forecast",
+    "yaxisname": "Units",
+    "bgcolor": "F7F7F7, E9E9E9",
+    "numvdivlines": "10",
+    "divlinealpha": "30",
+    "labelpadding": "10",
+    "yaxisvaluespadding": "10",
+    "showvalues": "1",
+    "rotatevalues": "1",
+    "valueposition": "auto"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "2006"
+        },
+        {
+          "label": "2007"
+        },
+        {
+          "label": "2008"
+        },
+        {
+          "label": "2009"
+        },
+        {
+          "label": "2010"
+        },
+        {
+          "label": "2011"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Model A12",
+      "color": "A66EDD",
+      "data": [
+        {
+          "value": "35"
+        },
+        {
+          "value": "42"
+        },
+        {
+          "value": "31"
+        },
+        {
+          "value": "28"
+        },
+        {
+          "value": "34"
+        },
+        {
+          "value": "30"
+        }
+      ]
+    },
+    {
+      "seriesname": "Model A15",
+      "color": "F6BD0F",
+      "data": [
+        {
+          "value": "22"
+        },
+        {
+          "value": "25"
+        },
+        {
+          "value": "18"
+        },
+        {
+          "value": "22"
+        },
+        {
+          "value": "17"
+        },
+        {
+          "value": "16"
+        }
+      ]
+    }
+  ]
+}

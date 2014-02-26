@@ -1,0 +1,260 @@
+{
+  "chart": {
+    "caption": "Discontinuous Data Demo",
+    "numdivlines": "4",
+    "showvalues": "0",
+    "numvdivlines": "22",
+    "anchorradius": "2",
+    "labeldisplay": "rotate",
+    "slantlabels": "1",
+    "linethickness": "2",
+    "palette": "4"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "5/2001"
+        },
+        {
+          "label": "6/2001"
+        },
+        {
+          "label": "7/2001"
+        },
+        {
+          "label": "8/2001"
+        },
+        {
+          "label": "9/2001"
+        },
+        {
+          "label": "10/2001"
+        },
+        {
+          "label": "11/2001"
+        },
+        {
+          "label": "12/2001"
+        },
+        {
+          "label": "1/2002"
+        },
+        {
+          "label": "2/2002"
+        },
+        {
+          "label": "3/2002"
+        },
+        {
+          "label": "4/2002"
+        },
+        {
+          "label": "5/2002"
+        },
+        {
+          "label": "6/2002"
+        },
+        {
+          "label": "7/2002"
+        },
+        {
+          "label": "8/2002"
+        },
+        {
+          "label": "9/2002"
+        },
+        {
+          "label": "10/2002"
+        },
+        {
+          "label": "11/2002"
+        },
+        {
+          "label": "12/2002"
+        },
+        {
+          "label": "1/2003"
+        },
+        {
+          "label": "2/2003"
+        },
+        {
+          "label": "3/2003"
+        },
+        {
+          "label": "4/2003"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Series 1",
+      "data": [
+        {
+          "value": "0",
+          "alpha": "0"
+        },
+        {
+          "value": "0",
+          "alpha": "0"
+        },
+        {
+          "value": "0",
+          "alpha": "0"
+        },
+        {
+          "value": "0"
+        },
+        {
+          "value": "1"
+        },
+        {
+          "value": "2"
+        },
+        {
+          "value": "3"
+        },
+        {
+          "value": "5"
+        },
+        {
+          "value": "8"
+        },
+        {
+          "value": "11"
+        },
+        {
+          "value": "16"
+        },
+        {
+          "value": "23"
+        },
+        {
+          "value": "31"
+        },
+        {
+          "value": "40"
+        },
+        {
+          "value": "49"
+        },
+        {
+          "value": "59"
+        },
+        {
+          "value": "68"
+        },
+        {
+          "value": "76",
+          "alpha": "0"
+        },
+        {
+          "value": "84",
+          "alpha": "0"
+        },
+        {
+          "value": "89"
+        },
+        {
+          "value": "94"
+        },
+        {
+          "value": "97"
+        },
+        {
+          "value": "99"
+        },
+        {
+          "value": "100"
+        }
+      ]
+    },
+    {
+      "seriesname": "Series 2",
+      "data": [
+        {
+          "value": "0",
+          "alpha": "0"
+        },
+        {
+          "value": "0"
+        },
+        {
+          "value": "0"
+        },
+        {
+          "value": "0"
+        },
+        {
+          "value": "0"
+        },
+        {
+          "value": "1"
+        },
+        {
+          "value": "1"
+        },
+        {
+          "value": "1"
+        },
+        {
+          "value": "1"
+        },
+        {
+          "value": "6"
+        },
+        {
+          "value": "26"
+        },
+        {
+          "value": "43"
+        },
+        {
+          "value": "43",
+          "alpha": "0"
+        },
+        {
+          "value": "43",
+          "alpha": "0"
+        },
+        {
+          "value": "43",
+          "alpha": "0"
+        },
+        {
+          "value": "43",
+          "alpha": "0"
+        },
+        {
+          "value": "43"
+        },
+        {
+          "value": "53"
+        },
+        {
+          "value": "66"
+        },
+        {
+          "value": "78"
+        },
+        {
+          "value": "91"
+        },
+        {
+          "value": "0",
+          "alpha": "0"
+        },
+        {
+          "value": "0",
+          "alpha": "0"
+        },
+        {
+          "value": "0",
+          "alpha": "0"
+        }
+      ]
+    }
+  ]
+}

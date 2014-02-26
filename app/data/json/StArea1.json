@@ -1,0 +1,218 @@
+{
+  "chart": {
+    "caption": "Visits from search engines",
+    "showvalues": "0",
+    "plotgradientcolor": "999999",
+    "plotfillalpha": "95",
+    "plotbordercolor": "FFFFFF",
+    "formatnumberscale": "0"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "Jan"
+        },
+        {
+          "label": "Feb"
+        },
+        {
+          "label": "Mar"
+        },
+        {
+          "label": "Apr"
+        },
+        {
+          "label": "May"
+        },
+        {
+          "label": "Jun"
+        },
+        {
+          "label": "Jul"
+        },
+        {
+          "label": "Aug"
+        },
+        {
+          "label": "Sep"
+        },
+        {
+          "label": "Oct"
+        },
+        {
+          "label": "Nov"
+        },
+        {
+          "label": "Dec"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Google",
+      "data": [
+        {
+          "value": "5040"
+        },
+        {
+          "value": "4794"
+        },
+        {
+          "value": "5026"
+        },
+        {
+          "value": "5341"
+        },
+        {
+          "value": "4800"
+        },
+        {
+          "value": "4507"
+        },
+        {
+          "value": "5701"
+        },
+        {
+          "value": "4671"
+        },
+        {
+          "value": "4980"
+        },
+        {
+          "value": "4041"
+        },
+        {
+          "value": "3813"
+        },
+        {
+          "value": "3691"
+        }
+      ]
+    },
+    {
+      "seriesname": "Yahoo",
+      "data": [
+        {
+          "value": "1200"
+        },
+        {
+          "value": "1124"
+        },
+        {
+          "value": "1006"
+        },
+        {
+          "value": "921"
+        },
+        {
+          "value": "1500"
+        },
+        {
+          "value": "1007"
+        },
+        {
+          "value": "921"
+        },
+        {
+          "value": "971"
+        },
+        {
+          "value": "1080"
+        },
+        {
+          "value": "1041"
+        },
+        {
+          "value": "1113"
+        },
+        {
+          "value": "1091"
+        }
+      ]
+    },
+    {
+      "seriesname": "MSN",
+      "data": [
+        {
+          "value": "400"
+        },
+        {
+          "value": "524"
+        },
+        {
+          "value": "606"
+        },
+        {
+          "value": "421"
+        },
+        {
+          "value": "500"
+        },
+        {
+          "value": "707"
+        },
+        {
+          "value": "621"
+        },
+        {
+          "value": "471"
+        },
+        {
+          "value": "680"
+        },
+        {
+          "value": "441"
+        },
+        {
+          "value": "713"
+        },
+        {
+          "value": "491"
+        }
+      ]
+    },
+    {
+      "seriesname": "Others",
+      "data": [
+        {
+          "value": "765"
+        },
+        {
+          "value": "571"
+        },
+        {
+          "value": "532"
+        },
+        {
+          "value": "411"
+        },
+        {
+          "value": "500"
+        },
+        {
+          "value": "407"
+        },
+        {
+          "value": "421"
+        },
+        {
+          "value": "551"
+        },
+        {
+          "value": "600"
+        },
+        {
+          "value": "541"
+        },
+        {
+          "value": "613"
+        },
+        {
+          "value": "591"
+        }
+      ]
+    }
+  ]
+}

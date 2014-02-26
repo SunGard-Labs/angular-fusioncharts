@@ -1,0 +1,82 @@
+{
+  "chart": {
+    "caption": "1996 - Top 10 Cities By Sales ",
+    "palette": "2",
+    "animation": "1",
+    "formatnumberscale": "0",
+    "numberprefix": "$",
+    "labeldisplay": "STAGGER",
+    "slantlabels": "1",
+    "seriesnameintooltip": "0",
+    "snumbersuffix": " pcs.",
+    "showvalues": "0",
+    "plotspacepercent": "0"
+  },
+  "data": [
+    {
+      "label": "Graz",
+      "value": "57182.9"
+    },
+    {
+      "label": "Cunewalde",
+      "value": "42980.99"
+    },
+    {
+      "label": "Boise",
+      "value": "42806.25"
+    },
+    {
+      "label": "Rio de Janeiro",
+      "value": "35054.6"
+    },
+    {
+      "label": "London",
+      "value": "26035.96"
+    },
+    {
+      "label": "Cork",
+      "value": "22796.34"
+    },
+    {
+      "label": "Albuquerque",
+      "value": "22355.1"
+    },
+    {
+      "label": "Brandenburg",
+      "value": "21789.95"
+    },
+    {
+      "label": "Bräcke",
+      "value": "21185.85"
+    },
+    {
+      "label": "Seattle",
+      "value": "15278.9"
+    }
+  ],
+  "styles": {
+    "definition": [
+      {
+        "type": "font",
+        "name": "CaptionFont",
+        "size": "15",
+        "color": "666666"
+      },
+      {
+        "type": "font",
+        "name": "SubCaptionFont",
+        "bold": "0"
+      }
+    ],
+    "application": [
+      {
+        "toobject": "caption",
+        "styles": "CaptionFont"
+      },
+      {
+        "toobject": "SubCaption",
+        "styles": "SubCaptionFont"
+      }
+    ]
+  }
+}

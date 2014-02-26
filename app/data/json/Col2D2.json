@@ -1,0 +1,86 @@
+{
+  "chart": {
+    "palette": "2",
+    "caption": "Monthly Unit Sales",
+    "xaxisname": "Month",
+    "yaxisname": "Units",
+    "showvalues": "0",
+    "decimals": "0",
+    "formatnumberscale": "0"
+  },
+  "data": [
+    {
+      "label": "Jan",
+      "value": "462"
+    },
+    {
+      "label": "Feb",
+      "value": "857"
+    },
+    {
+      "label": "Mar",
+      "value": "671"
+    },
+    {
+      "label": "Apr",
+      "value": "494"
+    },
+    {
+      "label": "May",
+      "value": "761"
+    },
+    {
+      "label": "Jun",
+      "value": "960"
+    },
+    {
+      "dashed": "1",
+      "color": "00AACC",
+      "thickness": "2",
+      "dashlen": "2",
+      "dashgap": "6",
+      "vline": "true"
+    },
+    {
+      "label": "Jul",
+      "value": "629"
+    },
+    {
+      "label": "Aug",
+      "value": "622"
+    },
+    {
+      "label": "Sep",
+      "value": "376"
+    },
+    {
+      "label": "Oct",
+      "value": "494"
+    },
+    {
+      "label": "Nov",
+      "value": "761"
+    },
+    {
+      "label": "Dec",
+      "value": "960"
+    }
+  ],
+  "styles": {
+    "definition": [
+      {
+        "name": "myAnim",
+        "type": "animation",
+        "param": "_yScale",
+        "start": "0",
+        "duration": "1"
+      }
+    ],
+    "application": [
+      {
+        "toobject": "VLINES",
+        "styles": "myAnim"
+      }
+    ]
+  }
+}

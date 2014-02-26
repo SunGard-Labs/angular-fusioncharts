@@ -1,0 +1,187 @@
+{
+  "chart": {
+    "yaxisname": "Number of Leads",
+    "xaxisname": "Industry",
+    "canvasbgcolor": "FFFFDD",
+    "bgcolor": "B8D288,FFFFFF",
+    "bgangle": "90",
+    "numdivlines": "0",
+    "plotbordercolor": "83B242",
+    "canvasbordercolor": "83B242",
+    "canvasborderthickness": "1"
+  },
+  "data": [
+    {
+      "label": "Advertising/Marketing/PR",
+      "value": "3",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Aerospace/Defense Products",
+      "value": "1",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Banking/Finance/Securities",
+      "value": "1",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Communications/Cable/Phone",
+      "value": "2",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Conglomerates",
+      "value": "0",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Construction",
+      "value": "2",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Consumer Products - Non-Durables",
+      "value": "1",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Distribution",
+      "value": "1",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Education",
+      "value": "1",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Enery - Oil & Gas",
+      "value": "0",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Entertainment",
+      "value": "2",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Government",
+      "value": "0",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Health Products & Services",
+      "value": "1",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Hospitality & Hotels",
+      "value": "1",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Insurance",
+      "value": "0",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "ISP/Hotspot Operator",
+      "value": "0",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Non-Business/Residential",
+      "value": "1",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "OEM & Manufacturing",
+      "value": "0",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Other",
+      "value": "3",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Pharmaceutical",
+      "value": "1",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Point of Sale (POS)/Retail",
+      "value": "0",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Printer Service/Toner/Laser",
+      "value": "0",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Printing & Publishing",
+      "value": "1",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Professional Services",
+      "value": "1",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Real Estate",
+      "value": "3",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "REITs",
+      "value": "0",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Staffing Firm/Full Time/Temporary",
+      "value": "2",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Transportation/Logistics",
+      "value": "2",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Travel & Leisure",
+      "value": "4",
+      "color": "83B242,B8D288",
+      "dashed": "1",
+      "alpha": "80"
+    },
+    {
+      "label": "Utilities",
+      "value": "2",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "VAR/ISV",
+      "value": "1",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Vertical Market Software",
+      "value": "0",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "Warranty Administrators",
+      "value": "1",
+      "color": "83B242,B8D288"
+    },
+    {
+      "label": "White Box Builder",
+      "value": "0",
+      "color": "83B242,B8D288"
+    }
+  ]
+}

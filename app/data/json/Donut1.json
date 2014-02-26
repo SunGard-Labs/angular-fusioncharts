@@ -1,0 +1,40 @@
+{
+  "chart": {
+    "caption": "Project Cost Breakdown",
+    "bgcolor": "E1E1E1,FFFFFF",
+    "pieyscale": "30",
+    "plotfillalpha": "80",
+    "pieinnerfacealpha": "60",
+    "slicingdistance": "35",
+    "startingangle": "190",
+    "enablesmartlabels": "0",
+    "numbersuffix": "%",
+    "showborder": "1",
+    "showvalues": "0",
+    "showlabels": "0",
+    "showlegend": "1"
+  },
+  "data": [
+    {
+      "value": "28.57",
+      "label": "Production",
+      "color": "2675B4"
+    },
+    {
+      "value": "24.56",
+      "label": "Labor",
+      "color": "268926"
+    },
+    {
+      "value": "23.82",
+      "label": "Licenses",
+      "color": "C91D1D",
+      "issliced": "1"
+    },
+    {
+      "value": "23.05",
+      "label": "Misc",
+      "color": "C2780D"
+    }
+  ]
+}

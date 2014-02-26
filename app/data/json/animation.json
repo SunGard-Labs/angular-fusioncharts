@@ -1,0 +1,146 @@
+{
+  "chart": {
+    "showvalues": "0",
+    "caption": "",
+    "subcaption": "",
+    "numberprefix": "$",
+    "chartrightmargin": "15",
+    "xaxisname": "",
+    "yaxisname": "",
+    "animation": "1",
+    "bgcolor": "F5EDF8",
+    "pyaxisname": "",
+    "showalternatehgridcolor": "0",
+    "numdivlines": "0",
+    "showyaxisvalues": "0",
+    "chartleftmargin": "30",
+    "charttopmargin": "35",
+    "chartbottommargin": "40",
+    "plotgradientcolor": "590059",
+    "showplotborder": "0",
+    "showshadow": "1",
+    "showborder": "1",
+    "canvasborderalpha": "0",
+    "yaxisvaluespadding": "10",
+    "valuepadding": "5",
+    "labelpadding": "6",
+    "canvasbordercolor": "800080",
+    "canvasborderthickness": "3",
+    "canvasbgratio": "0",
+    "canvasbgalpha": "5",
+    "bordercolor": "8F8F8F",
+    "borderalpha": "50",
+    "bgratio": "0",
+    "bgalpha": "30",
+    "yaxisnamepadding": "10",
+    "useroundedges": "0",
+    "canvasbgcolor": "F7F0F9",
+    "stack100percent": "0",
+    "basefont": "Verdana",
+    "basefontsize": "13",
+    "basefontcolor": "9F9F9F",
+    "canvasbgangle": "20"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "USA"
+        },
+        {
+          "label": "Brazil"
+        },
+        {
+          "label": "Spain"
+        },
+        {
+          "label": "India"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "2008",
+      "data": [
+        {
+          "value": "340000",
+          "color": "C987DC",
+          "color_cc": "C987DC"
+        },
+        {
+          "value": "160000",
+          "color": "C987DC",
+          "color_cc": "C987DC"
+        },
+        {
+          "value": "220000",
+          "color": "C987DC",
+          "color_cc": "C987DC"
+        },
+        {
+          "value": "123000",
+          "color": "C987DC",
+          "color_cc": "C987DC"
+        }
+      ]
+    }
+  ],
+  "data": [
+    {
+      "value": "340000",
+      "color": "C987DC",
+      "color_cc": "C987DC",
+      "label": "USA"
+    },
+    {
+      "value": "160000",
+      "color": "C987DC",
+      "color_cc": "C987DC",
+      "label": "Brazil"
+    },
+    {
+      "value": "220000",
+      "color": "C987DC",
+      "color_cc": "C987DC",
+      "label": "Spain"
+    },
+    {
+      "value": "123000",
+      "color": "C987DC",
+      "color_cc": "C987DC",
+      "label": "India"
+    }
+  ],
+  "styles": {
+    "definition": [
+      {
+        "name": "Animation_0",
+        "type": "ANIMATION",
+        "duration": "3",
+        "start": "0",
+        "param": "_y",
+        "easing": "Bounce"
+      },
+      {
+        "type": "Bevel",
+        "name": "Bevel_0",
+        "angle": "210",
+        "distance": "40",
+        "shadowcolor": "5B005B",
+        "shadowalpha": "100",
+        "highlightcolor": "800080",
+        "highlightalpha": "61",
+        "blury": "6",
+        "strength": "4",
+        "quality": "2"
+      }
+    ],
+    "application": [
+      {
+        "toobject": "DATAPLOT",
+        "styles": "Animation_0,Bevel_0"
+      }
+    ]
+  }
+}

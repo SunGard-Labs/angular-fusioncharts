@@ -1,0 +1,141 @@
+{
+  "chart": {
+    "palette": "2",
+    "caption": "Monthly Sales Summary",
+    "subcaption": "100% composition and comparison",
+    "xaxisname": "Month",
+    "yaxisname": "Sales",
+    "numberprefix": "$",
+    "showvalues": "0",
+    "stack100percent": "1",
+    "showpercentvalues": "1"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "Jan"
+        },
+        {
+          "label": "Feb"
+        },
+        {
+          "label": "Mar"
+        },
+        {
+          "label": "Apr"
+        },
+        {
+          "label": "May"
+        },
+        {
+          "label": "Jun"
+        },
+        {
+          "label": "Jul"
+        },
+        {
+          "label": "Aug"
+        },
+        {
+          "label": "Sep"
+        },
+        {
+          "label": "Oct"
+        },
+        {
+          "label": "Nov"
+        },
+        {
+          "label": "Dec"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Product A",
+      "color": "B1D1DC",
+      "data": [
+        {
+          "value": "27400"
+        },
+        {
+          "value": "29800"
+        },
+        {
+          "value": "25800"
+        },
+        {
+          "value": "26800"
+        },
+        {
+          "value": "29600"
+        },
+        {
+          "value": "32600"
+        },
+        {
+          "value": "31800"
+        },
+        {
+          "value": "36700"
+        },
+        {
+          "value": "29700"
+        },
+        {
+          "value": "31900"
+        },
+        {
+          "value": "32900"
+        },
+        {
+          "value": "34800"
+        }
+      ]
+    },
+    {
+      "seriesname": "Product B",
+      "color": "C8A1D1",
+      "data": [
+        {
+          "value": "5400"
+        },
+        {
+          "value": "9800"
+        },
+        {
+          "value": "4500"
+        },
+        {
+          "value": "6500"
+        },
+        {
+          "value": "7600"
+        },
+        {
+          "value": "6800"
+        },
+        {
+          "value": "11800"
+        },
+        {
+          "value": "19700"
+        },
+        {
+          "value": "21700"
+        },
+        {
+          "value": "21900"
+        },
+        {
+          "value": "22900"
+        },
+        {
+          "value": "29800"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "chart": {
+    "bgcolor": "f1f1f1",
+    "canvasbgcolor": "1D8BD1,FFFFFF",
+    "canvasbgalpha": "60",
+    "canvasbgangle": "270",
+    "outcnvbasefontcolor": "1D8BD1",
+    "caption": "Fruit Production for March",
+    "subcaption": "(in Millions)",
+    "yaxisname": "Quantity",
+    "xaxisname": "Fruit",
+    "alternatehgridalpha": "30",
+    "alternatehgridcolor": "FFFFFF",
+    "canvasborderthickness": "1",
+    "canvasbordercolor": "114B78",
+    "basefontcolor": "1D8BD1",
+    "hovercapbordercolor": "114B78",
+    "hovercapbgcolor": "E7EFF6",
+    "plotgradientcolor": "DCE6F9",
+    "plotfillangle": "90",
+    "plotfillcolor": "1D8BD1",
+    "plotfillalpha": "80",
+    "showanchors": "0",
+    "canvaspadding": "20",
+    "plotfillratio": "10,90",
+    "showplotborder": "1",
+    "plotbordercolor": "FFFFFF",
+    "plotborderalpha": "20",
+    "divlinecolor": "FFFFFF",
+    "divlinealpha": "60",
+    "numbersuffix": "M"
+  },
+  "data": [
+    {
+      "label": "Orange",
+      "value": "23"
+    },
+    {
+      "label": "Apple",
+      "value": "12"
+    },
+    {
+      "label": "Banana",
+      "value": "17"
+    },
+    {
+      "label": "Mango",
+      "value": "14"
+    },
+    {
+      "label": "Litchi",
+      "value": "12"
+    }
+  ],
+  "styles": {
+    "definition": [
+      {
+        "name": "Bevel",
+        "type": "bevel",
+        "distance": "4",
+        "blurx": "2",
+        "blury": "2"
+      },
+      {
+        "name": "DataValuesFont",
+        "type": "font",
+        "bordercolor": "1D8BD1",
+        "bgcolor": "1D8BD1",
+        "color": "FFFFFF"
+      },
+      {
+        "name": "myAnim",
+        "type": "animation",
+        "param": "_alpha",
+        "start": "0",
+        "duration": "1"
+      },
+      {
+        "name": "dummyShadow",
+        "type": "Shadow",
+        "alpha": "0"
+      }
+    ],
+    "application": [
+      {
+        "toobject": "DATAPLOT",
+        "styles": "Bevel"
+      },
+      {
+        "toobject": "DATAVALUES",
+        "styles": "DataValuesFont,dummyShadow,myAnim"
+      }
+    ]
+  }
+}

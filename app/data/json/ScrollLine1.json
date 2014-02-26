@@ -1,0 +1,411 @@
+{
+  "chart": {
+    "caption": "Site hits per hour",
+    "subcaption": "In Thousands",
+    "numdivlines": "9",
+    "linethickness": "2",
+    "showvalues": "0",
+    "anchorradius": "3",
+    "anchorbgalpha": "50",
+    "numvdivlines": "24",
+    "showalternatevgridcolor": "1",
+    "alternatevgridalpha": "3",
+    "animation": "0"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "00:00"
+        },
+        {
+          "label": "01:00"
+        },
+        {
+          "label": "02:00"
+        },
+        {
+          "label": "03:00"
+        },
+        {
+          "label": "04:00"
+        },
+        {
+          "label": "05:00"
+        },
+        {
+          "label": "06:00"
+        },
+        {
+          "label": "07:00"
+        },
+        {
+          "label": "08:00"
+        },
+        {
+          "label": "09:00"
+        },
+        {
+          "label": "10:00"
+        },
+        {
+          "label": "11:00"
+        },
+        {
+          "label": "12:00"
+        },
+        {
+          "label": "13:00"
+        },
+        {
+          "label": "14:00"
+        },
+        {
+          "label": "15:00"
+        },
+        {
+          "label": "16:00"
+        },
+        {
+          "label": "17:00"
+        },
+        {
+          "label": "18:00"
+        },
+        {
+          "label": "19:00"
+        },
+        {
+          "label": "20:00"
+        },
+        {
+          "label": "21:00"
+        },
+        {
+          "label": "22:00"
+        },
+        {
+          "label": "23:00"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Tue",
+      "color": "800080",
+      "anchorbordercolor": "800080",
+      "data": [
+        {
+          "value": "54"
+        },
+        {
+          "value": "165"
+        },
+        {
+          "value": "175"
+        },
+        {
+          "value": "190"
+        },
+        {
+          "value": "212"
+        },
+        {
+          "value": "241"
+        },
+        {
+          "value": "308"
+        },
+        {
+          "value": "401"
+        },
+        {
+          "value": "481"
+        },
+        {
+          "value": "851"
+        },
+        {
+          "value": "1250"
+        },
+        {
+          "value": "2415"
+        },
+        {
+          "value": "2886"
+        },
+        {
+          "value": "3252"
+        },
+        {
+          "value": "3673"
+        },
+        {
+          "value": "4026"
+        },
+        {
+          "value": "4470"
+        },
+        {
+          "value": "4813"
+        },
+        {
+          "value": "4961"
+        },
+        {
+          "value": "5086"
+        },
+        {
+          "value": "5284"
+        },
+        {
+          "value": "5391"
+        },
+        {
+          "value": "5657"
+        },
+        {
+          "value": "5847"
+        }
+      ]
+    },
+    {
+      "seriesname": "Wed",
+      "color": "FF8040",
+      "anchorbordercolor": "FF8040",
+      "data": [
+        {
+          "value": "111"
+        },
+        {
+          "value": "120"
+        },
+        {
+          "value": "128"
+        },
+        {
+          "value": "140"
+        },
+        {
+          "value": "146"
+        },
+        {
+          "value": "157"
+        },
+        {
+          "value": "190"
+        },
+        {
+          "value": "250"
+        },
+        {
+          "value": "399"
+        },
+        {
+          "value": "691"
+        },
+        {
+          "value": "952"
+        },
+        {
+          "value": "1448"
+        },
+        {
+          "value": "1771"
+        },
+        {
+          "value": "2316"
+        },
+        {
+          "value": "2763"
+        },
+        {
+          "value": "3149"
+        },
+        {
+          "value": "3637"
+        },
+        {
+          "value": "4015"
+        },
+        {
+          "value": "4262"
+        },
+        {
+          "value": "4541"
+        },
+        {
+          "value": "4837"
+        },
+        {
+          "value": "5016"
+        },
+        {
+          "value": "5133"
+        },
+        {
+          "value": "5278"
+        }
+      ]
+    },
+    {
+      "seriesname": "Thu",
+      "color": "FFFF00",
+      "anchorbordercolor": "FFFF00",
+      "data": [
+        {
+          "value": "115"
+        },
+        {
+          "value": "141"
+        },
+        {
+          "value": "175"
+        },
+        {
+          "value": "189"
+        },
+        {
+          "value": "208"
+        },
+        {
+          "value": "229"
+        },
+        {
+          "value": "252"
+        },
+        {
+          "value": "440"
+        },
+        {
+          "value": "608"
+        },
+        {
+          "value": "889"
+        },
+        {
+          "value": "1334"
+        },
+        {
+          "value": "1637"
+        },
+        {
+          "value": "2056"
+        },
+        {
+          "value": "2600"
+        },
+        {
+          "value": "3070"
+        },
+        {
+          "value": "3451"
+        },
+        {
+          "value": "3918"
+        },
+        {
+          "value": "4140"
+        },
+        {
+          "value": "4296"
+        },
+        {
+          "value": "4519"
+        },
+        {
+          "value": "4716"
+        },
+        {
+          "value": "4881"
+        },
+        {
+          "value": "5092"
+        },
+        {
+          "value": "5249"
+        }
+      ]
+    },
+    {
+      "seriesname": "Fri",
+      "color": "FF0080",
+      "anchorbordercolor": "FF0080",
+      "data": [
+        {
+          "value": "98"
+        },
+        {
+          "value": "1112"
+        },
+        {
+          "value": "1192"
+        },
+        {
+          "value": "1219"
+        },
+        {
+          "value": "1264"
+        },
+        {
+          "value": "1282"
+        },
+        {
+          "value": "1365"
+        },
+        {
+          "value": "1433"
+        },
+        {
+          "value": "1559"
+        },
+        {
+          "value": "1823"
+        },
+        {
+          "value": "1867"
+        },
+        {
+          "value": "2198"
+        },
+        {
+          "value": "1112"
+        },
+        {
+          "value": "1192"
+        },
+        {
+          "value": "1219"
+        },
+        {
+          "value": "2264"
+        },
+        {
+          "value": "2282"
+        },
+        {
+          "value": "2365"
+        },
+        {
+          "value": "2433"
+        },
+        {
+          "value": "2559"
+        },
+        {
+          "value": "2823"
+        },
+        {
+          "value": "2867"
+        },
+        {
+          "value": "2867"
+        },
+        {
+          "value": "2867"
+        }
+      ]
+    }
+  ]
+}

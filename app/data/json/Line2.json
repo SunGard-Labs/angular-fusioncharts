@@ -1,0 +1,74 @@
+{
+  "chart": {
+    "caption": "Monthly Sales Summary",
+    "subcaption": "For the year 2004",
+    "xaxisname": "Month",
+    "yaxisname": "Sales",
+    "numberprefix": "$",
+    "showlabels": "1",
+    "showcolumnshadow": "1",
+    "animation": "1",
+    "showalternatehgridcolor": "1",
+    "alternatehgridcolor": "ff5904",
+    "divlinecolor": "ff5904",
+    "divlinealpha": "20",
+    "alternatehgridalpha": "5",
+    "canvasbordercolor": "666666",
+    "basefontcolor": "666666",
+    "linecolor": "FF5904",
+    "linealpha": "85",
+    "showvalues": "1",
+    "rotatevalues": "1",
+    "valueposition": "auto"
+  },
+  "data": [
+    {
+      "label": "Jan",
+      "value": "17400"
+    },
+    {
+      "label": "Feb",
+      "value": "19800"
+    },
+    {
+      "label": "Mar",
+      "value": "21800"
+    },
+    {
+      "label": "Apr",
+      "value": "23800"
+    },
+    {
+      "label": "May",
+      "value": "29600"
+    },
+    {
+      "label": "Jun",
+      "value": "27600"
+    },
+    {
+      "label": "Jul",
+      "value": "31800"
+    },
+    {
+      "label": "Aug",
+      "value": "39700"
+    },
+    {
+      "label": "Sep",
+      "value": "37800"
+    },
+    {
+      "label": "Oct",
+      "value": "21900"
+    },
+    {
+      "label": "Nov",
+      "value": "32900"
+    },
+    {
+      "label": "Dec",
+      "value": "39800"
+    }
+  ]
+}

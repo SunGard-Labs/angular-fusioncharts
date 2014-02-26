@@ -1,0 +1,66 @@
+{
+  "chart": {
+    "caption": "Industrial Growth Rate",
+    "subcaption": "(Country)",
+    "palette": "4",
+    "decimals": "0",
+    "enablesmartlabels": "1",
+    "enablerotation": "0",
+    "bgangle": "360",
+    "showborder": "1",
+    "startingangle": "70"
+  },
+  "data": [
+    {
+      "label": "France",
+      "value": "17"
+    },
+    {
+      "label": "India",
+      "value": "12"
+    },
+    {
+      "label": "Brazil",
+      "value": "18"
+    },
+    {
+      "label": "USA",
+      "value": "8",
+      "issliced": "1"
+    },
+    {
+      "label": "Australia",
+      "value": "10",
+      "issliced": "1"
+    },
+    {
+      "label": "Japan",
+      "value": "16",
+      "issliced": "1"
+    },
+    {
+      "label": "England",
+      "value": "11"
+    },
+    {
+      "label": "Nigeria",
+      "value": "12"
+    },
+    {
+      "label": "Italy",
+      "value": "8"
+    },
+    {
+      "label": "China",
+      "value": "10"
+    },
+    {
+      "label": "Canada",
+      "value": "19"
+    },
+    {
+      "label": "Germany",
+      "value": "15"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "chart": {
+    "caption": "Country Comparison",
+    "showlabels": "1",
+    "showvalues": "1",
+    "decimals": "0",
+    "numberprefix": "$",
+    "placevaluesinside": "1",
+    "rotatevalues": "1"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "Austria"
+        },
+        {
+          "label": "Brazil"
+        },
+        {
+          "label": "France"
+        },
+        {
+          "label": "Italy"
+        },
+        {
+          "label": "USA"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "1996",
+      "color": "AFD8F8",
+      "data": [
+        {
+          "value": "25601.34"
+        },
+        {
+          "value": "20148.82"
+        },
+        {
+          "value": "17372.76"
+        },
+        {
+          "value": "35407.15"
+        },
+        {
+          "value": "38105.68"
+        }
+      ]
+    },
+    {
+      "seriesname": "1997",
+      "color": "F6BD0F",
+      "data": [
+        {
+          "value": "57401.85"
+        },
+        {
+          "value": "41941.19"
+        },
+        {
+          "value": "45263.37"
+        },
+        {
+          "value": "117320.16"
+        },
+        {
+          "value": "114845.27"
+        }
+      ]
+    },
+    {
+      "seriesname": "1998",
+      "color": "8BBA00",
+      "data": [
+        {
+          "value": "45000.65"
+        },
+        {
+          "value": "44835.76"
+        },
+        {
+          "value": "18722.18"
+        },
+        {
+          "value": "77557.31"
+        },
+        {
+          "value": "92633.68"
+        }
+      ]
+    }
+  ]
+}

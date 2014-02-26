@@ -1,0 +1,115 @@
+{
+  "chart": {
+    "animation": "1",
+    "showvalues": "0",
+    "caption": "",
+    "subcaption": "",
+    "numberprefix": "",
+    "chartrightmargin": "15",
+    "xaxisname": "",
+    "yaxisname": "",
+    "pyaxisname": "",
+    "canvasborderalpha": "0",
+    "bgcolor": "FFFFFF",
+    "bgratio": "0",
+    "bgalpha": "50",
+    "showalternatehgridcolor": "0",
+    "numdivlines": "0",
+    "showyaxisvalues": "0",
+    "showlegend": "0",
+    "chartleftmargin": "35",
+    "charttopmargin": "25",
+    "chartbottommargin": "35",
+    "drawanchors": "0",
+    "bordercolor": "970000",
+    "borderalpha": "31",
+    "stack100percent": "0",
+    "linethickness": "3",
+    "basefontsize": "12"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "Jan"
+        },
+        {
+          "label": "Feb"
+        },
+        {
+          "label": "Mar"
+        },
+        {
+          "label": "Apr"
+        },
+        {
+          "label": "May"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "2008",
+      "color_cc": "CE0000",
+      "color": "CE0000",
+      "data": [
+        {
+          "value": "235"
+        },
+        {
+          "value": "125"
+        },
+        {
+          "value": "264"
+        },
+        {
+          "value": "234"
+        },
+        {
+          "value": "389"
+        }
+      ]
+    },
+    {
+      "seriesname": "2007",
+      "color": "7F7F7F",
+      "color_cc": "7F7F7F",
+      "data": [
+        {
+          "value": "190"
+        },
+        {
+          "value": "107"
+        },
+        {
+          "value": "203"
+        },
+        {
+          "value": "145"
+        },
+        {
+          "value": "175"
+        }
+      ]
+    }
+  ],
+  "styles": {
+    "definition": [
+      {
+        "type": "Shadow",
+        "name": "Shadow_0",
+        "distance": "8",
+        "color": "8F8F8F",
+        "alpha": "50",
+        "blury": "5"
+      }
+    ],
+    "application": [
+      {
+        "toobject": "DATAPLOT",
+        "styles": "Shadow_0"
+      }
+    ]
+  }
+}

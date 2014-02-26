@@ -1,0 +1,184 @@
+{
+  "chart": {
+    "caption": "Annual Revenue",
+    "subcaption": "In Million $",
+    "xaxisname": "Year",
+    "pyaxisname": "Sales in M$",
+    "syaxisname": "Cost as % of Revenue",
+    "decimals": "0",
+    "numberprefix": "$",
+    "numbersuffix": "M",
+    "snumbersuffix": "%25",
+    "setadaptivesymin": "1",
+    "showplotborder": "1",
+    "palette": "2"
+  },
+  "categories": [
+    {
+      "font": "Arial",
+      "fontsize": "12",
+      "fontcolor": "000000",
+      "category": [
+        {
+          "label": "2001"
+        },
+        {
+          "label": "2002"
+        },
+        {
+          "label": "2003"
+        },
+        {
+          "label": "2004"
+        },
+        {
+          "label": "2005"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "dataset": [
+        {
+          "seriesname": "Product A",
+          "color": "AFD8F8",
+          "showvalues": "0",
+          "data": [
+            {
+              "value": "30"
+            },
+            {
+              "value": "26"
+            },
+            {
+              "value": "29"
+            },
+            {
+              "value": "31"
+            },
+            {
+              "value": "34"
+            }
+          ]
+        },
+        {
+          "seriesname": "Product B",
+          "color": "F6BD0F",
+          "showvalues": "0",
+          "data": [
+            {
+              "value": "21"
+            },
+            {
+              "value": "28"
+            },
+            {
+              "value": "39"
+            },
+            {
+              "value": "41"
+            },
+            {
+              "value": "24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dataset": [
+        {
+          "seriesname": "Service A",
+          "color": "8BBA00",
+          "showvalues": "0",
+          "data": [
+            {
+              "value": "27"
+            },
+            {
+              "value": "25"
+            },
+            {
+              "value": "28"
+            },
+            {
+              "value": "26"
+            },
+            {
+              "value": "10"
+            }
+          ]
+        },
+        {
+          "seriesname": "Service B",
+          "color": "A66EDD",
+          "showvalues": "0",
+          "data": [
+            {
+              "value": "17"
+            },
+            {
+              "value": "15"
+            },
+            {
+              "value": "18"
+            },
+            {
+              "value": "16"
+            },
+            {
+              "value": "10"
+            }
+          ]
+        },
+        {
+          "seriesname": "Service C",
+          "color": "F984A1",
+          "showvalues": "0",
+          "data": [
+            {
+              "value": "12"
+            },
+            {
+              "value": "17"
+            },
+            {
+              "value": "16"
+            },
+            {
+              "value": "15"
+            },
+            {
+              "value": "12"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lineset": [
+    {
+      "seriesname": "Cost as % of Revenue",
+      "showvalues": "0",
+      "linethickness": "4",
+      "data": [
+        {
+          "value": "57"
+        },
+        {
+          "value": "68"
+        },
+        {
+          "value": "79"
+        },
+        {
+          "value": "73"
+        },
+        {
+          "value": "80"
+        }
+      ]
+    }
+  ]
+}

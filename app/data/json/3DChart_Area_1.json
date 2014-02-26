@@ -1,0 +1,172 @@
+{
+  "chart": {
+    "bgcolor": "E9E9E9",
+    "outcnvbasefontcolor": "666666",
+    "caption": "Monthly Sales Summary",
+    "xaxisname": "Month",
+    "yaxisname": "Sales",
+    "numberprefix": "$",
+    "showlabels": "1",
+    "showvalues": "0",
+    "plotfillalpha": "70",
+    "numvdivlines": "10",
+    "showalternatevgridcolor": "1",
+    "alternatevgridcolor": "e1f5ff",
+    "divlinecolor": "e1f5ff",
+    "vdivlinecolor": "e1f5ff",
+    "basefontcolor": "666666",
+    "canvasborderthickness": "1",
+    "showplotborder": "0",
+    "plotborderthickness": "0",
+    "startangx": "7",
+    "endangx": "7",
+    "startangy": "-18",
+    "endangy": "-18",
+    "zgapplot": "20",
+    "zdepth": "60",
+    "exetime": "2"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "Jan"
+        },
+        {
+          "label": "Feb"
+        },
+        {
+          "label": "Mar"
+        },
+        {
+          "label": "Apr"
+        },
+        {
+          "label": "May"
+        },
+        {
+          "label": "Jun"
+        },
+        {
+          "label": "Jul"
+        },
+        {
+          "label": "Aug"
+        },
+        {
+          "label": "Sep"
+        },
+        {
+          "label": "Oct"
+        },
+        {
+          "label": "Nov"
+        },
+        {
+          "label": "Dec"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "2005",
+      "color": "B1D1DC",
+      "plotbordercolor": "B1D1DC",
+      "renderas": "Area",
+      "data": [
+        {
+          "value": "27400"
+        },
+        {
+          "value": "29800"
+        },
+        {
+          "value": "25800"
+        },
+        {
+          "value": "26800"
+        },
+        {
+          "value": "29600"
+        },
+        {
+          "value": "32600"
+        },
+        {
+          "value": "31800"
+        },
+        {
+          "value": "36700"
+        },
+        {
+          "value": "29700"
+        },
+        {
+          "value": "31900"
+        },
+        {
+          "value": "32900"
+        },
+        {
+          "value": "34800"
+        }
+      ]
+    },
+    {
+      "seriesname": "2006",
+      "color": "C8A1D1",
+      "plotbordercolor": "C8A1D1",
+      "renderas": "Area",
+      "data": [
+        {},
+        {},
+        {
+          "value": "4500"
+        },
+        {
+          "value": "6500"
+        },
+        {
+          "value": "7600"
+        },
+        {
+          "value": "6800"
+        },
+        {
+          "value": "11800"
+        },
+        {
+          "value": "19700"
+        },
+        {
+          "value": "21700"
+        },
+        {
+          "value": "21900"
+        },
+        {
+          "value": "22900"
+        },
+        {
+          "value": "29800"
+        }
+      ]
+    }
+  ],
+  "styles": {
+    "definition": [
+      {
+        "name": "captionFont",
+        "type": "font",
+        "size": "15"
+      }
+    ],
+    "application": [
+      {
+        "toobject": "caption",
+        "styles": "captionfont"
+      }
+    ]
+  }
+}

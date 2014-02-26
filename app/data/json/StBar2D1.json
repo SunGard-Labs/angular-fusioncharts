@@ -1,0 +1,183 @@
+{
+  "chart": {
+    "bgcolor": "E9E9E9",
+    "outcnvbasefontcolor": "666666",
+    "caption": "Monthly Sales Summary Comparison",
+    "xaxisname": "Month",
+    "yaxisname": "Sales",
+    "numberprefix": "$",
+    "showvalues": "0",
+    "numvdivlines": "10",
+    "showalternatevgridcolor": "1",
+    "alternatevgridcolor": "e1f5ff",
+    "divlinecolor": "e1f5ff",
+    "vdivlinecolor": "e1f5ff",
+    "basefontcolor": "666666",
+    "tooltipbgcolor": "F3F3F3",
+    "tooltipbordercolor": "666666",
+    "canvasbordercolor": "666666",
+    "canvasborderthickness": "1",
+    "showplotborder": "1",
+    "plotfillalpha": "80"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "Jan"
+        },
+        {
+          "label": "Feb"
+        },
+        {
+          "label": "Mar"
+        },
+        {
+          "label": "Apr"
+        },
+        {
+          "label": "May"
+        },
+        {
+          "label": "Jun"
+        },
+        {
+          "label": "Jul"
+        },
+        {
+          "label": "Aug"
+        },
+        {
+          "label": "Sep"
+        },
+        {
+          "label": "Oct"
+        },
+        {
+          "label": "Nov"
+        },
+        {
+          "label": "Dec"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "2004",
+      "color": "B1D1DC",
+      "plotbordercolor": "B1D1DC",
+      "data": [
+        {
+          "value": "27400"
+        },
+        {
+          "value": "29800"
+        },
+        {
+          "value": "25800"
+        },
+        {
+          "value": "26800"
+        },
+        {
+          "value": "29600"
+        },
+        {
+          "value": "32600"
+        },
+        {
+          "value": "31800"
+        },
+        {
+          "value": "36700"
+        },
+        {
+          "value": "29700"
+        },
+        {
+          "value": "31900"
+        },
+        {
+          "value": "32900"
+        },
+        {
+          "value": "34800"
+        }
+      ]
+    },
+    {
+      "seriesname": "2003",
+      "color": "C8A1D1",
+      "plotbordercolor": "C8A1D1",
+      "data": [
+        {},
+        {},
+        {
+          "value": "4500"
+        },
+        {
+          "value": "6500"
+        },
+        {
+          "value": "7600"
+        },
+        {
+          "value": "6800"
+        },
+        {
+          "value": "11800"
+        },
+        {
+          "value": "19700"
+        },
+        {
+          "value": "21700"
+        },
+        {
+          "value": "21900"
+        },
+        {
+          "value": "22900"
+        },
+        {
+          "value": "29800"
+        }
+      ]
+    }
+  ],
+  "trendlines": [
+    {
+      "line": [
+        {
+          "startvalue": "22000",
+          "endvalue": "58000",
+          "color": "999999",
+          "displayvalue": "Target",
+          "dashed": "1",
+          "thickness": "2",
+          "dashgap": "6",
+          "alpha": "100",
+          "showontop": "1"
+        }
+      ]
+    }
+  ],
+  "styles": {
+    "definition": [
+      {
+        "type": "animation",
+        "name": "TrendAnim",
+        "param": "_alpha",
+        "duration": "1",
+        "start": "0"
+      }
+    ],
+    "application": [
+      {
+        "toobject": "TRENDLINES",
+        "styles": "TrendAnim"
+      }
+    ]
+  }
+}

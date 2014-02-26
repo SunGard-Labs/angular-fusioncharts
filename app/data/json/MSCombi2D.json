@@ -1,0 +1,200 @@
+{
+  "chart": {
+    "showvalues": "0",
+    "numberprefix": "$",
+    "chartrightmargin": "40",
+    "bgcolor": "FFFFFF",
+    "bgratio": "0",
+    "bgalpha": "100",
+    "showborder": "0",
+    "canvasbgcolor": "",
+    "numdivlines": "0",
+    "showyaxisvalues": "0",
+    "canvasbordercolor": "FFFFFF",
+    "showlegend": "0",
+    "labeldisplay": "none",
+    "bordercolor": "FFFFFF",
+    "showplotborder": "0",
+    "plotgradientcolor": "1F1F1F",
+    "showtooltip": "0",
+    "basefontsize": "11",
+    "basefont": "Arial Black",
+    "basefontcolor": "3F3F3F",
+    "drawanchors": "0",
+    "linethickness": "4",
+    "plotfillangle": "",
+    "plotfillalpha": "9",
+    "chartleftmargin": "20",
+    "chartbottommargin": "20",
+    "labelpadding": "5",
+    "valuepadding": "3",
+    "yaxisvaluespadding": "4",
+    "animation": "1"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "1920"
+        },
+        {
+          "label": "1930"
+        },
+        {
+          "label": "1940"
+        },
+        {
+          "label": "1950"
+        },
+        {
+          "label": "1960"
+        },
+        {
+          "label": "1970"
+        },
+        {
+          "label": "1980"
+        },
+        {
+          "label": "1990"
+        },
+        {
+          "label": "2010"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "2008",
+      "parentyaxis": "P",
+      "renderas": "Column",
+      "alpha": "100",
+      "data": [
+        {
+          "value": "34",
+          "color": "B99983"
+        },
+        {
+          "value": "47",
+          "color": "819FB6"
+        },
+        {
+          "value": "76",
+          "color": "EBB71A"
+        },
+        {
+          "value": "71",
+          "color": "8CB416"
+        },
+        {
+          "value": "108",
+          "color": "FF944F"
+        },
+        {
+          "value": "138",
+          "color": "36A5A5"
+        },
+        {
+          "value": "162",
+          "color": "DA5353"
+        },
+        {
+          "value": "202",
+          "color": "5379DA"
+        },
+        {
+          "value": "265",
+          "color": "AD4CE8"
+        }
+      ]
+    },
+    {
+      "seriesname": "2007",
+      "color": "D10C0C",
+      "parentyaxis": "P",
+      "renderas": "Line",
+      "alpha": "100",
+      "data": [
+        {},
+        {
+          "value": "22"
+        },
+        {
+          "value": "46"
+        },
+        {
+          "value": "29"
+        },
+        {
+          "value": "71"
+        },
+        {
+          "value": "55"
+        },
+        {
+          "value": "89",
+          "color": "D10C0C",
+          "anchorsides": "3",
+          "anchorradius": "2",
+          "anchorbgcolor": "D10C0C"
+        },
+        {
+          "value": "95",
+          "color": "D10C0C",
+          "anchorsides": "3",
+          "anchorradius": "2",
+          "anchorbgcolor": "D10C0C"
+        },
+        {
+          "value": "192",
+          "color": "D10C0C",
+          "anchorsides": "3",
+          "anchorradius": "2",
+          "anchorbgcolor": "D10C0C"
+        }
+      ]
+    }
+  ],
+  "styles": {
+    "definition": [
+      {
+        "type": "Shadow",
+        "name": "Shadow_0",
+        "angle": "75",
+        "color": "400000",
+        "alpha": "80",
+        "blurx": "2",
+        "blury": "2"
+      },
+      {
+        "type": "Bevel",
+        "name": "Bevel_0",
+        "angle": "90",
+        "distance": "1",
+        "shadowcolor": "333333",
+        "shadowalpha": "55"
+      },
+      {
+        "type": "Shadow",
+        "name": "Shadow_colm",
+        "distance": "9",
+        "angle": "90",
+        "color": "000000",
+        "alpha": "19",
+        "blurx": "0",
+        "blury": "15"
+      }
+    ],
+    "application": [
+      {
+        "toobject": "DATAPLOTLINE",
+        "styles": "Shadow_0"
+      },
+      {
+        "toobject": "DATAPLOTCOLUMN",
+        "styles": "Bevel_0,Shadow_colm"
+      }
+    ]
+  }
+}

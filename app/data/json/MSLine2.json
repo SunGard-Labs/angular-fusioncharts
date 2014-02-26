@@ -1,0 +1,191 @@
+{
+  "chart": {
+    "palette": "2",
+    "caption": "Sales Comparison",
+    "showvalues": "0",
+    "numvdivlines": "10",
+    "drawanchors": "0",
+    "numberprefix": "$",
+    "divlinealpha": "30",
+    "alternatehgridalpha": "20",
+    "setadaptiveymin": "1"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "Jan"
+        },
+        {
+          "label": "Feb"
+        },
+        {
+          "label": "Mar"
+        },
+        {
+          "label": "Apr"
+        },
+        {
+          "label": "May"
+        },
+        {
+          "label": "Jun"
+        },
+        {
+          "label": "Jul"
+        },
+        {
+          "label": "Aug"
+        },
+        {
+          "label": "Sep"
+        },
+        {
+          "label": "Oct"
+        },
+        {
+          "label": "Nov"
+        },
+        {
+          "label": "Dec"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Current Year",
+      "color": "A66EDD",
+      "data": [
+        {
+          "value": "1127654"
+        },
+        {
+          "value": "1226234"
+        },
+        {
+          "value": "1299456"
+        },
+        {
+          "value": "1311565"
+        },
+        {
+          "value": "1324454"
+        },
+        {
+          "value": "1357654"
+        },
+        {
+          "value": "1296234"
+        },
+        {
+          "value": "1359456"
+        },
+        {
+          "value": "1391565"
+        },
+        {
+          "value": "1414454"
+        },
+        {
+          "value": "1671565"
+        },
+        {
+          "value": "1134454"
+        }
+      ]
+    },
+    {
+      "seriesname": "Previous Year",
+      "color": "F6BD0F",
+      "data": [
+        {
+          "value": "927654"
+        },
+        {
+          "value": "1126234"
+        },
+        {
+          "value": "999456"
+        },
+        {
+          "value": "1111565"
+        },
+        {
+          "value": "1124454"
+        },
+        {
+          "value": "1257654"
+        },
+        {
+          "value": "1196234"
+        },
+        {
+          "value": "1259456"
+        },
+        {
+          "value": "1191565"
+        },
+        {
+          "value": "1214454"
+        },
+        {
+          "value": "1371565"
+        },
+        {
+          "value": "1434454"
+        }
+      ]
+    }
+  ],
+  "styles": {
+    "definition": [
+      {
+        "name": "XScaleAnim",
+        "type": "ANIMATION",
+        "duration": "0.5",
+        "start": "0",
+        "param": "_xScale"
+      },
+      {
+        "name": "YScaleAnim",
+        "type": "ANIMATION",
+        "duration": "0.5",
+        "start": "0",
+        "param": "_yscale"
+      },
+      {
+        "name": "XAnim",
+        "type": "ANIMATION",
+        "duration": "0.5",
+        "start": "0",
+        "param": "_yscale"
+      },
+      {
+        "name": "AlphaAnim",
+        "type": "ANIMATION",
+        "duration": "0.5",
+        "start": "0",
+        "param": "_alpha"
+      }
+    ],
+    "application": [
+      {
+        "toobject": "CANVAS",
+        "styles": "XScaleAnim, YScaleAnim,AlphaAnim"
+      },
+      {
+        "toobject": "DIVLINES",
+        "styles": "XScaleAnim,AlphaAnim"
+      },
+      {
+        "toobject": "VDIVLINES",
+        "styles": "YScaleAnim,AlphaAnim"
+      },
+      {
+        "toobject": "HGRID",
+        "styles": "YScaleAnim,AlphaAnim"
+      }
+    ]
+  }
+}

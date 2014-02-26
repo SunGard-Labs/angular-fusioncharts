@@ -1,0 +1,388 @@
+{
+  "chart": {
+    "xaxisname": "Months",
+    "yaxisname": "Sales",
+    "caption": "Cumulative Sales",
+    "subcaption": "(From Dec-03 to Dec-04)",
+    "animation": "1",
+    "numdivlines": "2",
+    "numberprefix": "$",
+    "showvalues": "0",
+    "yaxisminvalue": "-2000"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "Dec-03",
+          "showlabel": "1"
+        },
+        {
+          "label": "Jan-04",
+          "showlabel": "0"
+        },
+        {
+          "label": "Feb-04",
+          "showlabel": "1"
+        },
+        {
+          "label": "Mar-04",
+          "showlabel": "0"
+        },
+        {
+          "label": "Apr-04",
+          "showlabel": "1"
+        },
+        {
+          "label": "May-04",
+          "showlabel": "0"
+        },
+        {
+          "label": "Jun-04",
+          "showlabel": "1"
+        },
+        {
+          "label": "Jul-04",
+          "showlabel": "0"
+        },
+        {
+          "label": "Aug-04",
+          "showlabel": "1"
+        },
+        {
+          "label": "Sep-04",
+          "showlabel": "0"
+        },
+        {
+          "label": "Oct-04",
+          "showlabel": "1"
+        },
+        {
+          "label": "Nov-04",
+          "showlabel": "0"
+        },
+        {
+          "label": "Dec-04",
+          "showlabel": "1"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Product1",
+      "color": "0080C0",
+      "data": [
+        {
+          "value": "810"
+        },
+        {
+          "value": "930"
+        },
+        {
+          "value": "1110"
+        },
+        {
+          "value": "1300"
+        },
+        {
+          "value": "1890"
+        },
+        {
+          "value": "2350"
+        },
+        {
+          "value": "2740"
+        },
+        {
+          "value": "3050"
+        },
+        {
+          "value": "3570"
+        },
+        {
+          "value": "4390"
+        },
+        {
+          "value": "5610"
+        },
+        {
+          "value": "7160"
+        },
+        {
+          "value": "7750"
+        }
+      ]
+    },
+    {
+      "seriesname": "Product2",
+      "color": "008040",
+      "data": [
+        {
+          "value": "380"
+        },
+        {
+          "value": "390"
+        },
+        {
+          "value": "420"
+        },
+        {
+          "value": "490"
+        },
+        {
+          "value": "900"
+        },
+        {
+          "value": "1160"
+        },
+        {
+          "value": "1350"
+        },
+        {
+          "value": "1510"
+        },
+        {
+          "value": "1790"
+        },
+        {
+          "value": "2140"
+        },
+        {
+          "value": "2660"
+        },
+        {
+          "value": "3850"
+        },
+        {
+          "value": "4070"
+        }
+      ]
+    },
+    {
+      "seriesname": "Product3",
+      "color": "FFFF00",
+      "data": [
+        {
+          "value": "220"
+        },
+        {
+          "value": "240"
+        },
+        {
+          "value": "280"
+        },
+        {
+          "value": "350"
+        },
+        {
+          "value": "580"
+        },
+        {
+          "value": "630"
+        },
+        {
+          "value": "670"
+        },
+        {
+          "value": "740"
+        },
+        {
+          "value": "790"
+        },
+        {
+          "value": "920"
+        },
+        {
+          "value": "1050"
+        },
+        {
+          "value": "1290"
+        },
+        {
+          "value": "1320"
+        }
+      ]
+    },
+    {
+      "seriesname": "Product4",
+      "color": "800080",
+      "data": [
+        {
+          "value": "0"
+        },
+        {
+          "value": "0"
+        },
+        {
+          "value": "0"
+        },
+        {
+          "value": "20"
+        },
+        {
+          "value": "50"
+        },
+        {
+          "value": "50"
+        },
+        {
+          "value": "60"
+        },
+        {
+          "value": "60"
+        },
+        {
+          "value": "60"
+        },
+        {
+          "value": "80"
+        },
+        {
+          "value": "130"
+        },
+        {
+          "value": "170"
+        },
+        {
+          "value": "170"
+        }
+      ]
+    },
+    {
+      "seriesname": "Product5",
+      "color": "EB59CB",
+      "data": [
+        {
+          "value": "0"
+        },
+        {
+          "value": "0"
+        },
+        {
+          "value": "0"
+        },
+        {
+          "value": "0"
+        },
+        {
+          "value": "0"
+        },
+        {
+          "value": "0"
+        },
+        {
+          "value": "10"
+        },
+        {
+          "value": "10"
+        },
+        {
+          "value": "10"
+        },
+        {
+          "value": "10"
+        },
+        {
+          "value": "20"
+        },
+        {
+          "value": "20"
+        },
+        {
+          "value": "20"
+        }
+      ]
+    },
+    {
+      "seriesname": "Cancelled",
+      "color": "FFCC00",
+      "data": [
+        {
+          "value": "-50"
+        },
+        {
+          "value": "-50"
+        },
+        {
+          "value": "-70"
+        },
+        {
+          "value": "-90"
+        },
+        {
+          "value": "-100"
+        },
+        {
+          "value": "-110"
+        },
+        {
+          "value": "-150"
+        },
+        {
+          "value": "-260"
+        },
+        {
+          "value": "-320"
+        },
+        {
+          "value": "-350"
+        },
+        {
+          "value": "-500"
+        },
+        {
+          "value": "-630"
+        },
+        {
+          "value": "-650"
+        }
+      ]
+    },
+    {
+      "seriesname": "Deleted",
+      "color": "FF0000",
+      "data": [
+        {
+          "value": "-180"
+        },
+        {
+          "value": "-210"
+        },
+        {
+          "value": "-260"
+        },
+        {
+          "value": "-320"
+        },
+        {
+          "value": "-580"
+        },
+        {
+          "value": "-680"
+        },
+        {
+          "value": "-780"
+        },
+        {
+          "value": "-900"
+        },
+        {
+          "value": "-1060"
+        },
+        {
+          "value": "-1320"
+        },
+        {
+          "value": "-1520"
+        },
+        {
+          "value": "-1650"
+        },
+        {
+          "value": "-1660"
+        }
+      ]
+    }
+  ]
+}

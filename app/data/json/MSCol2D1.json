@@ -1,0 +1,135 @@
+{
+  "chart": {
+    "palette": "2",
+    "rotatenames": "0",
+    "animation": "1",
+    "numdivlines": "4",
+    "caption": "Global Export Index : 2004",
+    "basefont": "Arial",
+    "basefontsize": "12",
+    "useroundedges": "1",
+    "legendborderalpha": "0"
+  },
+  "categories": [
+    {
+      "font": "Arial",
+      "fontsize": "12",
+      "category": [
+        {
+          "label": "N. America",
+          "tooltext": "North America"
+        },
+        {
+          "label": "Asia"
+        },
+        {
+          "label": "Europe"
+        },
+        {
+          "label": "Australia"
+        },
+        {
+          "label": "Africa"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Data Series 1",
+      "color": "9ACCF6",
+      "alpha": "90",
+      "showvalues": "0",
+      "dashed": "1",
+      "data": [
+        {
+          "value": "30"
+        },
+        {
+          "value": "26"
+        },
+        {
+          "value": "29"
+        },
+        {
+          "value": "31"
+        },
+        {
+          "value": "34"
+        }
+      ]
+    },
+    {
+      "seriesname": "Data Series 2",
+      "color": "82CF27",
+      "showvalues": "0",
+      "alpha": "90",
+      "data": [
+        {
+          "value": "27"
+        },
+        {
+          "value": "25"
+        },
+        {
+          "value": "28"
+        },
+        {
+          "value": "26"
+        },
+        {
+          "value": "10"
+        }
+      ]
+    }
+  ],
+  "trendlines": [
+    {
+      "line": [
+        {
+          "startvalue": "20",
+          "endvalue": "35",
+          "color": "8BBA00",
+          "thickness": "1",
+          "alpha": "20",
+          "showontop": "0",
+          "displayvalue": "Trend 1",
+          "istrendzone": "1"
+        }
+      ]
+    }
+  ],
+  "styles": {
+    "definition": [
+      {
+        "name": "Anim1",
+        "type": "animation",
+        "param": "_xScale",
+        "start": "0",
+        "duration": "1"
+      },
+      {
+        "name": "Anim2",
+        "type": "animation",
+        "param": "_alpha",
+        "start": "0",
+        "duration": "1"
+      },
+      {
+        "name": "myCaptionFont",
+        "type": "font",
+        "align": "left"
+      }
+    ],
+    "application": [
+      {
+        "toobject": "TRENDLINES",
+        "styles": "Anim1, Anim2"
+      },
+      {
+        "toobject": "Caption",
+        "styles": "myCaptionFont"
+      }
+    ]
+  }
+}

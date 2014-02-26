@@ -1,0 +1,67 @@
+{
+  "chart": {
+    "caption": "Brand Winner",
+    "yaxisname": "Brand Value ($ m)",
+    "xaxisname": "Brand",
+    "bgcolor": "F1F1F1",
+    "showvalues": "0",
+    "canvasborderthickness": "1",
+    "canvasbordercolor": "999999",
+    "plotfillangle": "330",
+    "plotbordercolor": "999999",
+    "showalternatevgridcolor": "1",
+    "divlinealpha": "0"
+  },
+  "data": [
+    {
+      "label": "Coca-Cola",
+      "value": "67000",
+      "tooltext": "2006 Rank: 1, Country: US"
+    },
+    {
+      "label": "Microsoft",
+      "value": "56926",
+      "tooltext": "2006 Rank: 2, Country: US"
+    },
+    {
+      "label": "IBM",
+      "value": "56201",
+      "tooltext": "2006 Rank: 3, Country: US"
+    },
+    {
+      "label": "GE",
+      "value": "48907",
+      "tooltext": "2006 Rank: 4, Country: US"
+    },
+    {
+      "label": "Intel",
+      "value": "32319",
+      "tooltext": "2006 Rank: 5, Country: US"
+    },
+    {
+      "label": "Nokia",
+      "value": "30131",
+      "tooltext": "2006 Rank: 6, Country: Finland"
+    },
+    {
+      "label": "Toyota",
+      "value": "27941",
+      "tooltext": "2006 Rank: 7, Country: Japan"
+    },
+    {
+      "label": "Disney",
+      "value": "27848",
+      "tooltext": "2006 Rank: 8, Country: US"
+    },
+    {
+      "label": "McDonalds",
+      "value": "27501",
+      "tooltext": "2006 Rank: 9, Country: US"
+    },
+    {
+      "label": "Mercedes-Benz",
+      "value": "21795",
+      "tooltext": "2006 Rank: 10, Country: Germany"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "chart": {
+    "caption": "Web Statistics",
+    "subcaption": "Add To Favorites (% of unique visitors)",
+    "yaxismaxvalue": "100",
+    "bgcolor": "406181, 6DA5DB",
+    "bgalpha": "100",
+    "basefontcolor": "FFFFFF",
+    "canvasbgalpha": "0",
+    "canvasbordercolor": "FFFFFF",
+    "divlinecolor": "FFFFFF",
+    "divlinealpha": "100",
+    "numvdivlines": "10",
+    "vdivlineisdashed": "1",
+    "showalternatevgridcolor": "1",
+    "linecolor": "BBDA00",
+    "anchorradius": "4",
+    "anchorbgcolor": "BBDA00",
+    "anchorbordercolor": "FFFFFF",
+    "anchorborderthickness": "2",
+    "showvalues": "0",
+    "numbersuffix": "%",
+    "tooltipbgcolor": "406181",
+    "tooltipbordercolor": "406181",
+    "alternatehgridalpha": "5"
+  },
+  "data": [
+    {
+      "label": "Jan",
+      "value": "34"
+    },
+    {
+      "label": "Feb",
+      "value": "44"
+    },
+    {
+      "label": "Mar",
+      "value": "48"
+    },
+    {
+      "label": "Apr",
+      "value": "54"
+    },
+    {
+      "label": "May",
+      "value": "60"
+    },
+    {
+      "label": "Jun",
+      "value": "70"
+    },
+    {
+      "label": "Jul",
+      "value": "58"
+    },
+    {
+      "label": "Aug",
+      "value": "62"
+    },
+    {
+      "label": "Sep",
+      "value": "54"
+    },
+    {
+      "label": "Oct",
+      "value": "45"
+    },
+    {
+      "label": "Nov",
+      "value": "39"
+    },
+    {
+      "label": "Dec",
+      "value": "23"
+    }
+  ],
+  "styles": {
+    "definition": [
+      {
+        "name": "LineShadow",
+        "type": "shadow",
+        "color": "333333",
+        "distance": "6"
+      }
+    ],
+    "application": [
+      {
+        "toobject": "DATAPLOT",
+        "styles": "LineShadow"
+      }
+    ]
+  }
+}

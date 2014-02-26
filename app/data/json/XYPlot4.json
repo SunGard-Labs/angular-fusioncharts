@@ -1,0 +1,256 @@
+{
+  "chart": {
+    "caption": "Investment Overview",
+    "yaxisname": "Returns till date",
+    "xaxisname": "Age (years)",
+    "showlegend": "1",
+    "showlabels": "1",
+    "xaxismaxvalue": "10",
+    "xaxisminvalue": "0",
+    "drawquadrant": "1",
+    "quadrantlabeltl": "TopLeft Quadrant",
+    "quadrantlabeltr": "TopRight Quadrant",
+    "quadrantlabelbr": "BottomRight Quadrant",
+    "quadrantlabelbl": "BottomLeft Quadrant",
+    "quadrantlinethickness": "1",
+    "quadrantlinecolor": "000080",
+    "canvasbgalpha": "0",
+    "bgcolor": "ffffff"
+  },
+  "categories": [
+    {
+      "verticallinethickness": "1",
+      "category": [
+        {
+          "label": "1",
+          "x": "1",
+          "showverticalline": "1"
+        },
+        {
+          "label": "2",
+          "x": "2",
+          "showverticalline": "1"
+        },
+        {
+          "label": "3",
+          "x": "3",
+          "showverticalline": "1"
+        },
+        {
+          "label": "4",
+          "x": "4",
+          "showverticalline": "1"
+        },
+        {
+          "label": "5",
+          "x": "5",
+          "showverticalline": "1"
+        },
+        {
+          "label": "6",
+          "x": "6",
+          "showverticalline": "1"
+        },
+        {
+          "label": "7",
+          "x": "7",
+          "showverticalline": "1"
+        },
+        {
+          "label": "8",
+          "x": "8",
+          "showverticalline": "1"
+        },
+        {
+          "label": "9",
+          "x": "9",
+          "showverticalline": "1"
+        },
+        {
+          "label": "10",
+          "x": "10",
+          "showverticalline": "0"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Equities",
+      "color": "000000",
+      "plotborderthickness": "0",
+      "showplotborder": "1",
+      "anchorsides": "3",
+      "data": [
+        {
+          "id": "INVEQ324_2",
+          "x": "2.8",
+          "y": "33.6",
+          "tooltext": "Script C2: 2.8 yrs., 33.6%"
+        },
+        {
+          "id": "INVEQ324_3",
+          "x": "6.2",
+          "y": "24.8",
+          "tooltext": "Script D3: 6.2 yrs., 24.8%"
+        },
+        {
+          "id": "INVEQ324_4",
+          "x": "1",
+          "y": "80",
+          "tooltext": "Script E4: 1 yrs., 14%"
+        },
+        {
+          "id": "INVEQ324_5",
+          "x": "1.2",
+          "y": "160.4",
+          "tooltext": "Script F5: 1.2 yrs., 26.4%"
+        },
+        {
+          "id": "INVEQ324_6",
+          "x": "7.4",
+          "y": "114.4",
+          "tooltext": "Script G6: 4.4 yrs., 114.4%"
+        },
+        {
+          "id": "INVEQ324_7",
+          "x": "5.5",
+          "y": "220",
+          "tooltext": "Script H7: 8.5 yrs., 323%"
+        },
+        {
+          "id": "INVEQ324_8",
+          "x": "6.9",
+          "y": "289.8",
+          "tooltext": "Script I8: 6.9 yrs., 289.8%"
+        },
+        {
+          "id": "INVEQ324_9",
+          "x": "9.9",
+          "y": "287.1",
+          "tooltext": "Script J9: 9.9 yrs., 287.1%"
+        },
+        {
+          "id": "INVEQ324_9",
+          "x": "3",
+          "y": "280.1",
+          "tooltext": "Script J9: 9.9 yrs., 287.1%"
+        },
+        {
+          "id": "INVEQ324_9",
+          "x": "2",
+          "y": "240.1",
+          "tooltext": "Script J9: 9.9 yrs., 287.1%"
+        }
+      ]
+    },
+    {
+      "id": "DS2",
+      "seriesname": "Mutual Funds",
+      "color": "ff0000",
+      "showplotborder": "1",
+      "anchorradius": "4",
+      "data": [
+        {
+          "id": "INVMF324_3",
+          "x": "4.7",
+          "y": "230.3",
+          "tooltext": "Fund C: 4.7 yrs., 230.3%"
+        },
+        {
+          "id": "INVMF324_5",
+          "x": "3",
+          "y": "100",
+          "tooltext": "Fund E: 3 yrs., 24%"
+        },
+        {
+          "id": "INVMF324_6",
+          "x": "2",
+          "y": "94",
+          "tooltext": "Fund F: 2 yrs., 94%"
+        },
+        {
+          "id": "INVMF324_8",
+          "x": "7.9",
+          "y": "242.8",
+          "tooltext": "Fund H: 6.9 yrs., 289.8%"
+        },
+        {
+          "id": "INVMF324_10",
+          "x": "7.1",
+          "y": "333.7",
+          "tooltext": "Fund J: 7.1 yrs., 333.7%"
+        },
+        {
+          "id": "INVMF324_8",
+          "x": "8.5",
+          "y": "70",
+          "tooltext": "Fund H: 6.9 yrs., 289.8%"
+        },
+        {
+          "id": "INVMF324_9",
+          "x": "1.3",
+          "y": "310",
+          "tooltext": "Fund I: 1.3 yrs., 15.6%"
+        }
+      ]
+    }
+  ],
+  "trendlines": [
+    {
+      "line": [
+        {
+          "startvalue": "0",
+          "endvalue": "200",
+          "color": "ff0000",
+          "istrendzone": "1"
+        },
+        {
+          "startvalue": "200",
+          "endvalue": "400",
+          "color": "cccccc",
+          "istrendzone": "1"
+        }
+      ]
+    }
+  ],
+  "styles": {
+    "definition": [
+      {
+        "name": "myCaptionFont",
+        "type": "font",
+        "font": "Arial",
+        "size": "14",
+        "bold": "1",
+        "underline": "1"
+      },
+      {
+        "name": "myCaptionFont1",
+        "type": "font",
+        "font": "Arial",
+        "size": "12",
+        "bold": "1",
+        "underline": "0"
+      },
+      {
+        "name": "myCaptionFont2",
+        "type": "font",
+        "color": "00ff00"
+      }
+    ],
+    "application": [
+      {
+        "toobject": "Caption",
+        "styles": "myCaptionFont"
+      },
+      {
+        "toobject": "QUADRANTLABELS",
+        "styles": "myCaptionFont1"
+      },
+      {
+        "toobject": "TRENDVALUES",
+        "styles": "myCaptionFont2"
+      }
+    ]
+  }
+}

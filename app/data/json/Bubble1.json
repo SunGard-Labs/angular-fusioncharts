@@ -1,0 +1,138 @@
+{
+  "chart": {
+    "caption": "Cost vs Revenue",
+    "bgcolor": "FFFFFF",
+    "canvasbordercolor": "333333",
+    "numdivlines": "0",
+    "decimals": "1",
+    "numberprefix": "$",
+    "xaxisminvalue": "0.5",
+    "xaxismaxvalue": "4.5",
+    "bubblescale": "2",
+    "showlimits": "0",
+    "yaxismaxvalue": "2",
+    "chartrightmargin": "0",
+    "showplotborder": "0",
+    "plotfillalpha": "80",
+    "showborder": "0"
+  },
+  "categories": [
+    {
+      "verticallinecolor": "666666",
+      "verticallinealpha": "20",
+      "category": [
+        {
+          "label": "Quarter 1",
+          "x": "1"
+        },
+        {
+          "label": " ",
+          "x": "1.5",
+          "showverticalline": "1"
+        },
+        {
+          "label": "Quarter 2",
+          "x": "2"
+        },
+        {
+          "label": " ",
+          "x": "2.5",
+          "showverticalline": "1"
+        },
+        {
+          "label": "Quarter 3",
+          "x": "3"
+        },
+        {
+          "label": " ",
+          "x": "3.5",
+          "showverticalline": "1"
+        },
+        {
+          "label": "Quarter 4",
+          "x": "4"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Revenue",
+      "color": "FFCC33",
+      "showvalues": "0",
+      "data": [
+        {
+          "z": "4127654",
+          "x": "1",
+          "y": "1",
+          "name": "Revenue"
+        },
+        {
+          "z": "4226234",
+          "x": "2",
+          "y": "1",
+          "name": "Revenue"
+        },
+        {
+          "z": "5671565",
+          "x": "3",
+          "y": "1",
+          "name": "Revenue"
+        },
+        {
+          "z": "5134454",
+          "x": "4",
+          "y": "1",
+          "name": "Revenue"
+        }
+      ]
+    },
+    {
+      "seriesname": "Cost",
+      "color": "444444",
+      "showvalues": "0",
+      "data": [
+        {
+          "z": "2127654",
+          "x": "1",
+          "y": "1",
+          "name": "Cost"
+        },
+        {
+          "z": "2226234",
+          "x": "2",
+          "y": "1",
+          "name": "Cost"
+        },
+        {
+          "z": "2671565",
+          "x": "3",
+          "y": "1",
+          "name": "Cost"
+        },
+        {
+          "z": "2234454",
+          "x": "4",
+          "y": "1",
+          "name": "Cost"
+        }
+      ]
+    }
+  ],
+  "styles": {
+    "definition": [
+      {
+        "name": "myCaptionFont",
+        "type": "font",
+        "size": "14",
+        "bold": "1"
+      }
+    ],
+    "application": [
+      {
+        "toobject": "Caption",
+        "styles": "myCaptionFont"
+      }
+    ]
+  }
+}

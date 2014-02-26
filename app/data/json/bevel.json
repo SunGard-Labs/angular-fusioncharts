@@ -1,0 +1,155 @@
+{
+  "chart": {
+    "showvalues": "0",
+    "caption": "",
+    "subcaption": "",
+    "numberprefix": "$",
+    "chartrightmargin": "45",
+    "xaxisname": "",
+    "yaxisname": "",
+    "animation": "1",
+    "bgcolor": "FAF3FC",
+    "pyaxisname": "",
+    "showalternatehgridcolor": "0",
+    "numdivlines": "0",
+    "showyaxisvalues": "0",
+    "chartleftmargin": "30",
+    "charttopmargin": "35",
+    "chartbottommargin": "40",
+    "plotgradientcolor": "",
+    "showplotborder": "0",
+    "showshadow": "1",
+    "showborder": "1",
+    "canvasborderalpha": "0",
+    "yaxisvaluespadding": "10",
+    "valuepadding": "5",
+    "labelpadding": "6",
+    "canvasbordercolor": "800080",
+    "canvasborderthickness": "3",
+    "canvasbgratio": "0",
+    "canvasbgalpha": "5",
+    "bordercolor": "8F8F8F",
+    "borderalpha": "50",
+    "bgratio": "0",
+    "bgalpha": "30",
+    "yaxisnamepadding": "10",
+    "useroundedges": "0",
+    "canvasbgcolor": "F3E4F8",
+    "stack100percent": "0",
+    "basefontsize": "13",
+    "basefontcolor": "2F2F2F",
+    "basefont": "Tahoma",
+    "outcnvbasefontcolor": "2F2F2F",
+    "outcnvbasefontsize": "13",
+    "outcnvbasefont": "Verdana"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "2006"
+        },
+        {
+          "label": "2007"
+        },
+        {
+          "label": "2008"
+        },
+        {
+          "label": "2009"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "2008",
+      "data": [
+        {
+          "value": "340000",
+          "color": "A26696",
+          "color_cc": "A26696"
+        },
+        {
+          "value": "160000",
+          "color": "A26696",
+          "color_cc": "A26696"
+        },
+        {
+          "value": "220000",
+          "color": "A26696",
+          "color_cc": "A26696"
+        },
+        {
+          "value": "123000",
+          "color": "A26696",
+          "color_cc": "A26696"
+        }
+      ]
+    }
+  ],
+  "data": [
+    {
+      "value": "340000",
+      "color": "A26696",
+      "color_cc": "A26696",
+      "label": "2006"
+    },
+    {
+      "value": "160000",
+      "color": "A26696",
+      "color_cc": "A26696",
+      "label": "2007"
+    },
+    {
+      "value": "220000",
+      "color": "A26696",
+      "color_cc": "A26696",
+      "label": "2008"
+    },
+    {
+      "value": "123000",
+      "color": "A26696",
+      "color_cc": "A26696",
+      "label": "2009"
+    }
+  ],
+  "styles": {
+    "definition": [
+      {
+        "type": "Bevel",
+        "name": "Bevel_0",
+        "distance": "3",
+        "shadowcolor": "5B005B",
+        "shadowalpha": "100",
+        "highlightcolor": "800080",
+        "highlightalpha": "61",
+        "blury": "6",
+        "strength": "4",
+        "quality": "2"
+      },
+      {
+        "type": "Bevel",
+        "name": "Bevel_1",
+        "distance": "7",
+        "shadowcolor": "0F0F0F",
+        "shadowalpha": "100",
+        "highlightcolor": "0F0F0F",
+        "highlightalpha": "100",
+        "blurx": "8",
+        "blury": "11",
+        "strength": "2"
+      }
+    ],
+    "application": [
+      {
+        "toobject": "DATAPLOT",
+        "styles": "Bevel_0"
+      },
+      {
+        "toobject": "BACKGROUND",
+        "styles": "Bevel_1"
+      }
+    ]
+  }
+}

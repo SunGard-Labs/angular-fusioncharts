@@ -1,0 +1,106 @@
+{
+  "chart": {
+    "palette": "1",
+    "caption": "Sales",
+    "showlabels": "1",
+    "showvalues": "0",
+    "numberprefix": "$",
+    "syaxisvaluesdecimals": "2",
+    "connectnulldata": "0",
+    "pyaxisname": "Revenue",
+    "syaxisname": "Quantity",
+    "numdivlines": "4",
+    "formatnumberscale": "0"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "March"
+        },
+        {
+          "label": "April"
+        },
+        {
+          "label": "May"
+        },
+        {
+          "label": "June"
+        },
+        {
+          "label": "July"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Product A",
+      "color": "AFD8F8",
+      "showvalues": "0",
+      "data": [
+        {
+          "value": "25601.34"
+        },
+        {
+          "value": "20148.82"
+        },
+        {
+          "value": "17372.76"
+        },
+        {
+          "value": "35407.15"
+        },
+        {
+          "value": "38105.68"
+        }
+      ]
+    },
+    {
+      "seriesname": "Product B",
+      "color": "F6BD0F",
+      "showvalues": "0",
+      "data": [
+        {
+          "value": "57401.85"
+        },
+        {
+          "value": "41941.19"
+        },
+        {
+          "value": "45263.37"
+        },
+        {
+          "value": "117320.16"
+        },
+        {
+          "value": "114845.27",
+          "dashed": "1"
+        }
+      ]
+    },
+    {
+      "seriesname": "Total Quantity",
+      "color": "8BBA00",
+      "showvalues": "0",
+      "parentyaxis": "S",
+      "data": [
+        {
+          "value": "45000"
+        },
+        {
+          "value": "44835"
+        },
+        {
+          "value": "42835"
+        },
+        {
+          "value": "77557"
+        },
+        {
+          "value": "92633"
+        }
+      ]
+    }
+  ]
+}

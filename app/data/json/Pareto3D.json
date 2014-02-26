@@ -1,0 +1,38 @@
+{
+  "chart": {
+    "showvalues": "0",
+    "caption": "Software Testing Report",
+    "xaxisname": "Type of Bugs",
+    "pyaxisname": "No of Bugs"
+  },
+  "data": [
+    {
+      "value": "205",
+      "label": "GUI"
+    },
+    {
+      "value": "165",
+      "label": "Functional"
+    },
+    {
+      "value": "85",
+      "label": "Navigation"
+    },
+    {
+      "value": "62",
+      "label": "Cross Platform"
+    },
+    {
+      "value": "73",
+      "label": "Hardware"
+    },
+    {
+      "value": "131",
+      "label": "Runtime"
+    },
+    {
+      "value": "109",
+      "label": "Load Condition"
+    }
+  ]
+}

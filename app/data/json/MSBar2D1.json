@@ -1,0 +1,56 @@
+{
+  "chart": {
+    "caption": "Business Results",
+    "subcaption": "2004 v 2005",
+    "yaxisname": "Revenue (Millions)",
+    "showvalues": "0",
+    "useroundedges": "1"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "Hardware"
+        },
+        {
+          "label": "Software"
+        },
+        {
+          "label": "Service"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "2004",
+      "color": "FDC12E",
+      "data": [
+        {
+          "value": "124"
+        },
+        {
+          "value": "247"
+        },
+        {
+          "value": "156"
+        }
+      ]
+    },
+    {
+      "seriesname": "2005",
+      "color": "333333",
+      "data": [
+        {
+          "value": "156"
+        },
+        {
+          "value": "277"
+        },
+        {
+          "value": "123"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "chart": {
+    "showvalues": "0",
+    "caption": "Market Share Analysis",
+    "subcaption": "2009",
+    "numberprefix": "$",
+    "xaxisname": "Market Segment",
+    "yaxisname": "Market Share",
+    "animation": "1",
+    "stack100percent": "0",
+    "legendcaption": "Manufacturer",
+    "canvasbgangle": "0",
+    "canvasborderthickness": "2",
+    "chartleftmargin": "5",
+    "chartrightmargin": "15",
+    "charttopmargin": "10",
+    "chartbottommargin": "20",
+    "captionpadding": "10",
+    "xaxisnamepadding": "5",
+    "yaxisnamepadding": "5",
+    "yaxisvaluespadding": "2",
+    "labelpadding": "3",
+    "basefontsize": "10",
+    "outcnvbasefontsize": "12",
+    "zeroplanealpha": "80",
+    "zeroplanethickness": "2",
+    "bgcolor": "CBCBCB,E9E9E9",
+    "bgalpha": "10,10",
+    "showxaxispercentvalues": "1",
+    "usepercentdistribution": "1",
+    "plotgradientcolor": "",
+    "outcnvbasefontcolor": "8F8F8F"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "Desktop",
+          "widthpercent": ""
+        },
+        {
+          "label": "Laptop",
+          "widthpercent": "33"
+        },
+        {
+          "label": "Notebook",
+          "widthpercent": "34"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Alpha",
+      "color_cc": "1A86D3",
+      "color": "1A86D3",
+      "data": [
+        {
+          "value": "335000"
+        },
+        {
+          "value": "225100"
+        },
+        {
+          "value": "164200"
+        }
+      ]
+    },
+    {
+      "seriesname": "Beta",
+      "color_cc": "91C43E",
+      "color": "91C43E",
+      "data": [
+        {
+          "value": "245000"
+        },
+        {
+          "value": "198000"
+        },
+        {
+          "value": "120000"
+        }
+      ]
+    },
+    {
+      "seriesname": "Gamma",
+      "color": "BFBFBF",
+      "color_cc": "BFBFBF",
+      "data": [
+        {
+          "value": "298000"
+        },
+        {
+          "value": "109300"
+        },
+        {
+          "value": "153600"
+        }
+      ]
+    }
+  ]
+}

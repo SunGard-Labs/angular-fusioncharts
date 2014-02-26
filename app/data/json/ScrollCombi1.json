@@ -1,0 +1,419 @@
+{
+  "chart": {
+    "caption": "Hits per hour",
+    "linethickness": "2",
+    "showvalues": "0",
+    "areaovercolumns": "0",
+    "formatnumberscale": "0",
+    "useroundedges": "1",
+    "palette": "2",
+    "legendborderalpha": "0"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "00:00"
+        },
+        {
+          "label": "01:00"
+        },
+        {
+          "label": "02:00"
+        },
+        {
+          "label": "03:00"
+        },
+        {
+          "label": "04:00"
+        },
+        {
+          "label": "05:00"
+        },
+        {
+          "label": "06:00"
+        },
+        {
+          "label": "07:00"
+        },
+        {
+          "label": "08:00"
+        },
+        {
+          "label": "09:00"
+        },
+        {
+          "label": "10:00"
+        },
+        {
+          "label": "11:00"
+        },
+        {
+          "label": "12:00"
+        },
+        {
+          "label": "13:00"
+        },
+        {
+          "label": "14:00"
+        },
+        {
+          "label": "15:00"
+        },
+        {
+          "label": "16:00"
+        },
+        {
+          "label": "17:00"
+        },
+        {
+          "label": "18:00"
+        },
+        {
+          "label": "19:00"
+        },
+        {
+          "label": "20:00"
+        },
+        {
+          "label": "21:00"
+        },
+        {
+          "label": "22:00"
+        },
+        {
+          "label": "23:00"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Expected",
+      "renderas": "Area",
+      "alpha": "60",
+      "showplotborder": "1",
+      "plotbordercolor": "0372ab",
+      "data": [
+        {
+          "value": "498"
+        },
+        {
+          "value": "512"
+        },
+        {
+          "value": "592"
+        },
+        {
+          "value": "619"
+        },
+        {
+          "value": "664"
+        },
+        {
+          "value": "782"
+        },
+        {
+          "value": "665"
+        },
+        {
+          "value": "833"
+        },
+        {
+          "value": "1259"
+        },
+        {
+          "value": "1623"
+        },
+        {
+          "value": "1867"
+        },
+        {
+          "value": "2198"
+        },
+        {
+          "value": "1112"
+        },
+        {
+          "value": "1192"
+        },
+        {
+          "value": "1219"
+        },
+        {
+          "value": "2264"
+        },
+        {
+          "value": "2282"
+        },
+        {
+          "value": "2365"
+        },
+        {
+          "value": "2433"
+        },
+        {
+          "value": "2559"
+        },
+        {
+          "value": "2823"
+        },
+        {
+          "value": "2867"
+        },
+        {
+          "value": "2867"
+        },
+        {
+          "value": "2867"
+        }
+      ]
+    },
+    {
+      "seriesname": "Actuals - Monday",
+      "data": [
+        {
+          "value": "336"
+        },
+        {
+          "value": "371"
+        },
+        {
+          "value": "485"
+        },
+        {
+          "value": "592"
+        },
+        {
+          "value": "601"
+        },
+        {
+          "value": "716"
+        },
+        {
+          "value": "864"
+        },
+        {
+          "value": "880"
+        },
+        {
+          "value": "992"
+        },
+        {
+          "value": "1062"
+        },
+        {
+          "value": "1119"
+        },
+        {
+          "value": "1089"
+        },
+        {
+          "value": "1212"
+        },
+        {
+          "value": "904"
+        },
+        {
+          "value": "1215"
+        },
+        {
+          "value": "1358"
+        },
+        {
+          "value": "1482"
+        },
+        {
+          "value": "1666"
+        },
+        {
+          "value": "1811"
+        },
+        {
+          "value": "2051"
+        },
+        {
+          "value": "2138"
+        },
+        {
+          "value": "2209"
+        },
+        {
+          "value": "2247"
+        },
+        {
+          "value": "2301"
+        }
+      ]
+    },
+    {
+      "seriesname": "Actuals - Tuesday",
+      "data": [
+        {
+          "value": "854"
+        },
+        {
+          "value": "965"
+        },
+        {
+          "value": "1175"
+        },
+        {
+          "value": "1190"
+        },
+        {
+          "value": "1212"
+        },
+        {
+          "value": "1241"
+        },
+        {
+          "value": "1308"
+        },
+        {
+          "value": "1401"
+        },
+        {
+          "value": "1481"
+        },
+        {
+          "value": "1851"
+        },
+        {
+          "value": "1250"
+        },
+        {
+          "value": "2415"
+        },
+        {
+          "value": "2886"
+        },
+        {
+          "value": "3252"
+        },
+        {
+          "value": "3673"
+        },
+        {
+          "value": "4026"
+        },
+        {
+          "value": "4470"
+        },
+        {
+          "value": "4813"
+        },
+        {
+          "value": "4961"
+        },
+        {
+          "value": "5086"
+        },
+        {
+          "value": "5284"
+        },
+        {
+          "value": "5391"
+        },
+        {
+          "value": "5657"
+        },
+        {
+          "value": "5847"
+        }
+      ]
+    },
+    {
+      "seriesname": "Average",
+      "renderas": "Line",
+      "color": "0372AB",
+      "linethickness": "2",
+      "data": [
+        {
+          "value": "511"
+        },
+        {
+          "value": "520"
+        },
+        {
+          "value": "628"
+        },
+        {
+          "value": "640"
+        },
+        {
+          "value": "746"
+        },
+        {
+          "value": "757"
+        },
+        {
+          "value": "890"
+        },
+        {
+          "value": "1050"
+        },
+        {
+          "value": "1099"
+        },
+        {
+          "value": "1191"
+        },
+        {
+          "value": "1252"
+        },
+        {
+          "value": "1448"
+        },
+        {
+          "value": "1771"
+        },
+        {
+          "value": "2316"
+        },
+        {
+          "value": "2763"
+        },
+        {
+          "value": "3149"
+        },
+        {
+          "value": "3637"
+        },
+        {
+          "value": "4015"
+        },
+        {
+          "value": "4262"
+        },
+        {
+          "value": "4541"
+        },
+        {
+          "value": "4837"
+        },
+        {
+          "value": "5016"
+        },
+        {
+          "value": "5133"
+        },
+        {
+          "value": "5278"
+        }
+      ]
+    }
+  ],
+  "trendlines": [
+    {
+      "line": [
+        {
+          "startvalue": "4500",
+          "color": "359A35",
+          "displayvalue": "Good",
+          "valueonright": "1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "chart": {
+    "caption": "Temperature Monitoring (in degree C)",
+    "subcaption": "(on 7/9/2006)",
+    "xaxisname": "Time",
+    "yaxismaxvalue": "100",
+    "bgcolor": "91AF46,FFFFFF",
+    "divlinecolor": "91AF46",
+    "divlinealpha": "30",
+    "alternatehgridalpha": "5",
+    "canvasbordercolor": "666666",
+    "basefontcolor": "666666",
+    "linecolor": "91AF46",
+    "numvdivlines": "7",
+    "showalternatevgridcolor": "1",
+    "anchorsides": "3",
+    "anchorradius": "5",
+    "showvalues": "0"
+  },
+  "data": [
+    {
+      "label": "0",
+      "value": "34"
+    },
+    {
+      "label": "3",
+      "value": "27"
+    },
+    {
+      "label": "6",
+      "value": "42"
+    },
+    {
+      "label": "9",
+      "value": "50"
+    },
+    {
+      "label": "12",
+      "value": "68"
+    },
+    {
+      "label": "15",
+      "value": "56"
+    },
+    {
+      "label": "18",
+      "value": "48"
+    },
+    {
+      "label": "21",
+      "value": "34"
+    },
+    {
+      "label": "24",
+      "value": "30"
+    }
+  ],
+  "trendlines": [
+    {
+      "line": [
+        {
+          "startvalue": "50",
+          "endvalue": "80",
+          "displayvalue": "Warning",
+          "color": "BC9F3F",
+          "istrendzone": "1",
+          "showontop": "0",
+          "alpha": "25",
+          "valueonright": "1"
+        },
+        {
+          "startvalue": "80",
+          "endvalue": "100",
+          "displayvalue": "Critical",
+          "color": "894D1B",
+          "istrendzone": "1",
+          "showontop": "0",
+          "alpha": "25",
+          "valueonright": "1"
+        }
+      ]
+    }
+  ],
+  "styles": {
+    "definition": [
+      {
+        "name": "Anim1",
+        "type": "animation",
+        "param": "_alpha",
+        "start": "0",
+        "duration": "1"
+      }
+    ],
+    "application": [
+      {
+        "toobject": "TRENDLINES",
+        "styles": "Anim1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "chart": {
+    "palette": "4",
+    "caption": "Web Statistics",
+    "pyaxisname": "Views",
+    "syaxisname": "% of visitors",
+    "showvalues": "0",
+    "rotatelabels": "1",
+    "slantlabels": "1",
+    "plotspacepercent": "40",
+    "snumbersuffix": "%"
+  },
+  "categories": [
+    {
+      "category": [
+        {
+          "label": "Jan"
+        },
+        {
+          "label": "Feb"
+        },
+        {
+          "label": "Mar"
+        },
+        {
+          "label": "Apr"
+        },
+        {
+          "label": "May"
+        },
+        {
+          "label": "Jun"
+        },
+        {
+          "label": "Jul"
+        },
+        {
+          "label": "Aug"
+        },
+        {
+          "label": "Sep"
+        },
+        {
+          "label": "Oct"
+        },
+        {
+          "label": "Nov"
+        },
+        {
+          "label": "Dec"
+        }
+      ]
+    }
+  ],
+  "dataset": [
+    {
+      "seriesname": "Page Views",
+      "data": [
+        {
+          "value": "36000"
+        },
+        {
+          "value": "34300"
+        },
+        {
+          "value": "30000"
+        },
+        {
+          "value": "27800"
+        },
+        {
+          "value": "26000"
+        },
+        {
+          "value": "29000"
+        },
+        {
+          "value": "32000"
+        },
+        {
+          "value": "37500"
+        },
+        {
+          "value": "32000"
+        },
+        {
+          "value": "28500"
+        },
+        {
+          "value": "31000"
+        },
+        {
+          "value": "28000"
+        }
+      ]
+    },
+    {
+      "seriesname": "Add to Favorites",
+      "parentyaxis": "S",
+      "color": "CC3300",
+      "data": [
+        {
+          "value": "25"
+        },
+        {
+          "value": "23"
+        },
+        {
+          "value": "20"
+        },
+        {
+          "value": "18"
+        },
+        {
+          "value": "14"
+        },
+        {
+          "value": "17"
+        },
+        {
+          "value": "21"
+        },
+        {
+          "value": "25"
+        },
+        {
+          "value": "21"
+        },
+        {
+          "value": "20"
+        },
+        {
+          "value": "22"
+        },
+        {
+          "value": "20"
+        }
+      ]
+    },
+    {
+      "seriesname": "Set as Home page",
+      "parentyaxis": "S",
+      "color": "FFCC33",
+      "data": [
+        {
+          "value": "4"
+        },
+        {
+          "value": "5"
+        },
+        {
+          "value": "9"
+        },
+        {
+          "value": "11"
+        },
+        {
+          "value": "6"
+        },
+        {
+          "value": "4"
+        },
+        {
+          "value": "7"
+        },
+        {
+          "value": "9"
+        },
+        {
+          "value": "10"
+        },
+        {
+          "value": "12"
+        },
+        {
+          "value": "9"
+        },
+        {
+          "value": "14"
+        }
+      ]
+    }
+  ]
+}
