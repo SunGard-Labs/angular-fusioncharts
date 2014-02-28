@@ -1,5 +1,7 @@
 # AngularJS Integration For FusionCharts
 
+Version: 0.0.1
+
 ## About angular-fusioncharts
 
 For live examples and more on this project, visit its [GitHub page](http://sungard-labs.github.io/angular-fusioncharts).

@@ -34,10 +34,13 @@
       </div>
       <div class="span3">
           <div class="well">
-            <p><a class="btn btn-success btn-large" href="https://github.com/SunGard-Labs/angular-fusioncharts/tree/master/build">Download <small>v.0.0.1</small> &raquo;</a></p>
+            <p><a class="btn btn-success btn-large" href="https://github.com/SunGard-Labs/angular-fusioncharts/tree/master/build">Download &raquo;</a></p>
             <ul class="unstyled">
-              <li><a href="https://github.com/SunGard-Labs/angular-fusioncharts/CHANGELOG.md" >Release Notes</a></li>
-              <li><a href="https://github.com/SunGard-Labs/angular-fusioncharts" >Source Code</a></li>
+              <li>
+Version: 0.0.1
+              </li>
+              <li><a href="https://github.com/SunGard-Labs/angular-fusioncharts/CHANGELOG.md" > Release Notes </a></li>
+              <li><a href="https://github.com/SunGard-Labs/angular-fusioncharts" > Source Code </a></li>
             </ul>
           </div>
         <div ng-include="'app/partials/menu.html'"></div>
@@ -52,10 +55,11 @@
 
 </div><!--/.fluid-container-->
 
-  <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+  <script src="app/vendor/jquery/dist/jquery.js"></script>
   <script src="app/charts/FusionCharts.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.0.6/angular.min.js"></script>
-  <script src="build/angular-fusioncharts.js"></script>
+  <script src="app/vendor/angular/angular.js"></script>
+  <script src="app/vendor/angular-route/angular-route.js"></script>
+  <script src="dist/angular-fusioncharts.js"></script>
   <script src="app/js/app.js"></script>
   <script src="app/js/controllers.js"></script>
 

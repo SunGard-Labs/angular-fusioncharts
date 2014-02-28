@@ -1,4 +1,4 @@
-angular.module('SampleApp', [ 'fusioncharts' ]).config(['$routeProvider', function($routeProvider) {
+angular.module('SampleApp', [ 'fusioncharts', 'ngRoute' ]).config(['$routeProvider', function($routeProvider) {
   $routeProvider.
       when('/', { templateUrl: 'app/partials/home.html', controller: HomeCtrl }).
       when('/:action/', { templateUrl: 'app/partials/demo.html', controller: DemoCtrl }).

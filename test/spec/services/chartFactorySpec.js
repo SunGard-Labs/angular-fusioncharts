@@ -1,3 +1,4 @@
+var FusionCharts = jasmine.createSpy('FusionCharts');
 describe('fcChartFactory', function () {
     'use strict';
 

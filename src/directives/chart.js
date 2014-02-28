@@ -1,5 +1,7 @@
-fc.directive('fcChart', ['fcChartFactory', '$timeout', function(fcChartFactory, $timeout) {
+var fc = angular.module('fusioncharts', []);
 
+fc.directive('fcChart', ['fcChartFactory', '$timeout', function(fcChartFactory, $timeout) {
+    'use strict';
     return {
         restrict: 'AE',
         scope: {

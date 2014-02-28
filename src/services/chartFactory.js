@@ -1,4 +1,7 @@
+/* global fc */
+/* global FusionCharts */
 fc.provider('fcChartFactory', function() {
+    'use strict';
     var provider = this;
     var idCounter = 0;
 

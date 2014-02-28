@@ -1,9 +1,29 @@
 {
   "name": "angular-fusioncharts",
+  "description": "Integrating FusionCharts with AngularJS",
   "version": "0.0.1",
-  "main": "build/angular-fusioncharts.js",
+  "main": "dist/angular-fusioncharts.js",
+  "ignore": [
+    "app/vendor",
+    "doc",
+    "node_modules",
+    "test",
+    "karma.conf.js",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "homepage": "http://sungard-labs.github.io/angular-fusioncharts",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:SunGard-Labs/angular-fusioncharts.git"
+  },
+  "location": "",
+  "dependencies": {},
   "devDependencies": {
-    "jquery": "~1.9.1",
-    "angular-mocks": "~1.0.7"
+    "jquery": "~1.11.0",
+    "angular": "v1.2.12",
+    "angular-route": "v1.2.12",
+    "angular-mocks": "v1.2.12",
+    "angular-scenario": "v1.2.12"
   }
 }
