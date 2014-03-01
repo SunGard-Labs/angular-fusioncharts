@@ -559,7 +559,8 @@ function DemoCtrl($scope, $location, $routeParams, $http, $q, $timeout) {
     }
   );
   $scope.navClass = function (page) {
-    $scope.currentRoute = $location.path().match(/\/(\w+)\//)[1] || 'demo';
+    var routeMatch = $location.path().match(/\/(\w+)\//);
+    $scope.currentRoute = routeMatch && routeMatch[1] || 'demo';
     return page === $scope.currentRoute ? 'active' : '';
   };
 
