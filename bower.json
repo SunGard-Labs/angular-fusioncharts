@@ -10,7 +10,10 @@
     "test",
     "karma.conf.js",
     "Gruntfile.js",
-    "package.json"
+    "package.json",
+    "index.html",
+    "src",
+    ".*"
   ],
   "homepage": "http://sungard-labs.github.io/angular-fusioncharts",
   "repository": {
