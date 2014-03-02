@@ -61,7 +61,11 @@ height           | number           | The height of the chart.
 
 ### Chart Types
 
-#### Single Series Charts
+The following is for quick reference only and may vary depending on the version of the FusionCharts Suite that you are using. Consult the offial [FusionCharts Documentation](http://www.fusioncharts.com/developers/documentation/) for an accurate list.
+
+#### FusionCharts
+
+##### Single Series Charts
 
 Chart Type      | fc-chart-type
 ----------------|---------------
@@ -77,7 +81,7 @@ Doughnut 3D     | Doughnut3D
 Pareto 2D       | Pareto2D
 Pareto 3D       | Pareto3D
 
-#### Multi-series Charts
+##### Multi-series Charts
 
 Chart Type             | fc-chart-type
 -----------------------|---------------
@@ -90,7 +94,7 @@ Multi-series Area 2D   | MSArea
 Marimekko              | Marimekko
 Zoom Line              | ZoomLine
 
-#### Stacked Charts
+##### Stacked Charts
 
 Chart Type                     | fc-chart-type
 -------------------------------|------------------
@@ -101,7 +105,7 @@ Stacked Bar 3D                 | StackedBar3D
 Stacked Area 2D                | StackedArea2D
 Multi-series Stacked Column 2D | MSStackedColumn2D
 
-### Combination Charts
+##### Combination Charts
 
 Chart Type                     | fc-chart-type
 -------------------------------|------------------
@@ -115,14 +119,14 @@ Multi-series Column 3D + Multi-series Line - Dual Y Axis | MSColumn3DLineDY
 Stacked Column 3D + Line Dual Y Axis | StackedColumn3DLineDY
 Multi-series Stacked Column 2D + Line Dual Y Axis | MSStackedColumn2DLineDY
 
-#### XY Plot Charts
+##### XY Plot Charts
 
 Chart Type     | fc-chart-type
 ---------------|------------------
 Scatter Chart  | Scatter
 Bubble Chart   | Bubble
 
-#### Scroll Charts
+##### Scroll Charts
 
 Chart Type                      | fc-chart-type
 --------------------------------|------------------
@@ -133,11 +137,65 @@ Scroll Stacked Column 2D        | ScrollStackedColumn2D
 Scroll Combination 2D (Single Y)| ScrollCombi2D
 Scroll Combination 2D (Dual Y)  | ScrollCombiDY2D
 
-#### Others
+##### Others
 
 Chart Type                    | fc-chart-type
 ------------------------------|------------------
 Single Series Grid Component  | SSGrid
+
+#### FusionWidgets
+
+##### Gauges
+
+Chart/Gauge Type              | fc-chart-type
+------------------------------|------------------
+Real-time Angular             | AngularGauge
+Real-time Bulb                | Bulb
+Real-time Cylinder            | Cylinder
+Real-time Horizontal LED      | HLED
+Real-time Horizontal Linear   | HLinearGauge
+Real-time Thermometer         | Thermometer
+Real-time Vertical LED        | VLED
+
+##### Real-time data-streaming charts
+
+Chart/Gauge Type            | fc-chart-type
+----------------------------|------------------
+Real-time Area              | RealTimeArea
+Real-time Column            | RealTimeColumn
+Real-time Line              | RealTimeLine
+Real-time Stacked Area      | RealTimeStackedArea
+Real-time Stacked Column    | RealTimeStackedColumn
+Real-time Line (Dual Y)     | RealTimeLineDY
+
+##### Spark Charts
+
+Chart/Gauge Type    | fc-chart-type
+--------------------|------------------
+Spark Line          | SparkLine
+Spark Column        | SparkColumn
+Spark Win/Loss      | SparkWinLoss
+
+##### Bullet Graphs
+
+Chart/Gauge Type        | fc-chart-type
+------------------------|------------------
+Horizontal bullet graph | HBullet
+Vertical bullet graph   | VBullet
+
+##### Other charts
+
+Chart/Gauge Type        | fc-chart-type
+------------------------|------------------
+Funnel Chart            | Funnel  Funnel.swf
+Pyramid Chart           | Pyramid Pyramid.swf
+Gantt Chart Gantt       | Gantt.swf
+
+##### Drawing component
+
+Chart/Gauge Type    | fc-chart-type
+--------------------|------------------
+Drawing Pad         | DrawingPad
 
 
 ## Running unit tests
