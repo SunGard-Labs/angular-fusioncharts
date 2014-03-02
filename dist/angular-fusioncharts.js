@@ -22,7 +22,7 @@ fc.directive('fcChart', ['fcChartFactory', '$timeout', function(fcChartFactory, 
 
         replace: true,
 
-        link: function(scope, element) {
+        link: function(scope, element, attrs) {
 
             // holds the current chart instance
             var chart, handle;
@@ -81,7 +81,7 @@ fc.directive('fcChart', ['fcChartFactory', '$timeout', function(fcChartFactory, 
             scope.$watch('type', createChart);
 
             // watch if data changes
-            scope.$watch('data', reRenderOnChange, true);
+            scope.$watch('data', reRenderOnChange, !angular.isUndefined(attrs.dynamic));
 
             // watch if the data URL changes
             scope.$watch('dataUrl', reRenderOnChange);

@@ -55,6 +55,7 @@ fc-chart-type    | string           | One of the Chart Types listed below. Defau
 fc-data          | object/string    | The chart data & settings expected by fusion charts. Use a string for xml.
 fc-data-url      | string           | A URL pointing to the chart's data.
 fc-data-type     | string           | Can be xml or json, but will be guessed if not provided.
+dynamic          | -                | By being present, tells fcChart to use object comparison for fc-data's watch.
 width            | number           | The width of the chart.
 height           | number           | The height of the chart.
 
